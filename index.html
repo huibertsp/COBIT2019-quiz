@@ -1,0 +1,385 @@
+<!DOCTYPE html>
+<html lang="en">
+<!--
+General Purpose:
+This web application enables users to efficiently practice for the COBIT 2019 Foundation exam. 
+It delivers randomized question sets, tracks progress and performance, and leverages browser storage for adaptive learning.
+
+Version History:
+| Timestamp           | Description                                                                       |
+|---------------------|----------------------------------------------------------------------------------|
+| 2025-08-17 21:02 EDT| Initial release: responsive layout, 40-question selection, feedback, restart     |
+| 2025-08-18 13:49 EDT| Added version tracking and update logging in comment block per user instructions |
+| 2025-08-18 13:50 EDT| Feature: Exclude question for 7 days if answered correctly 3 times in a row      |
+| 2025-08-18 13:58 EDT| Moved version history between <html lang> and <head>; formatted as 2-column table|
+| 2025-09-27 09:00 EDT| Updated code to reflect COBIT 2019 exam (from TOGAF 10)                          |
+-->
+<head>
+  <meta charset="UTF-8" />
+  <title>COBIT 2019 - Foundation</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <style>
+    /* CSS unchanged – see previous version for details */
+    body {
+      font-family: Arial, sans-serif;
+      background: #f7f9fc;
+      margin: 0;
+      padding: 0;
+      color: #333;
+    }
+    header {
+      background: #283593;
+      color: #fff;
+      padding: 20px 5vw;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 5vw;
+      min-font-size: 24px;
+    }
+    header .meta {
+      font-size: 1.2em;
+      margin-top: 5px;
+      opacity: 0.9;
+    }
+    .container {
+      max-width: 800px;
+      width: 95vw;
+      margin: 4vw auto 10vw auto;
+      background: #fff;
+      padding: 6vw 5vw 5vw 5vw;
+      border-radius: 8px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.07);
+    }
+    .question {
+      font-size: 1.2em;
+      margin-bottom: 20px;
+    }
+    .options {
+      list-style: none;
+      padding: 0;
+    }
+    .options li {
+      margin: 12px 0;
+    }
+    .options button {
+      width: 100%;
+      padding: 14px 2vw;
+      font-size: 1em;
+      border: 2px solid #ddd;
+      border-radius: 6px;
+      cursor: pointer;
+      background: #fafafa;
+      transition: all 0.2s;
+      box-sizing: border-box;
+    }
+    .options button:hover,
+    .options button:focus {
+      background: #eaeaea;
+      outline: none;
+    }
+    .options button.correct {
+      background: #c8e6c9;
+      border-color: #388e3c;
+      color: #2e7d32;
+      font-weight: bold;
+    }
+    .options button.incorrect {
+      background: #ffcdd2;
+      border-color: #c62828;
+      color: #b71c1c;
+    }
+    .feedback {
+      font-size: 1em;
+      margin-top: 15px;
+      font-weight: bold;
+    }
+    .progress {
+      margin-top: 22px;
+      font-size: 1em;
+      color: #555;
+    }
+    .next-btn,
+    .restart-btn {
+      display: inline-block;
+      margin-top: 25px;
+      min-width: 110px;
+      padding: 13px 22px;
+      font-size: 1em;
+      border: none;
+      background: #283593;
+      color: #fff;
+      border-radius: 5px;
+      cursor: pointer;
+      transition: 0.2s;
+    }
+    .next-btn:hover, .restart-btn:hover,
+    .next-btn:focus, .restart-btn:focus {
+      background: #3949ab;
+      outline: none;
+    }
+    .result {
+      text-align: center;
+      font-size: 1.3em;
+      color: #222;
+      margin-top: 16px;
+    }
+    .pass {
+      color: #2e7d32;
+      font-weight: bold;
+    }
+    .fail {
+      color: #c62828;
+      font-weight: bold;
+    }
+    .error {
+      text-align: center;
+      color: #b71c1c;
+      background: #ffebee;
+      border: 1px solid #ef9a9a;
+      padding: 16px;
+      border-radius: 6px;
+    }
+    @media (max-width: 600px) {
+      header h1 {
+        font-size: 7vw;
+      }
+      .container {
+        max-width: 97vw;
+        padding: 6vw 2vw 7vw 2vw;
+      }
+      .options button {
+        font-size: 1.15em;
+        padding: 16px 3vw;
+      }
+      .next-btn, .restart-btn {
+        font-size: 1.1em;
+        padding: 16px 5vw;
+      }
+      .progress, .feedback, .result {
+        font-size: 1.08em;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>COBIT 2019 - Foundation</h1>
+    <div class="meta">
+      Version: v1.1 | Total Questions: <span id="total-questions">--</span>
+    </div>
+  </header>
+  <div class="container">
+    <div id="exam-area">
+      <p class="question" id="question-text">Loading question...</p>
+      <ul class="options" id="options-list"></ul>
+      <div class="feedback" id="feedback"></div>
+      <button class="next-btn" id="next-btn" style="display:none;">Next Question</button>
+      <div class="progress" id="progress"></div>
+    </div>
+    <div id="result-area" style="display:none;"></div>
+    <div id="error-area" class="error" style="display:none;"></div>
+  </div>
+  <script>
+    // ---- LocalStorage Management ----
+    function getQuestionHistory() {
+      try {
+        return JSON.parse(localStorage.getItem('questionHistory')) || {};
+      } catch (e) {
+        return {};
+      }
+    }
+    function setQuestionHistory(history) {
+      localStorage.setItem('questionHistory', JSON.stringify(history));
+    }
+    function excludeExpiredQuestions(history) {
+      const now = Date.now();
+      for (const id in history) {
+        if (
+          history[id].excludeUntil &&
+          now > history[id].excludeUntil
+        ) {
+          history[id].excludeUntil = null;
+          history[id].correctStreak = 0;
+        }
+      }
+      setQuestionHistory(history);
+      return history;
+    }
+
+    // ---- Core Quiz Logic ----
+    let allQuestions = [];
+    let questions = [];
+    let currentQuestion = 0;
+    let score = 0;
+    let lastSelectedQuestions = [];
+    let questionHistory = {};
+
+    function shuffle(array) {
+      for (let i = array.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [array[i], array[j]] = [array[j], array[i]];
+      }
+      return array;
+    }
+
+    async function loadQuestions() {
+      try {
+        const response = await fetch("questions.json");
+        if (!response.ok) throw new Error("Failed to load questions.json");
+        allQuestions = await response.json();
+        document.getElementById("total-questions").textContent = allQuestions.length;
+        questionHistory = getQuestionHistory();
+        questionHistory = excludeExpiredQuestions(questionHistory);
+        startNewQuizSession();
+      } catch (err) {
+        document.getElementById("error-area").style.display = "block";
+        document.getElementById("error-area").textContent = "Error: " + err.message;
+        document.getElementById("exam-area").style.display = "none";
+      }
+    }
+
+    function filterQuestionsForSession(rawQuestions) {
+      const now = Date.now();
+      return rawQuestions.filter(q => {
+        const hist = questionHistory[q.id];
+        // Only exclude if excludeUntil is set, and in the future
+        return !(
+          hist &&
+          hist.excludeUntil &&
+          now < hist.excludeUntil
+        );
+      });
+    }
+
+    function startNewQuizSession(newSet = true) {
+      score = 0;
+      currentQuestion = 0;
+
+      let availableQuestions = filterQuestionsForSession(allQuestions);
+      if (availableQuestions.length < 40 && allQuestions.length >= 40) {
+        alert('Fewer than 40 questions are available because some have been excluded for 7 days.');
+      }
+
+      if (newSet) {
+        questions = shuffle(availableQuestions.slice());
+        if (questions.length > 40) questions = questions.slice(0, 40);
+        lastSelectedQuestions = questions.slice();
+      } else {
+        questions = lastSelectedQuestions.slice().filter(q =>
+          availableQuestions.some(aval => aval.id === q.id)
+        );
+        if (questions.length === 0) {
+          alert('All questions in the previous set have been excluded for 7 days. A new set will be chosen.');
+          questions = shuffle(availableQuestions.slice());
+          if (questions.length > 40) questions = questions.slice(0, 40);
+          lastSelectedQuestions = questions.slice();
+        }
+      }
+
+      showQuestion();
+      document.getElementById("result-area").style.display = "none";
+      document.getElementById("exam-area").style.display = "block";
+    }
+
+    function showQuestion() {
+      const q = questions[currentQuestion];
+      document.getElementById("question-text").textContent = q.question;
+
+      // Shuffle answers and track new correct answer position
+      const optionsWithIndexes = q.options.map((opt, idx) => ({ opt, idx }));
+      shuffle(optionsWithIndexes);
+
+      questions[currentQuestion].shuffledOptions = optionsWithIndexes;
+      questions[currentQuestion].shuffledAnswer = optionsWithIndexes.findIndex(o => o.idx === q.answer);
+
+      const optionsList = document.getElementById("options-list");
+      optionsList.innerHTML = "";
+
+      optionsWithIndexes.forEach(({ opt }, index) => {
+        const li = document.createElement("li");
+        const btn = document.createElement("button");
+        btn.textContent = opt;
+        btn.onclick = () => handleAnswer(index);
+        li.appendChild(btn);
+        optionsList.appendChild(li);
+      });
+
+      document.getElementById("progress").textContent =
+        `Question ${currentQuestion + 1} of ${questions.length}`;
+      document.getElementById("feedback").textContent = "";
+      document.getElementById("next-btn").style.display = "none";
+    }
+
+    function handleAnswer(selectedIndex) {
+      const q = questions[currentQuestion];
+      const correctIndex = q.shuffledAnswer;
+      const optionButtons = document.querySelectorAll(".options button");
+
+      optionButtons.forEach((btn, idx) => {
+        btn.disabled = true;
+        if (idx === correctIndex) btn.classList.add("correct");
+        if (idx === selectedIndex && selectedIndex !== correctIndex) btn.classList.add("incorrect");
+      });
+
+      // Track question performance (by unique question id)
+      let hist = questionHistory[q.id] || { correctStreak: 0, excludeUntil: null };
+      if (selectedIndex === correctIndex) {
+        score++;
+        hist.correctStreak = (hist.correctStreak || 0) + 1;
+        document.getElementById("feedback").textContent = "✅ Correct!";
+      } else {
+        hist.correctStreak = 0;
+        document.getElementById("feedback").textContent =
+          `❌ Incorrect! Correct answer: ${q.shuffledOptions[correctIndex].opt}`;
+      }
+
+      // Exclude for 7 days if correctStreak hits 3
+      if (hist.correctStreak >= 3) {
+        hist.excludeUntil = Date.now() + (7 * 24 * 60 * 60 * 1000);
+        hist.correctStreak = 0;
+        document.getElementById("feedback").textContent +=
+          " This question will be excluded from sessions for 7 days!";
+      }
+      questionHistory[q.id] = hist;
+      setQuestionHistory(questionHistory);
+
+      document.getElementById("next-btn").style.display = "inline-block";
+      document.getElementById("next-btn").textContent =
+        currentQuestion === questions.length - 1 ? "Finish Exam" : "Next Question";
+    }
+
+    document.getElementById("next-btn").addEventListener("click", () => {
+      currentQuestion++;
+      if (currentQuestion < questions.length) {
+        showQuestion();
+      } else {
+        showResult();
+      }
+    });
+
+    function showResult() {
+      document.getElementById("exam-area").style.display = "none";
+      const resultArea = document.getElementById("result-area");
+      resultArea.style.display = "block";
+      const percentage = (score / questions.length) * 100;
+      const status = percentage >= 55 ?
+        `<span class="pass">PASS ✅</span>` :
+        `<span class="fail">FAIL ❌</span>`;
+      resultArea.innerHTML = `
+        <div class="result">
+          <p>Your Score: ${score} / ${questions.length} (${percentage.toFixed(2)}%)</p>
+          <p>Result: ${status}</p>
+          <button class="restart-btn" id="restart-btn">Restart Exam</button>
+        </div>`;
+      document.getElementById("restart-btn").addEventListener("click", () => {
+        const useNewSet = confirm("Do you want a NEW set of questions? Press Cancel for the same questions.");
+        startNewQuizSession(useNewSet);
+      });
+    }
+
+    loadQuestions();
+  </script>
+</body>
+</html>
