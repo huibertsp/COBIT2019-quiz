@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "question": "Which cycle in TOGAF ADM ensures continuous monitoring of architecture relevance?",
+    "options": [
+      "Preliminary Phase",
+      "Phase H",
+      "Phase G",
+      "Phase E"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 2,
+    "question": "Which ADM phase defines the scope and business intent of an architecture engagement?",
+    "options": [
+      "Phase A",
+      "Phase B",
+      "Phase E",
+      "Phase D"
+    ]
+]
