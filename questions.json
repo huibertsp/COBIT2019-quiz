@@ -109,5 +109,107 @@
       "maximized financial benefits to the investment portfolio."
     ],
     "answer": 1
+  },
+  {
+    "id": 12,
+    "question": "Which of the following should be addressed as an integral part of the implementation life cycle?",
+    "options": [
+      "Focus area.",
+      "Prioritization of governance objectives.",
+      "Program management."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 13,
+    "question": "The maturity and capability concepts are introduced in COBIT 2019 for better alignment with?",
+    "options": [
+      "CMMI",
+      "ISO 15504",
+      "COBIT 5 PAM"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 14,
+    "question": "What may happen when considering a larger number of design factors when designing a governance system?",
+    "options": [
+      "Some of design workflow steps or substeps may result in conflicting guidance",
+      "The overall cost of design may increase",
+      "The time of the governance system design may increase"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 15,
+    "question": "At which stage of governance system design current I&T related issues should be considered?",
+    "options": [
+      "Stage 1: Understand the enterprise context and strategy",
+      "Stage 2. Determine the initial scope of the governance system",
+      "Stage 3: Refine the scope of the governance system"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 16,
+    "question": "Where is the desire to change of executive management outlined?",
+    "options": [
+      "In the business case",
+      "In the project plan",
+      "In the project charter"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 17,
+    "question": "Which of the following is an example of I&T related issues?",
+    "options": [
+      "IT investment decision making, portfolio definition and maintenance.",
+      "Inability to exploit new technologies or innovate using I&T.",
+      "Optimization of internal business process functionality."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 18,
+    "question": "Role of IT and Compliance Requirements are examples of?",
+    "options": [
+      "Governance objectives.",
+      "Design Factors.",
+      "Management Objectives."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 19,
+    "question": "What are the four dimensions of the Balanced Scorecard?",
+    "options": [
+      "Growth, internal, customer and process",
+      "Growth, business, customer and financial",
+      "Growth, internal, customer and financial"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 20,
+    "question": "How many domains of Governance and Management is COBIT core model composed of?",
+    "options": [
+      "1 governance group, 1 management group",
+      "1 governance group, 4 management group",
+      "4 governance group, 1 management group"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 21,
+    "question": "Which of the following are based on generic components but are tailored for a specific purpose or context within a focus area?",
+    "options": [
+      "Generic components",
+      "Variant components",
+      "Specific components"
+    ],
+    "answer": 1
   }
 ]
+
+
