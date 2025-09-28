@@ -1,24 +1,113 @@
 [
   {
     "id": 1,
-    "question": "Which cycle in TOGAF ADM ensures continuous monitoring of architecture relevance?",
+    "question": "Complete the sentence. When considering agile development, Architecture to Support Project will identify what products the Enterprise needs, the boundary of the products, and what constraints a product owner has; this defines the Enterprise’s ______________.",
     "options": [
-      "Preliminary Phase",
-      "Phase H",
-      "Phase G",
-      "Phase E"
+      "operations",
+      "lifecycle economics",
+      "backlog",
+      "workflow management"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 2,
+    "question": "Who is responsible for the oversight of structures and mechanisms that drive enterprise governance of information and technology (EGIT)?",
+    "options": [
+      "Individual business units",
+      "External regulators",
+      "The board"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 3,
+    "question": "COBIT defines stakeholder value creation as which of the following?",
+    "options": [
+      "Realization of benefits at a controlled resource cost while controlling risk",
+      "Realization of benefits at an optimal resource cost while optimizing risk",
+      "Realization of benefits at a reduced resource cost while mitigating risk"
     ],
     "answer": 1
   },
   {
-    "id": 2,
-    "question": "Which ADM phase defines the scope and business intent of an architecture engagement?",
+    "id": 4,
+    "question": "The value that I&T delivers should be:",
     "options": [
-      "Phase A",
-      "Phase B",
-      "Phase E",
-      "Phase D"
-     ],
+      "aligned directly with the values on which the business is focused.",
+      "focused exclusively on I&T investments that generate financial benefits.",
+      "restricted to maintaining and increasing value derived from existing I&T investments."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 5,
+    "question": "COBIT addresses governance issues by doing which of the following?",
+    "options": [
+      "Grouping relevant governance components into objectives that can be managed to a required capability level",
+      "Providing a full description of the entire IT environment within an enterprise",
+      "Defining specific governance strategies and processes to implement in specific situations"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 6,
+    "question": "Which of the following is a guiding principle in the development of COBIT?",
+    "options": [
+      "COBIT aligns with other related and relevant I&T standards, frameworks and regulations",
+      "COBIT includes relevant content from other related I&T standards, frameworks and regulations.",
+      "COBIT serves as a comprehensive standalone framework that covers all relevant I&T-related activities."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 7,
+    "question": "Which of the following is an element of governance?",
+    "options": [
+      "Building plans to align with the direction set by the governance body",
+      "Monitoring activities designed to achieve enterprise objectives",
+      "Evaluating stakeholder needs to determine enterprise objectives"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 8,
+    "question": "In most cases, management of the enterprise is the responsibility of:",
+    "options": [
+      "the project management office.",
+      "the executive management team.",
+      "the board of directors."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 9,
+    "question": "Which of the following benefits derived from the use of COBIT is PRIMARILY associated with an external stakeholder?",
+    "options": [
+      "COBIT provides guidance on how to organize and monitor the performance of I&T across the enterprise.",
+      "COBIT helps to manage the dependency on the use of external service providers.",
+      "COBIT helps to ensure compliance with applicable rules and regulations."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 10,
+    "question": "The primary target audience for COBIT is:",
+    "options": [
+      "anyone responsible for the governance solution.",
+      "assurance professionals responsible for evaluating and reporting on the existence of internal controls.",
+      "business and IT management responsible for building and deploying I&T solutions."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 11,
+    "question": "Within the principles for a governance system, the value generated from the use of I&T reflects:",
+    "options": [
+      "the ratio of costs versus achieved service levels.",
+      "a balance among benefits, risk and resources.",
+      "maximized financial benefits to the investment portfolio."
+    ],
     "answer": 1
   }
 ]
