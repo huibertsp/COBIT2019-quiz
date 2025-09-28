@@ -209,7 +209,158 @@
       "Specific components"
     ],
     "answer": 1
+  },
+  {
+    "id": 22,
+    "question": "The enterprise goal titled `Optimization of Business Process Costs` is aligned to which balanced scorecard (BSC) dimension?",
+    "options": [
+      "Growth",
+      "Customer",
+      "Internal"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 23,
+    "question": "What is the focus of an enterprise that has a cost leadership strategy design factor?",
+    "options": [
+      "Long-term cost optimization",
+      "Medium-term cost equalization",
+      "Short-term cost minimization"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 24,
+    "question": "Within the COBIT goals cascade, stakeholder drivers are transformed into:",
+    "options": [
+      "the enterprise’s actionable strategy.",
+      "business unit performance metrics.",
+      "the enterprise’s governance framework."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 25,
+    "question": "Which of the following MUST be defined before determining alignment goals?",
+    "options": [
+      "External laws and regulations",
+      "Stakeholder drivers and needs",
+      "Governance and management objectives"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 26,
+    "question": "The alignment goal titled \"Delivery of programs on time, on budget and meeting requirements and quality standards\" is part of which IT balanced scorecard (BSC) dimension?",
+    "options": [
+      "Customer",
+      "Financial",
+      "Internal"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 27,
+    "question": "Which of the following would be an appropriate metric associated with an enterprise goal of `Business service continuity and availability`?",
+    "options": [
+      "Satisfaction levels of board and executive management with business process capabilities",
+      "Ratio of significant incidents that were not identified in risk assessments vs. total incidents",
+      "Number of business processing hours lost due to unplanned service interruptions"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 28,
+    "question": "Which of the following enterprise goals is within the Customer dimension of the IT balanced scorecard?",
+    "options": [
+      "Delivery of programs on time and on budget",
+      "Product and business innovation",
+      "Quality of management information"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 29,
+    "question": "Which of the following cascades to enterprise goals?",
+    "options": [
+      "Stakeholder needs",
+      "Organizational objectives",
+      "Enterprise strategy"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 30,
+    "question": "Which of the following metrics would BEST enable an enterprise to evaluate an alignment goal specifically related to security of information and privacy?",
+    "options": [
+      "Ratio and extent of erroneous business decisions in which erroneous I&T-related information was a key factor",
+      "Number of critical business processes supported by up-to-date infrastructure and applications",
+      "Number of confidentiality incidents causing financial loss, business disruption or public embarrassment."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 31,
+    "question": "Which of the following would be an appropriate metric to align with a goal of `Delivery of programs on time, on budget, and meeting requirements and quality standards`?",
+    "options": [
+      "Percent of stakeholders satisfied with program/project quality",
+      "Percent of business staff satisfied that IT service delivery meets agreed service levels",
+      "Level of user satisfaction with the quality and availability of I&T-related management information"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 32,
+    "question": "The alignment goal `Delivery of I&T services in line with business requirements` is organized into which IT balanced scorecard (BSC) dimension?",
+    "options": [
+      "Customer",
+      "Financial",
+      "Internal"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 33,
+    "question": "Which of the following management objectives is related to optimization of system performance?",
+    "options": [
+      "Managed I&T management framework",
+      "Managed availability and capacity",
+      "Managed service agreements"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 34,
+    "question": "Which of the following is MOST important to providing trust in operations, confidence in the achievement of enterprise objectives, and an adequate understanding of residual risk?",
+    "options": [
+      "A continuity of operations response plan",
+      "A risk management framework",
+      "A managed system of internal controls"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 35,
+    "question": "Which of the following BEST describes the `managed innovation` management objective of the COBIT core model?",
+    "options": [
+      "Optimize available IT capabilities to support the IT strategy and roadmap.",
+      "Achieve competitive advantage, improve customer experience and improve operational effectiveness.",
+      "Support the digital transformation strategy of the organization and deliver the desired value."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 36,
+    "question": "Which of the following is CRITICAL to ensuring I&T-related decisions are aligned with the enterprise's strategies and objectives?",
+    "options": [
+      "Compliance with legal, contractual and regulatory requirements is confirmed.",
+      "Technology and innovation processes are overseen by the board.",
+      "Assurance on controls is obtained from independent IT auditors."
+    ],
+    "answer": 0
   }
 ]
+
 
 
