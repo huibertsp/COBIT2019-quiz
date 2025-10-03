@@ -359,8 +359,459 @@
       "Assurance on controls is obtained from independent IT auditors."
     ],
     "answer": 0
+  },
+  {
+    "id": 37,
+    "question": "Which of the following best describes COBIT?",
+    "options": [
+      "COBIT is a framework for the governance and management of enterprise information and technology.",
+      "COBIT is a full description of the whole IT environment of an enterprise.",
+      "COBIT is a framework to organize business processes."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 38,
+    "question": "Which of the following is INCORRECT regarding Enterprise Governance of Information and Technology?",
+    "options": [
+      "Exercised by the board that oversees the definition and implementation of processes, structures and relational mechanisms.",
+      "The organization's CIO is accountable for the Enterprise Governance of Information and Technology",
+      "Enables both business and IT people to execute their responsibilities in support of business/IT alignment."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 39,
+    "question": "\"Provides guidance on how to organize and monitor performance of I&T across the enterprise\" is associated with which of the following internal stakeholders?",
+    "options": [
+      "Boards",
+      "Business partner",
+      "Executive management"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 40,
+    "question": "Management ensures that:",
+    "options": [
+      "IT plans, builds, runs and monitors activities, in alignment with the direction set by the governance body, to achieve the enterprise objectives.",
+      "Stakeholder needs, conditions and options are evaluated to determine balanced, agreed-on enterprise objectives.",
+      "Direction is set through prioritization and decision making."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 41,
+    "question": "Which of the following is INCORRECT regarding COBIT and other standards and frameworks?",
+    "options": [
+      "COBIT only focuses on standards and does not consider other frameworks or best practices",
+      "COBIT does not copy the contents of these related standards.",
+      "COBIT provides equivalent statements or references to related guidance."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 42,
+    "question": "Which COBIT 2019 Publication explores factors that can influence governance and includes a workflow for planning a tailored governance system for the enterprise?",
+    "options": [
+      "The COBIT 2019 Framework: Governance and Management Objectives",
+      "The COBIT 2019 Design Guide",
+      "The COBIT 2019 Implementation Guide"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 43,
+    "question": "What is the primary difference between Governance System Principles and Governance Framework Principles?",
+    "options": [
+      "Governance System Principles focus on stakeholder needs while Governance Framework Principles focus on Information and Technology (I&T) needs.",
+      "Governance System Principles and Governance Framework Principles are the same thing in COBIT 2019.",
+      "Governance System Principles describe the core requirements for a governance system while Governance Framework Principles focus on building that governance system."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 44,
+    "question": "\"A governance system should be customized to the enterprise's needs, using a set of design factors as parameters to customize and prioritize the governance system components\" is an example of which Governance System Principle?",
+    "options": [
+      "Tailored to enterprise needs",
+      "Open and flexible",
+      "Goals cascade"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 45,
+    "question": "A governance or management objective always relates to _____ and a series of related components of other types to help achieve the objective.",
+    "options": [
+      "compliance requirements",
+      "one process",
+      "one governance framework principle"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 46,
+    "question": "Which of the following is NOT a component of the governance system?",
+    "options": [
+      "Enterprise size",
+      "Organizational structures",
+      "Information"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 47,
+    "question": "_______________ are factors that can influence the design of an enterprise's governance system and position it for success in the use of I&T.",
+    "options": [
+      "Components of the governance system",
+      "Alignment goals",
+      "Design factors"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 48,
+    "question": "Which of the following is a design factor for a governance system that supports prioritization of management objectives based on prioritization of enterprise goals?",
+    "options": [
+      "Balanced scorecard",
+      "Holistic approach",
+      "Risk Profile"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 49,
+    "question": "In the \"Role of IT\" Design factor, which of the following describes a STRATEGIC IT role?",
+    "options": [
+      "IT is critical for both running and innovating the organization's business processes and services.",
+      "When IT fails, there is an immediate impact on the running and continuity of the business processes and services. However, IT is not seen as a driver for innovating business processes and services.",
+      "IT is not crucial for the running and continuity of the business process and services, nor for their innovation."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 50,
+    "question": "Which of the following describes the correct sequence in the goals cascade?",
+    "options": [
+      "EDM, APO, BAI, DSS, MEA",
+      "Stakeholder drivers and needs, enterprise goals, alignment goals, governance and management objectives",
+      "Where are we now, where do we want to be, how do we get there, how do we keep the momentum"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 51,
+    "question": "Which of the following is NOT CORRECT regarding Governance and Management Objectives?",
+    "options": [
+      "A governance or management objective always relates to one process and a series of related components of other types to help achieve the objective.",
+      "A governance objective relates to a governance process, while a management objective relates to a governance component.",
+      "Governance processes typically are under the accountability of boards and executive management; management processes are the domain of senior and middle management."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 52,
+    "question": "Which of the following is a Management Domain?",
+    "options": [
+      "Evaluate, Direct and Monitor",
+      "Balanced Scorecard",
+      "Deliver, Service and Support"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 53,
+    "question": "\"An organized set of practices and activities to achieve certain objectives and produce a set of outputs that support achievement of overall IT-related goals\" is a description of which of the following?",
+    "options": [
+      "Process Design Factor",
+      "Organizational Structures Component",
+      "Process Component"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 54,
+    "question": "More information and detailed guidance on how to use the design factors for designing a governance system can be found in the ___________ publication.",
+    "options": [
+      "COBIT 2019 Implementation Guide",
+      "COBIT 2019 Design Guide",
+      "COBIT 2019 Enabler Guide"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 55,
+    "question": "Governance ________ are factors that, individually and collectively, contribute to the good operations of the enterprise's governance system over I&T and were known as enablers in COBIT 5.",
+    "options": [
+      "components",
+      "goals",
+      "practices"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 56,
+    "question": "Which two levels of involvement does COBIT 2019 identify within the updated RACI chart?",
+    "options": [
+      "Consulted and informed",
+      "Responsible and accountable",
+      "Ownership and delegated"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 57,
+    "question": "Which Governance or Management Objective has the following purpose statement? \"Realize defined project outcomes and reduce the risk of unexpected delays, costs and value erosion by improving communications to and involvement of business and end users. Ensure the value and quality of project deliverables and maximize their contribution to the defined programs and investment portfolio.\"",
+    "options": [
+      "BAI11 Managed Projects",
+      "BAI02 Managed Requirements Definition",
+      "APO09 Managed Service Agreements"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 58,
+    "question": "Which Governance or Management Objective has the following purpose statement? \"Achieve competitive advantage, business innovation, improved customer experience, and improved operational effectiveness and efficiency by exploiting I&T developments and emerging technologies.\"",
+    "options": [
+      "APO01 Managed Service Catalog",
+      "APO04 Managed Innovation",
+      "BAI08 Managed Knowledge"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 59,
+    "question": "Within the COBIT Goals Cascade, under which Balanced Scorecard dimension would you find the Enterprise Goal \"Managed digital transformation programs?\"",
+    "options": [
+      "Align, Plan and Organize (APO)",
+      "DevOps",
+      "Growth"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 60,
+    "question": "How many Governance and Management Objectives are in the COBIT Core?",
+    "options": [
+      "5",
+      "37",
+      "40"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 61,
+    "question": "The Goals Cascade uses _______ relationships to describe the connection between enterprise goals, alignment goals and governance and management objectives.",
+    "options": [
+      "Responsible and accountable",
+      "Maturity and capability",
+      "Primary and secondary"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 62,
+    "question": "The Management Objective, Managed Vendors is part of which Management Domain?",
+    "options": [
+      "Evaluate, Direct and Monitor",
+      "Capability level 5",
+      "Align, Plan and Organize"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 63,
+    "question": "The Management Objective, Managed Problems is part of which Management Domain?",
+    "options": [
+      "Deliver, Service and Support",
+      "Monitor, Evaluate and Assess",
+      "Ensured Benefits Delivery"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 64,
+    "question": "Which of the following is NOT a role or organizational structure defined in the context of COBIT 2019?",
+    "options": [
+      "Relationship Manager",
+      "Chief Digital Officer",
+      "COBIT Framework Owner"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 65,
+    "question": "Which of the following is a key principle to COBIT Performance Management (CPM)?",
+    "options": [
+      "The CPM should include 5 levels of capability and maturity.",
+      "Assessing performance should be completed at the governance component level only.",
+      "The CPM should support different types of assessments."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 66,
+    "question": "COBIT 2019 Performance management supports which industry-based process capability scheme?",
+    "options": [
+      "CMMI-based process capability scheme.",
+      "COBIT has its own capability scheme and does not support any industry-based frameworks.",
+      "Skills Framework for the Information Age (SFIA)."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 67,
+    "question": "When rating capability levels, less formal methods often include which of the following range of ratings based on COBIT Performance Management suggestions?",
+    "options": [
+      "0, 1, 2, 3, 4, 5",
+      "Fully, Largely, Partially, Not",
+      "High, medium, low"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 68,
+    "question": "A rating of FULLY indicates which of the following?",
+    "options": [
+      "The capability level is achieved for more than 85 percent.",
+      "The capability level is achieved between 15 percent and 50 percent.",
+      "The capability level is achieved less than 15 percent."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 69,
+    "question": "Which process capability level indicates that the process achieves its purpose, is well defined, and its performance is (quantitatively) measured?",
+    "options": [
+      "Level 0",
+      "Level 2",
+      "Level 4"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 70,
+    "question": "Which of the following includes good practices for organizational structures that can be used to assess performance of this component?",
+    "options": [
+      "RACI chart evaluation",
+      "Understanding principles, policies and procedures",
+      "Escalation procedures"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 71,
+    "question": "Designing a tailored governance system will result in recommendations for prioritizing governance and management objectives or related governance system components, for ____________, or for adopting specific variants of a governance system component.",
+    "options": [
+      "target capability levels",
+      "documenting the four enabler dimensions",
+      "documenting the most appropriate accountabilities and responsibilities"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 72,
+    "question": "Which of the following is the correct set of steps in the governance system design workflow?",
+    "options": [
+      "Understand the enterprise context and strategy; Determine the initial scope of the governance system; Refine the scope of the governance system; Conclude the governance system design.",
+      "What are the drivers; Where are we now; Where to we want to be; What needs to be done; How do we get there; Did we get there; How do we keep the momentum going.",
+      "Direct the governance system; Plan the governance system; Build the governance system; Run the governance system; Monitor the governance system."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 73,
+    "question": "In which stage of the Governance System Design Workflow would an enterprise consider the current I&T-related issues?",
+    "options": [
+      "Understand enterprise strategy",
+      "Determine the initial scope of the governance system",
+      "Plan program"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 74,
+    "question": "In which step of the Governance System Design Workflow would you resolve inherent priority conflicts?",
+    "options": [
+      "Step 2, Determine the initial scope of the governance system",
+      "Step 4, Conclude the governance system design",
+      "Step 1, What are the drivers?"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 75,
+    "question": "When developing a business case, which of the following is an applicable reference when deriving challenges and success factors?",
+    "options": [
+      "COBIT Design Factors",
+      "The COBIT 2019 Implementation Guide",
+      "All of the above"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 76,
+    "question": "What is the best description of the alignment between the COBIT Implementation and Design Guides?",
+    "options": [
+      "They both require all Governance and Management objectives to be assessed at a high maturity level.",
+      "Both approaches have seven steps, and each of those steps aligns with each other.",
+      "The COBIT Design Guide primarily aligns with the first three phases of the implementation lifecycle."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 77,
+    "question": "In which phase of the implementation lifecycle would an enterprise \"Define the Road Map\" for the implementation?",
+    "options": [
+      "Phase 3, Where do we want to be?",
+      "Phase 6, Did we get there?",
+      "Phase 1, Assess Current State"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 78,
+    "question": "The Implementation lifecycle has three perspectives, or rings. Which of the following is the correct description of these?",
+    "options": [
+      "Portfolio Management, Program Management, Project Management",
+      "Program Management, Change Enablement, Continual Improvement",
+      "Initiate program, establish desire to change, recognize need to act"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 79,
+    "question": "In Phase 1 of the Implementation lifecycle, a _________ is identified as an internal or external event, condition or key issue that serves as a stimulus for change.",
+    "options": [
+      "Governance objective",
+      "Business case",
+      "Change driver"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 80,
+    "question": "During phase 7 of the Implementation lifecycle, which of the following tasks would be part of Change Enablement?",
+    "options": [
+      "Review effectiveness",
+      "Monitor and evaluate",
+      "Sustain"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 81,
+    "question": "Phase _________ of the Implementation lifecycle sets a target for improvement followed by a gap analysis to identify potential solutions.",
+    "options": [
+      "3, Where do we want to be?",
+      "1, What are the drivers?",
+      "2, What needs to be done"
+    ],
+    "answer": 0
   }
 ]
+
 
 
 
