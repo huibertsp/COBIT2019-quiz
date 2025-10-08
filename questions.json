@@ -809,9 +809,166 @@
       "2, What needs to be done"
     ],
     "answer": 0
+  },
+  {
+    "id": 82,
+    "question": "An enterprise will often fail to realize implementation commitments during the execution of an EGIT implementation program plan if it:",
+    "options": [
+      "leverages existing mechanisms and ways of working.",
+      "simplifies the implementation process.",
+      "reduces projects into smaller executable pieces.",
+      "focuses on enabling IT value over business value."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 83,
+    "question": "Which of the following is an important desired outcome to be achieved from the execution of an EGIT implementation program plan?",
+    "options": [
+      "Completion of EGIT project implementation regardless of the amount of time required",
+      "Transition of EGIT projects into the enterprise's normal development life cycle",
+      "Development of a record of unapproved EGIT projects",
+      "Mitigation of all risks associated with the implementation of EGIT projects"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 84,
+    "question": "The alignment goal titled \"Enabling and supporting business processes by integrating applications and technology\" is aligned to which IT balanced scorecard (BSC) dimension?",
+    "options": [
+      "Financial",
+      "Internal",
+      "Customer"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 85,
+    "question": "Which of the following is an enterprise goal according to COBIT?",
+    "options": [
+      "Managed IT-related risks",
+      "IT compliance with internal policies",
+      "Business service continuity and availability"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 86,
+    "question": "Ensuring the program team knows and understands the enterprise goals is a part of which of the following implementation phases?",
+    "options": [
+      "Where are we now?",
+      "How do we get there?",
+      "Where do we want to be?",
+      "What are the drivers?"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 87,
+    "question": "Which of the following management objectives would be given HIGHER priority in an enterprise's governance system when the enterprise is very risk-averse?",
+    "options": [
+      "Managed operations",
+      "Managed security",
+      "Managed portfolio"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 88,
+    "question": "Which of the following stakeholders ensures the business case and program plan are realistic and achievable?",
+    "options": [
+      "IT process owners",
+      "Business process owners",
+      "Chief information officer (CIO)",
+      "Implementation team"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 89,
+    "question": "An enterprise has been consistently growing over the years and has decided to adapt the COBIT framework from the growth perspective of the balanced scorecard dimensions. Which of the following enterprise goals is MOST relevant to select?",
+    "options": [
+      "Customer-oriented service culture",
+      "Managed business risk",
+      "Optimization of business process costs",
+      "Product and business innovation"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 90,
+    "question": "What is the BEST way for senior leadership to communicate its expectations for IT governance prior to commencing a governance implementation plan?",
+    "options": [
+      "Include a scope statement in the business case.",
+      "Add key performance indicators (KPIs) to a balanced scorecard.",
+      "Generate an IT governance policy."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 91,
+    "question": "Which I&T-related issues should be considered as part of the design factors for a governance system in order to manage",
+    "options": [
+      "risks that have a high probability.",
+      "risks that could materialize.",
+      "risks that have a high impact.",
+      "risks that have already materialized."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 92,
+    "question": "Which of the following components should be considered for inclusion when considering the threat landscape design factor?",
+    "options": [
+      "Compliance and assurance capabilities",
+      "Impact and probability levels",
+      "Information flows including security policy",
+      "Information security focus areas"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 93,
+    "question": "Which of the following l&T implementation methods requites the HIGHEST level of participation by users at multiple stages of software development?",
+    "options": [
+      "Hybrid",
+      "Traditional",
+      "DevOps",
+      "Agile"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 94,
+    "question": "Which of the following inputs MUST be defined before the planning for a new governance framework can be finalized?",
+    "options": [
+      "Performance management",
+      "Enterprise goals",
+      "Risk frameworks",
+      "Implementation costs"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 95,
+    "question": "Which of the following is a KEY consideration when finalizing a governance system design with competing priorities?",
+    "options": [
+      "The enterprise should defer final design decisions to executive management to minimize conflicts among business stakeholders.",
+      "The enterprise should ensure all steps in the proposed workflow are applied when focusing on a very specific issue or initiative.",
+      "The enterprise should refer to the COBIT design workflow for universally applicable guidelines to resolve conflicting priorities.",
+      "The enterprise should be prepared to deviate from previously identified priorities with justified reasons."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 96,
+    "question": "A CIO of a global enterprise has been mandated by the board to change the IT organizational structure from a divisional model to a centralized model and adopt outsourcing as required. The CIO identifies specific design factors that increase the importance of certain governance and management objectives. Which of the following is MOST likely to increase as a result?",
+    "options": [
+      "Risk appetite and tolerance",
+      "Capability levels",
+      "Threat landscape",
+      "IT deployment"
+    ],
+    "answer": 1
   }
 ]
-
-
-
-
