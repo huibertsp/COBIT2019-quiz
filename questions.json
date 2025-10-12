@@ -871,7 +871,7 @@
       "Managed security",
       "Managed portfolio"
     ],
-    "answer": 2
+    "answer": 1
   },
   {
     "id": 88,
@@ -882,7 +882,7 @@
       "Chief information officer (CIO)",
       "Implementation team"
     ],
-    "answer": 2
+    "answer": 1
   },
   {
     "id": 89,
@@ -893,7 +893,7 @@
       "Optimization of business process costs",
       "Product and business innovation"
     ],
-    "answer": 1
+    "answer": 3
   },
   {
     "id": 90,
@@ -903,7 +903,7 @@
       "Add key performance indicators (KPIs) to a balanced scorecard.",
       "Generate an IT governance policy."
     ],
-    "answer": 0
+    "answer": 2
   },
   {
     "id": 91,
@@ -969,6 +969,6 @@
       "Threat landscape",
       "IT deployment"
     ],
-    "answer": 1
+    "answer": 0
   }
 ]
