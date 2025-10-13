@@ -2290,8 +2290,229 @@
       "It cannot be customized"
     ],
     "answer": 1
+  },
+  {
+    "id": 217,
+    "question": "What is the first step in implementing COBIT 2019 in an enterprise?",
+    "options": [
+      "Define the implementation roadmap",
+      "Assess the current governance system",
+      "Select performance metrics",
+      "Establish governance components"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 218,
+    "question": "During COBIT 2019 implementation, tailoring means:",
+    "options": [
+      "Following all processes strictly",
+      "Adjusting the framework to enterprise needs",
+      "Ignoring business objectives",
+      "Outsourcing governance tasks"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 219,
+    "question": "Which tool helps identify gaps in the current governance system?",
+    "options": [
+      "Risk register",
+      "Capability and maturity assessment",
+      "Vendor contracts",
+      "Security policy"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 220,
+    "question": "What role does leadership play in COBIT implementation?",
+    "options": [
+      "Passive observer",
+      "Champions and sponsors of governance change",
+      "Temporary participants",
+      "Technical developers only"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 221,
+    "question": "A key element to a successful COBIT implementation is:",
+    "options": [
+      "Ignoring stakeholder needs",
+      "Clear communication and engagement",
+      "Avoiding training",
+      "Using rigid standards"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 222,
+    "question": "What is the purpose of developing an implementation roadmap?",
+    "options": [
+      "To eliminate governance roles",
+      "To provide a step-by-step plan for deploying governance components",
+      "To list IT assets",
+      "To reduce compliance requirements"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 223,
+    "question": "Which phase comes after identifying improvement opportunities in COBIT implementation?",
+    "options": [
+      "Designing the future governance system",
+      "Conducting audits",
+      "Writing technical manuals",
+      "Deploying new hardware"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 224,
+    "question": "How is performance monitored during COBIT implementation?",
+    "options": [
+      "Ignored until completion",
+      "Using defined metrics and regular reviews",
+      "By IT administrators only",
+      "With external consultants only"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 225,
+    "question": "What is a common challenge when implementing COBIT 2019?",
+    "options": [
+      "Lack of understanding of enterprise context",
+      "Too much budget",
+      "Excessive automation",
+      "Overstaffing"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 226,
+    "question": "What is essential for sustaining governance improvements?",
+    "options": [
+      "Regular assessments and updates",
+      "One-time implementation",
+      "Limited stakeholder involvement",
+      "Ignoring feedback"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 227,
+    "question": "Which document defines the scope and objectives of a COBIT implementation?",
+    "options": [
+      "Implementation charter",
+      "Security policy",
+      "Service level agreement",
+      "Risk register"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 228,
+    "question": "During implementation, stakeholder engagement is important because:",
+    "options": [
+      "It ensures buy-in and support",
+      "It delays the process",
+      "It increases costs unnecessarily",
+      "It is optional"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 229,
+    "question": "In COBIT 2019 implementation, what does \"quick wins\" refer to?",
+    "options": [
+      "Short-term gains that demonstrate value early",
+      "Ignoring long-term goals",
+      "Postponing difficult tasks",
+      "Outsourcing all activities"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 230,
+    "question": "What should be done after designing the future governance system?",
+    "options": [
+      "Develop detailed implementation plans",
+      "Close the project",
+      "Avoid change management",
+      "Skip training sessions"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 231,
+    "question": "Which COBIT 2019 tool helps track progress during implementation?",
+    "options": [
+      "Performance dashboards",
+      "Incident logs",
+      "Vendor evaluations",
+      "Backup schedules"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 232,
+    "question": "Why is continuous improvement emphasized in COBIT implementation?",
+    "options": [
+      "Governance needs evolve with enterprise changes",
+      "To reduce costs immediately",
+      "Because initial design is always perfect",
+      "To finalize the project quickly"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 233,
+    "question": "What type of training should accompany COBIT implementation?",
+    "options": [
+      "Role-specific and relevant to governance changes",
+      "Generic IT training only",
+      "No training needed",
+      "Only executive-level training"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 234,
+    "question": "What does risk assessment during implementation involve?",
+    "options": [
+      "Identifying governance and management risks",
+      "Ignoring potential issues",
+      "Focusing solely on IT security risks",
+      "Only looking at external risks"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 235,
+    "question": "Which helps ensure accountability in COBIT implementation?",
+    "options": [
+      "Clear role definitions and responsibilities",
+      "Avoiding documentation",
+      "Unclear reporting lines",
+      "Decentralizing governance entirely"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 236,
+    "question": "After implementation, COBIT recommends:",
+    "options": [
+      "Ongoing monitoring and governance adjustments",
+      "Project closure without review",
+      "Discontinuing governance meetings",
+      "Freezing processes permanently"
+    ],
+    "answer": 0
   }
 ]
+
   
   
   
