@@ -1850,7 +1850,228 @@
       "BAI (Build, Acquire and Implement)"
     ],
     "answer": 0
+  },
+  {
+    "id": 177,
+    "question": "Which of the following is a fundamental principle of COBIT 2019 governance?",
+    "options": [
+      "Flexibility and adaptability",
+      "Comprehensive coverage of enterprise IT",
+      "Minimizing IT expenditures",
+      "Centralized IT control"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 178,
+    "question": "COBIT 2019 principles emphasize alignment between IT and what?",
+    "options": [
+      "Industry regulations",
+      "Enterprise goals",
+      "Technology trends",
+      "Vendor policies"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 179,
+    "question": "One of the COBIT 2019 principles is that governance should be:",
+    "options": [
+      "Prescriptive and rigid",
+      "Tailored to the enterprise",
+      "Detached from business strategy",
+      "Limited to IT department"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 180,
+    "question": "Which principle stresses the importance of stakeholder engagement?",
+    "options": [
+      "Holistic approach",
+      "Dynamic governance system",
+      "Stakeholder transparency and accountability",
+      "Manage risk only"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 181,
+    "question": "COBIT 2019 principles support which kind of governance system?",
+    "options": [
+      "Static and inflexible",
+      "Agile and responsive",
+      "Focused solely on compliance",
+      "Isolated from business units"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 182,
+    "question": "According to COBIT principles, governance should:",
+    "options": [
+      "Be an isolated IT function",
+      "Integrate with enterprise management",
+      "Ignore external regulations",
+      "Be fragmented"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 183,
+    "question": "The principle of \"end-to-end governance\" means:",
+    "options": [
+      "Governance covers all enterprise functions",
+      "Governance applies only to IT projects",
+      "Governance excludes financial processes",
+      "Governance is limited to technology architecture"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 184,
+    "question": "COBIT 2019 principles require governance to be:",
+    "options": [
+      "Uniform for all enterprises",
+      "Tailored and adaptable",
+      "Replaced regularly",
+      "Fully automated"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 185,
+    "question": "The principle of \"holistic approach\" includes which of the following components?",
+    "options": [
+      "Only processes and policies",
+      "People, processes, technology, and organizational structures",
+      "Tools only",
+      "Security controls alone"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 186,
+    "question": "COBIT 2019 principles encourage the governance system to focus on:",
+    "options": [
+      "Short-term IT benefits",
+      "Stakeholder needs and value creation",
+      "IT infrastructure only",
+      "Outsourcing only"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 187,
+    "question": "The principle emphasizing governance system adaptability to changing environments is:",
+    "options": [
+      "Static governance",
+      "Dynamic governance system",
+      "Rigid execution",
+      "Fixed scope"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 188,
+    "question": "COBIT 2019’s principle of transparency requires:",
+    "options": [
+      "Restricting information flow",
+      "Clear communication and accountability",
+      "Hiding governance processes",
+      "Limiting stakeholder involvement"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 189,
+    "question": "The \"governance distinct from management\" principle means:",
+    "options": [
+      "Both roles are identical",
+      "Governance provides oversight while management performs execution",
+      "Management directs governance",
+      "They have no interaction"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 190,
+    "question": "COBIT 2019 principle that governance should cover all enterprise IT-related activities is called:",
+    "options": [
+      "End-to-end governance",
+      "Risk management",
+      "Compliance focus",
+      "Fragmented governance"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 191,
+    "question": "According to COBIT principles, governance systems should be:",
+    "options": [
+      "Prescriptive regardless of environment",
+      "Tailored to enterprise context",
+      "Identical worldwide",
+      "Focused solely on IT"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 192,
+    "question": "Which principle emphasizes that governance must create value for:",
+    "options": [
+      "IT staff only",
+      "Stakeholders",
+      "Vendors only",
+      "Audit teams"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 193,
+    "question": "COBIT’s holistic approach includes balancing which dimensions?",
+    "options": [
+      "Cost and speed",
+      "Risk, benefit, and resource use",
+      "Technology and marketing",
+      "Compliance and secrecy"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 194,
+    "question": "The principle regarding enterprise-wide governance coverage ensures:",
+    "options": [
+      "Only technology groups are governed",
+      "Business and IT areas are governed together",
+      "Only executive management is involved",
+      "IT operates independently"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 195,
+    "question": "COBIT principles encourage governance systems to:",
+    "options": [
+      "Be complicated and rigid",
+      "Be simple and ignore business objectives",
+      "Be comprehensive and value-focused",
+      "Exclude stakeholder input"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 196,
+    "question": "In COBIT 2019, governance relates to:",
+    "options": [
+      "Directing and monitoring enterprise activities",
+      "Conducting day-to-day IT operations",
+      "Developing business software",
+      "Managing only financial accounts"
+    ],
+    "answer": 0
   }
 ]
+  
   
 
