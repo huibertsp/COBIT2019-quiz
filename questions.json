@@ -2070,8 +2070,229 @@
       "Managing only financial accounts"
     ],
     "answer": 0
+  },
+  {
+    "id": 197,
+    "question": "What is the primary purpose of the COBIT 2019 framework?",
+    "options": [
+      "To prescribe specific IT solutions",
+      "To provide a governance and management framework for enterprise IT",
+      "To replace all existing IT standards",
+      "To serve as a software development methodology"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 198,
+    "question": "COBIT 2019 is designed to help enterprises achieve:",
+    "options": [
+      "Better IT performance only",
+      "Alignment between business goals and IT objectives",
+      "Network infrastructure upgrades",
+      "Increased hardware investments"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 199,
+    "question": "Which of the following is a key component of COBIT 2019?",
+    "options": [
+      "Software development lifecycle",
+      "Governance system and governance components",
+      "Database design principles",
+      "Cloud computing architecture"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 200,
+    "question": "COBIT 2019 integrates which two aspects?",
+    "options": [
+      "Software coding and deployment",
+      "Governance and management of enterprise IT",
+      "Marketing and sales processes",
+      "Hardware configuration and installation"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 201,
+    "question": "Who is the primary audience for the COBIT 2019 framework?",
+    "options": [
+      "Software developers exclusively",
+      "Enterprise leaders and IT professionals",
+      "Marketing teams",
+      "End users of software"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 202,
+    "question": "COBIT 2019 helps enterprises manage which of the following?",
+    "options": [
+      "IT-related risks, resources, and processes",
+      "Customer relationship databases",
+      "Network cabling",
+      "Office supply procurement"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 203,
+    "question": "The COBIT 2019 framework is adaptable to:",
+    "options": [
+      "Only large enterprises",
+      "Enterprises of any size and industry",
+      "Government agencies only",
+      "Software startups only"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 204,
+    "question": "What does COBIT 2019 provide to help with governance implementation?",
+    "options": [
+      "Detailed management guides only",
+      "A set of principles, policies, and best practices",
+      "Hardware specifications",
+      "Marketing campaign strategies"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 205,
+    "question": "In COBIT 2019, governance focuses on:",
+    "options": [
+      "Directing, monitoring, and evaluating enterprise activities",
+      "Developing software programs",
+      "Designing network topologies",
+      "Controlling office supplies"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 206,
+    "question": "How does COBIT 2019 relate to other frameworks and standards?",
+    "options": [
+      "It replaces all existing standards",
+      "It can be integrated with standards like ITIL and ISO",
+      "It ignores other frameworks",
+      "It conflicts with most standards"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 207,
+    "question": "What are the two main components of the COBIT 2019 governance system?",
+    "options": [
+      "Governance framework and tools",
+      "Governance system and governance components",
+      "IT operations and security",
+      "Software and hardware"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 208,
+    "question": "COBIT 2019 emphasizes the importance of which type of governance?",
+    "options": [
+      "IT-only governance",
+      "Enterprise-wide governance",
+      "Compliance-only governance",
+      "Department-specific governance"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 209,
+    "question": "What is the relationship between governance and management in COBIT 2019?",
+    "options": [
+      "They are the same",
+      "Governance directs and monitors; management plans and executes",
+      "Management directs governance",
+      "They are unrelated"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 210,
+    "question": "Which of the following is NOT a characteristic of the COBIT 2019 framework?",
+    "options": [
+      "Adaptable to enterprise context",
+      "Prescriptive and rigid",
+      "Integrated with other standards",
+      "Focused on value creation"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 211,
+    "question": "COBIT 2019 supports enterprises in managing:",
+    "options": [
+      "Only financial transactions",
+      "IT risks and resources aligned with business objectives",
+      "Marketing campaigns",
+      "Customer service"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 212,
+    "question": "COBIT 2019 governance components include:",
+    "options": [
+      "Processes, organizational structures, and policies",
+      "Software licenses and databases",
+      "Hardware configurations",
+      "Network routers"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 213,
+    "question": "What role do stakeholders have in the COBIT 2019 framework?",
+    "options": [
+      "They are excluded from governance decisions",
+      "Their needs and interests guide governance objectives",
+      "They manage IT operations",
+      "They design IT infrastructure"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 214,
+    "question": "COBIT 2019 is created and maintained by:",
+    "options": [
+      "ISO",
+      "ISACA",
+      "Microsoft",
+      "IEEE"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 215,
+    "question": "The governance system in COBIT 2019 is designed to:",
+    "options": [
+      "Replace all existing management systems",
+      "Integrate governance and management for holistic control",
+      "Focus solely on cybersecurity",
+      "Manage only IT infrastructure"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 216,
+    "question": "Which of the following best describes the adaptability of COBIT 2019?",
+    "options": [
+      "It has a fixed set of processes",
+      "It can be tailored to the enterprise’s context and complexity",
+      "It is only for government use",
+      "It cannot be customized"
+    ],
+    "answer": 1
   }
 ]
+  
   
   
 
