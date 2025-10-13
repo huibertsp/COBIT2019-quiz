@@ -1465,6 +1465,392 @@
       "Transfer all risks to vendors"
     ],
     "answer": 1
+  },
+  {
+    "id": 142,
+    "question": "Which COBIT objective addresses alignment of IT goals with enterprise strategy?",
+    "options": [
+      "Build, Acquire and Implement",
+      "Align, Plan and Organize",
+      "Monitor, Evaluate and Assess",
+      "Deliver, Service and Support"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 143,
+    "question": "What is the primary goal of Monitor, Evaluate and Assess (ME) objectives?",
+    "options": [
+      "Execute operational tasks",
+      "Assess performance and compliance",
+      "Develop IT solutions",
+      "Recruit IT staff"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 144,
+    "question": "Which objective covers the procurement and deployment of IT solutions?",
+    "options": [
+      "Deliver, Service and Support",
+      "Monitor, Evaluate and Assess",
+      "Build, Acquire and Implement",
+      "Align, Plan and Organize"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 145,
+    "question": "Deliver, Service and Support (DSS) objectives focus mainly on:",
+    "options": [
+      "Strategic planning",
+      "Service delivery and support operations",
+      "Compliance assessments",
+      "Financial reporting"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 146,
+    "question": "Which governance objective aims to evaluate stakeholder needs and deliver value?",
+    "options": [
+      "APO (Align, Plan and Organize)",
+      "DSS (Deliver, Service and Support)",
+      "EDM (Evaluate, Direct and Monitor)",
+      "MEA (Monitor, Evaluate and Assess)"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 147,
+    "question": "Which management objective addresses risk management activities?",
+    "options": [
+      "BAI (Build, Acquire and Implement)",
+      "DSS (Deliver, Service and Support)",
+      "APO (Align, Plan and Organize)",
+      "MEA (Monitor, Evaluate and Assess)"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 148,
+    "question": "Which domain is responsible for managing security services?",
+    "options": [
+      "MEA (Monitor, Evaluate and Assess)",
+      "DSS (Deliver, Service and Support)",
+      "EDM (Evaluate, Direct and Monitor)",
+      "APO (Align, Plan and Organize)"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 149,
+    "question": "What aspect does BAI domain primarily oversee?",
+    "options": [
+      "Continuous service delivery",
+      "Solution identification and implementation",
+      "Strategic governance policies",
+      "Performance monitoring"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 150,
+    "question": "Which objective includes monitoring compliance with regulatory requirements?",
+    "options": [
+      "APO (Align, Plan and Organize)",
+      "BAI (Build, Acquire and Implement)",
+      "DSS (Deliver, Service and Support)",
+      "MEA (Monitor, Evaluate and Assess)"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 151,
+    "question": "EDM objectives focus on which primary activities?",
+    "options": [
+      "Managing IT risks",
+      "Evaluating, directing, and monitoring governance outcomes",
+      "Building IT solutions",
+      "Supporting IT service delivery"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 152,
+    "question": "Which management objective focuses on optimizing resource use and costs?",
+    "options": [
+      "DSS (Deliver, Service and Support)",
+      "MEA (Monitor, Evaluate and Assess)",
+      "APO (Align, Plan and Organize)",
+      "EDM (Evaluate, Direct and Monitor)"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 153,
+    "question": "Which domain aims to ensure IT services are delivered securely and reliably?",
+    "options": [
+      "APO (Align, Plan and Organize)",
+      "BAI (Build, Acquire and Implement)",
+      "DSS (Deliver, Service and Support)",
+      "MEA (Monitor, Evaluate and Assess)"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 154,
+    "question": "The objective \"Build, Acquire and Implement\" is most closely associated with:",
+    "options": [
+      "Managing changes to the IT environment",
+      "Monitoring compliance",
+      "Evaluating stakeholder needs",
+      "Setting strategic goals"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 155,
+    "question": "Which management objective is responsible for managing third-party relationships?",
+    "options": [
+      "APO (Align, Plan and Organize)",
+      "BAI (Build, Acquire and Implement)",
+      "DSS (Deliver, Service and Support)",
+      "MEA (Monitor, Evaluate and Assess)"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 156,
+    "question": "MEA objectives specifically support:",
+    "options": [
+      "Building new IT solutions",
+      "Continuous monitoring and evaluation",
+      "Delivering IT services",
+      "Acquiring IT resources"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 157,
+    "question": "The role of DSS objectives includes:",
+    "options": [
+      "Managing IT strategy",
+      "Overseeing day-to-day IT operations and support",
+      "Planning business alignment",
+      "Evaluating enterprise architecture"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 158,
+    "question": "Which governance and management objective establishes frameworks and policies?",
+    "options": [
+      "EDM (Evaluate, Direct and Monitor)",
+      "BAI (Build, Acquire and Implement)",
+      "DSS (Deliver, Service and Support)",
+      "MEA (Monitor, Evaluate and Assess)"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 159,
+    "question": "The primary concern of BAI objectives is:",
+    "options": [
+      "Service support",
+      "Implementing new solutions and processes",
+      "Monitoring performance",
+      "Managing strategic direction"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 160,
+    "question": "Alignment of enterprise objectives with IT management practices falls under:",
+    "options": [
+      "DSS (Deliver, Service and Support)",
+      "BAI (Build, Acquire and Implement)",
+      "APO (Align, Plan and Organize)",
+      "MEA (Monitor, Evaluate and Assess)"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 161,
+    "question": "The management objective to ensure compliance with policies and standards relates to:",
+    "options": [
+      "MEA (Monitor, Evaluate and Assess)",
+      "APO (Align, Plan and Organize)",
+      "DSS (Deliver, Service and Support)",
+      "BAI (Build, Acquire and Implement)"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 162,
+    "question": "Which objective involves defining and maintaining the enterprise architecture?",
+    "options": [
+      "APO (Align, Plan and Organize)",
+      "BAI (Build, Acquire and Implement)",
+      "DSS (Deliver, Service and Support)",
+      "MEA (Monitor, Evaluate and Assess)"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 163,
+    "question": "The objective responsible for incident and problem management is:",
+    "options": [
+      "BAI (Build, Acquire and Implement)",
+      "DSS (Deliver, Service and Support)",
+      "MEA (Monitor, Evaluate and Assess)",
+      "APO (Align, Plan and Organize)"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 164,
+    "question": "What management objective focuses on capacity and availability management?",
+    "options": [
+      "APO (Align, Plan and Organize)",
+      "DSS (Deliver, Service and Support)",
+      "BAI (Build, Acquire and Implement)",
+      "MEA (Monitor, Evaluate and Assess)"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 165,
+    "question": "Which COBIT domain includes the management of service continuity?",
+    "options": [
+      "MEA (Monitor, Evaluate and Assess)",
+      "DSS (Deliver, Service and Support)",
+      "BAI (Build, Acquire and Implement)",
+      "APO (Align, Plan and Organize)"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 166,
+    "question": "The objective focusing on policy and procedure creation is part of:",
+    "options": [
+      "EDM (Evaluate, Direct and Monitor)",
+      "APO (Align, Plan and Organize)",
+      "DSS (Deliver, Service and Support)",
+      "MEA (Monitor, Evaluate and Assess)"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 167,
+    "question": "Which domain includes managing enterprise compliance with external requirements?",
+    "options": [
+      "MEA (Monitor, Evaluate and Assess)",
+      "BAI (Build, Acquire and Implement)",
+      "DSS (Deliver, Service and Support)",
+      "APO (Align, Plan and Organize)"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 168,
+    "question": "The management objective responsible for managing data is part of:",
+    "options": [
+      "APO (Align, Plan and Organize)",
+      "BAI (Build, Acquire and Implement)",
+      "DSS (Deliver, Service and Support)",
+      "MEA (Monitor, Evaluate and Assess)"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 169,
+    "question": "What management objective covers configuration and change control?",
+    "options": [
+      "DSS (Deliver, Service and Support)",
+      "MEA (Monitor, Evaluate and Assess)",
+      "BAI (Build, Acquire and Implement)",
+      "APO (Align, Plan and Organize)"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 170,
+    "question": "Which objective focuses on service level management?",
+    "options": [
+      "DSS (Deliver, Service and Support)",
+      "MEA (Monitor, Evaluate and Assess)",
+      "APO (Align, Plan and Organize)",
+      "EDM (Evaluate, Direct and Monitor)"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 171,
+    "question": "Which management objective addresses human resource management?",
+    "options": [
+      "MEA (Monitor, Evaluate and Assess)",
+      "APO (Align, Plan and Organize)",
+      "DSS (Deliver, Service and Support)",
+      "BAI (Build, Acquire and Implement)"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 172,
+    "question": "Risk management for enterprise IT is a process within which domain?",
+    "options": [
+      "EDM (Evaluate, Direct and Monitor)",
+      "APO (Align, Plan and Organize)",
+      "DSS (Deliver, Service and Support)",
+      "MEA (Monitor, Evaluate and Assess)"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 173,
+    "question": "Which COBIT domain is responsible for service reporting and communication?",
+    "options": [
+      "BAI (Build, Acquire and Implement)",
+      "DSS (Deliver, Service and Support)",
+      "MEA (Monitor, Evaluate and Assess)",
+      "APO (Align, Plan and Organize)"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 174,
+    "question": "Project and portfolio management falls under which domain?",
+    "options": [
+      "APO (Align, Plan and Organize)",
+      "BAI (Build, Acquire and Implement)",
+      "DSS (Deliver, Service and Support)",
+      "MEA (Monitor, Evaluate and Assess)"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 175,
+    "question": "Which management objective describes management of service requests and incidents?",
+    "options": [
+      "BAI (Build, Acquire and Implement)",
+      "DSS (Deliver, Service and Support)",
+      "MEA (Monitor, Evaluate and Assess)",
+      "APO (Align, Plan and Organize)"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 176,
+    "question": "Which COBIT domain manages audit and compliance activities?",
+    "options": [
+      "MEA (Monitor, Evaluate and Assess)",
+      "APO (Align, Plan and Organize)",
+      "DSS (Deliver, Service and Support)",
+      "BAI (Build, Acquire and Implement)"
+    ],
+    "answer": 0
   }
 ]
+  
 
