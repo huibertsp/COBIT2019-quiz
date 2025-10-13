@@ -970,5 +970,501 @@
       "IT deployment"
     ],
     "answer": 0
+  },
+  {
+    "id": 97,
+    "question": "Which of the following is a core component of the COBIT 2019 governance system?",
+    "options": [
+      "Business Processes",
+      "Governance Framework",
+      "Organizational Structures",
+      "Corporate Culture"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 98,
+    "question": "What is the primary focus of the governance system within COBIT 2019?",
+    "options": [
+      "To manage IT operations efficiently",
+      "To direct and control enterprise activities",
+      "To develop software applications",
+      "To optimize business processes"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 99,
+    "question": "Which component in COBIT 2019 defines how governance objectives are achieved?",
+    "options": [
+      "Governance Components",
+      "Governance Objectives",
+      "Governance System",
+      "Governance Practices"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 100,
+    "question": "Which of the following is NOT one of the COBIT 2019 governance components?",
+    "options": [
+      "Principles, Policies, and Frameworks",
+      "Processes",
+      "Performance Metrics",
+      "Organizational Structures"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 101,
+    "question": "What role do organizational structures play in the COBIT governance system?",
+    "options": [
+      "They support the execution of governance activities",
+      "They define the enterprise's IT architecture",
+      "They develop new business models",
+      "They manage vendor relationships"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 102,
+    "question": "In COBIT 2019, which component provides the rules and guidelines to establish governance culture?",
+    "options": [
+      "Governance Framework",
+      "Principles, Policies, and Frameworks",
+      "Information Flows",
+      "Risk Management"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 103,
+    "question": "The governance system ensures that enterprise goals are met by aligning which two types of objectives?",
+    "options": [
+      "IT and Security Objectives",
+      "Governance and Management Objectives",
+      "Operational and Financial Objectives",
+      "User and Vendor Objectives"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 104,
+    "question": "How does COBIT 2019 describe the enterprise governance system?",
+    "options": [
+      "A set of standards for IT compliance",
+      "A system designed to govern and manage enterprise IT and business operations",
+      "A network of technologies and applications",
+      "A team of IT auditors and controllers"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 105,
+    "question": "Which COBIT 2019 governance component is responsible for monitoring performance?",
+    "options": [
+      "Processes",
+      "Performance Management",
+      "Governance Structures",
+      "Information Flows"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 106,
+    "question": "What is the purpose of governance components in COBIT 2019?",
+    "options": [
+      "To execute business operational tasks",
+      "To support the governance system in achieving governance goals",
+      "To replace enterprise architecture",
+      "To manage project timelines"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 107,
+    "question": "Which governance component facilitates communication and coordination across the enterprise?",
+    "options": [
+      "Principles, Policies, and Frameworks",
+      "Organizational Structures",
+      "Information Flows",
+      "Governance Practices"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 108,
+    "question": "In COBIT 2019, who is primarily responsible for setting governance objectives?",
+    "options": [
+      "IT Department",
+      "Business Management",
+      "Governance Body",
+      "External Auditors"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 109,
+    "question": "What is the purpose of governance practices in COBIT 2019?",
+    "options": [
+      "To perform daily operational tasks",
+      "To guide execution of governance-related activities",
+      "To develop software",
+      "To manage vendor contracts"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 110,
+    "question": "Which governance component ensures that risk is properly identified and managed?",
+    "options": [
+      "Risk Management",
+      "Organizational Structures",
+      "Principles",
+      "Information Flows"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 111,
+    "question": "How does COBIT 2019 define governance?",
+    "options": [
+      "Managing and optimizing resources",
+      "Evaluating, directing, and monitoring enterprise activities",
+      "Developing IT systems",
+      "Enforcing compliance regulations"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 112,
+    "question": "Which COBIT 2019 component provides detailed descriptions of activities to achieve governance objectives?",
+    "options": [
+      "Processes",
+      "Information Flows",
+      "Principles, Policies, and Frameworks",
+      "Governance Structures"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 113,
+    "question": "What is the relationship between governance and management in COBIT 2019?",
+    "options": [
+      "They are independent and unrelated",
+      "Governance sets direction; management executes activities",
+      "Management directs governance bodies",
+      "Both perform the same functions"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 114,
+    "question": "What does the governance system primarily ensure regarding stakeholder needs?",
+    "options": [
+      "That all technical components are up to date",
+      "That stakeholder needs are evaluated and converted into governance objectives",
+      "That budgets are strictly followed",
+      "That security protocols are enforced"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 115,
+    "question": "Which of the following is considered a governance practice rather than a management practice?",
+    "options": [
+      "Align, Plan and Organize",
+      "Monitor, Evaluate and Assess",
+      "Build, Acquire and Implement",
+      "Deliver, Service and Support"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 116,
+    "question": "What is the key output of the governance system?",
+    "options": [
+      "IT Service Delivery",
+      "Business Value Creation",
+      "Risk Avoidance",
+      "Operational Efficiency"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 117,
+    "question": "Which component of COBIT 2019 governance system provides definitions of roles, responsibilities, and accountabilities?",
+    "options": [
+      "Organizational Structures",
+      "Governance Practices",
+      "Principles, Policies, and Frameworks",
+      "Information Flows"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 118,
+    "question": "The principles driving COBIT 2019 governance system are intended to ensure:",
+    "options": [
+      "Regulatory compliance only",
+      "Effective governance and management",
+      "Faster software development",
+      "Reduced IT costs"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 119,
+    "question": "Which process in COBIT 2019 is primarily concerned with assessing enterprise risks?",
+    "options": [
+      "APO12 Manage Risk",
+      "BAI03 Manage Solutions Identification and Build",
+      "DSS05 Manage Security Services",
+      "MEA01 Monitor, Evaluate and Assess Performance and Conformance"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 120,
+    "question": "What is the purpose of the governance framework?",
+    "options": [
+      "To establish a set of operating procedures",
+      "To structure governance components and align them to enterprise goals",
+      "To document IT systems configuration",
+      "To develop business applications"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 121,
+    "question": "Which key practice distinguishes governance from management in COBIT 2019?",
+    "options": [
+      "Delegating responsibilities",
+      "Evaluating, directing, and monitoring",
+      "Performing operational tasks",
+      "Coding and deploying systems"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 122,
+    "question": "The term 'Governance System' in COBIT 2019 means:",
+    "options": [
+      "IT infrastructure only",
+      "Framework of governance components and practices",
+      "List of enterprise applications",
+      "Compliance checklists"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 123,
+    "question": "What does the 'monitoring' aspect of governance emphasize?",
+    "options": [
+      "Planning resources",
+      "Oversight of enterprise activities for alignment with governance objectives",
+      "Writing software code",
+      "Training IT staff"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 124,
+    "question": "Governance components need to be:",
+    "options": [
+      "Documented once and never updated",
+      "Dynamically tailored to enterprise context",
+      "Standardized for all enterprises",
+      "Managed solely by IT managers"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 125,
+    "question": "The COBIT 2019 framework primarily aims to:",
+    "options": [
+      "Provide best practices to govern and manage enterprise IT",
+      "Increase hardware speed",
+      "Replace ISO standards",
+      "Focus solely on cybersecurity"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 126,
+    "question": "What is the role of 'Information Flows' in the governance system?",
+    "options": [
+      "To execute IT projects",
+      "To enable effective communication of relevant information",
+      "To secure enterprise data",
+      "To manage supplier contracts"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 127,
+    "question": "What is the responsibility of the governance body regarding the governance system?",
+    "options": [
+      "Execute daily operations",
+      "Establish direction and monitor governance performance",
+      "Develop software solutions",
+      "Manage IT vendor contracts"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 128,
+    "question": "Which component includes the set of rules and behaviors that influence governance culture?",
+    "options": [
+      "Organizational Structures",
+      "Principles, Policies, and Frameworks",
+      "Information Flows",
+      "Risk Management"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 129,
+    "question": "How does COBIT 2019 suggest enterprises use governance components?",
+    "options": [
+      "Apply all components identically across all enterprises",
+      "Tailor components dynamically to enterprise needs and context",
+      "Ignore some components in small enterprises",
+      "Focus only on processes"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 130,
+    "question": "What is the primary distinction between governance and management in COBIT 2019?",
+    "options": [
+      "Governance focuses on oversight; management on execution",
+      "Governance and management are identical",
+      "Management directs governance policies",
+      "Governance only applies to IT department"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 131,
+    "question": "What type of activities are considered management practices in COBIT 2019?",
+    "options": [
+      "Directing and monitoring activities",
+      "Planning, building, running, and monitoring enterprise operations",
+      "Setting governance frameworks",
+      "Constituting governance bodies"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 132,
+    "question": "Which COBIT governance component helps define accountability and decision-making lines?",
+    "options": [
+      "Organizational Structures",
+      "Risk Management",
+      "Principles",
+      "Information Flows"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 133,
+    "question": "What role do principles play in the COBIT 2019 governance system?",
+    "options": [
+      "Provide high-level, fundamental statements guiding governance behavior",
+      "Specify technical implementation details",
+      "Replace policies and frameworks",
+      "Determine operational budgets"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 134,
+    "question": "Which governance component includes procedures, standards, and guidelines?",
+    "options": [
+      "Organization Structures",
+      "Principles, Policies, and Frameworks",
+      "Processes",
+      "Information Flows"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 135,
+    "question": "How are information flows important for governance?",
+    "options": [
+      "They ensure the right information reaches the right persons at the right time",
+      "They only handle financial data",
+      "They are not relevant to governance",
+      "They monitor vendor delivery schedules"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 136,
+    "question": "What is the main outcome COBIT 2019 governance aims to deliver for stakeholders?",
+    "options": [
+      "Compliance documentation",
+      "Business value through effective and efficient governance",
+      "Faster software development",
+      "Reduced number of IT staff"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 137,
+    "question": "In COBIT 2019, what is the purpose of governance components working together?",
+    "options": [
+      "To replace management",
+      "To support execution and achievement of governance objectives",
+      "To minimize communication",
+      "To define enterprise architecture diagrams"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 138,
+    "question": "How does COBIT 2019 view the relationship between governance components?",
+    "options": [
+      "They function independently",
+      "They are interconnected and influence each other",
+      "They are mutually exclusive",
+      "Only processes matter"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 139,
+    "question": "How often should the governance system and its components be reviewed?",
+    "options": [
+      "Never, once established",
+      "Regularly to ensure relevance and effectiveness",
+      "Only after security incidents",
+      "Only during audits"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 140,
+    "question": "Which COBIT 2019 governance component involves the formal assignment of roles and responsibilities?",
+    "options": [
+      "Information Flows",
+      "Organizational Structures",
+      "Risk Management",
+      "Principles"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 141,
+    "question": "What is the main goal of risk management within the governance system?",
+    "options": [
+      "Eliminate all risks",
+      "Identify, assess, and mitigate risks to acceptable levels",
+      "Ignore risks to speed up projects",
+      "Transfer all risks to vendors"
+    ],
+    "answer": 1
   }
 ]
+
