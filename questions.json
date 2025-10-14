@@ -2510,8 +2510,174 @@
       "Freezing processes permanently"
     ],
     "answer": 0
+  },
+  {
+    "id": 237,
+    "question": "What is the main purpose of tailoring a governance system in COBIT 2019?",
+    "options": [
+      "Ensure compliance with only IT standards",
+      "Match governance components to enterprise context and needs",
+      "Reduce the number of stakeholders",
+      "Replace existing management structures"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 238,
+    "question": "Which COBIT tool assists in determining which governance components require focus when tailoring?",
+    "options": [
+      "Gap analysis",
+      "Security audit checklist",
+      "Network configuration tool",
+      "Software asset inventory"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 239,
+    "question": "When designing a tailored governance system, an enterprise should start with:",
+    "options": [
+      "Reviewing technology vendors",
+      "Understanding enterprise goals and strategy",
+      "Purchasing new IT hardware",
+      "Hiring external consultants only"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 240,
+    "question": "What is the benefit of tailoring governance components?",
+    "options": [
+      "It makes the system more rigid",
+      "Enables optimal alignment with organizational values and culture",
+      "Reduces leadership involvement",
+      "Focuses solely on IT operations"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 241,
+    "question": "In COBIT 2019, which factor should influence the design of a tailored governance system?",
+    "options": [
+      "Number of IT staff only",
+      "Regulatory requirements, size, industry, and risk appetite",
+      "Age of IT equipment",
+      "External competitor actions only"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 242,
+    "question": "After selecting governance components, what is the next step in tailoring?",
+    "options": [
+      "Ignore component interactions",
+      "Analyze relationships and dependencies between components",
+      "Implement all components uniformly",
+      "Stop at documentation"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 243,
+    "question": "Which of the following best supports a tailored approach to governance design?",
+    "options": [
+      "Using COBIT as a strict checklist",
+      "Customizing components to fit organizational priorities",
+      "Only adopting compliance controls",
+      "Relying on industry trends alone"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 244,
+    "question": "What role do stakeholder needs play in designing the governance system?",
+    "options": [
+      "Minimal role",
+      "Central to determining objectives and design",
+      "Only relevant during implementation",
+      "Ignored completely"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 245,
+    "question": "When tailoring governance, which aspect should remain a priority?",
+    "options": [
+      "Cost-cutting above all",
+      "Achieving business goals and value creation",
+      "Focus on technology trends only",
+      "Vendor preferences"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 246,
+    "question": "The governance system design should be reviewed when:",
+    "options": [
+      "There are major changes in business or regulatory environment",
+      "IT personnel are promoted",
+      "A new vendor is selected",
+      "Hardware is updated"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 247,
+    "question": "Which activity helps validate the effectiveness of a tailored governance system?",
+    "options": [
+      "Periodic assessment and measurement against objectives",
+      "Ignoring feedback",
+      "Decreasing stakeholder input",
+      "Using the exact same system as competitors"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 248,
+    "question": "Why should organizational culture be considered when tailoring governance?",
+    "options": [
+      "It is irrelevant to governance",
+      "It helps ensure acceptance and seamless integration",
+      "Only impacts IT policies",
+      "Only matters for HR departments"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 249,
+    "question": "What determines the selection of governance components in a tailored system?",
+    "options": [
+      "Number of business units",
+      "Strategic goals and enterprise context",
+      "Amount of available software",
+      "Size of the IT budget only"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 250,
+    "question": "How does COBIT 2019 recommend addressing gaps found during tailoring?",
+    "options": [
+      "Ignore minor gaps",
+      "Develop targeted improvement plans",
+      "Outsource all missing components",
+      "Delay action until the next review cycle"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 251,
+    "question": "The ultimate success of a tailored governance system depends on:",
+    "options": [
+      "Number of COBIT controls selected",
+      "How well the system supports enterprise objectives and stakeholder needs",
+      "The amount of new technology purchased",
+      "Saving on training costs"
+    ],
+    "answer": 1
   }
 ]
+
 
   
   
