@@ -2675,8 +2675,229 @@
       "Saving on training costs"
     ],
     "answer": 1
+  },
+  {
+    "id": 252,
+    "question": "What is the primary focus of performance management in COBIT 2019?",
+    "options": [
+      "Developing IT software",
+      "Measuring and monitoring progress against governance objectives",
+      "Selecting vendors for IT components",
+      "Maintaining hardware"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 253,
+    "question": "Which tool is commonly used in COBIT 2019 for performance management?",
+    "options": [
+      "Firewall logs",
+      "Balanced scorecard",
+      "Source code repository",
+      "Asset inventory"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 254,
+    "question": "How does COBIT 2019 recommend setting performance targets?",
+    "options": [
+      "Randomly selected",
+      "Based on enterprise goals and stakeholder needs",
+      "Fixed for all organizations",
+      "Only for technical staff"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 255,
+    "question": "What is a key benefit of regular performance reviews?",
+    "options": [
+      "Reduced IT staffing",
+      "Early identification of issues and opportunities for improvement",
+      "More hardware purchases",
+      "Lower software quality"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 256,
+    "question": "Which indicator measures whether processes are on track in COBIT 2019?",
+    "options": [
+      "Key Performance Indicator (KPI)",
+      "Inventory number",
+      "Incident log",
+      "User account name"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 257,
+    "question": "What is the purpose of continuous monitoring in performance management?",
+    "options": [
+      "Ensure compliance and achievement of objectives",
+      "Report only positive results",
+      "Focus solely on financial metrics",
+      "Ignore stakeholder feedback"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 258,
+    "question": "Which COBIT 2019 concept links specific metrics to governance objectives?",
+    "options": [
+      "Goals cascade",
+      "Asset tagging",
+      "Change control",
+      "Vendor contracts"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 259,
+    "question": "Performance management must be aligned with:",
+    "options": [
+      "The latest technology trends only",
+      "Enterprise strategy and business objectives",
+      "Only IT department priorities",
+      "External vendors’ interests"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 260,
+    "question": "When are performance measures most effective?",
+    "options": [
+      "When reviewed infrequently",
+      "When used for ongoing continuous improvement",
+      "When ignored after implementation",
+      "When tracked by only one person"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 261,
+    "question": "What role do stakeholders play in performance management?",
+    "options": [
+      "No role",
+      "They help define relevant metrics and targets",
+      "They only review final reports",
+      "They audit financial results only"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 262,
+    "question": "What is the main objective of developing a business case in COBIT 2019?",
+    "options": [
+      "Select technology vendors",
+      "Justify investment and decision-making for IT-related initiatives",
+      "Automate business operations",
+      "Write technical manuals"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 263,
+    "question": "Which element is crucial to include in a COBIT 2019 business case?",
+    "options": [
+      "Security settings",
+      "Expected benefits and value for stakeholders",
+      "Software source code",
+      "Network diagrams"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 264,
+    "question": "The business case should address which aspect before project approval?",
+    "options": [
+      "The color scheme of software",
+      "Risks, costs, and rationale",
+      "Staff vacation schedules",
+      "Server room temperature"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 265,
+    "question": "Who is typically responsible for approving the business case in COBIT 2019?",
+    "options": [
+      "IT technician",
+      "Project sponsors and governance body",
+      "Vendors",
+      "System administrators"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 266,
+    "question": "Which part of the business case demonstrates alignment with enterprise strategy?",
+    "options": [
+      "Benefit realization plan",
+      "Audit logs",
+      "Training roster",
+      "Incident timeline"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 267,
+    "question": "What should a well-written business case identify to help guide successful outcomes?",
+    "options": [
+      "Likelihood of technical bugs only",
+      "Clear objectives and measurable success criteria",
+      "Length of team meetings",
+      "Password expiration policy"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 268,
+    "question": "In COBIT 2019, how does a business case support stakeholder communication?",
+    "options": [
+      "By setting up email alerts",
+      "By documenting value, costs, and risks for transparency",
+      "By listing all IT assets",
+      "By hiding decision-making processes"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 269,
+    "question": "What happens if a business case does NOT properly consider risks?",
+    "options": [
+      "The project may proceed with unforeseen problems",
+      "Costs will stay the same",
+      "Benefits will be guaranteed",
+      "Vendors will be satisfied"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 270,
+    "question": "Which financial metric commonly appears in a COBIT 2019 business case?",
+    "options": [
+      "Cash on hand",
+      "Return on investment (ROI)",
+      "Employee turnover rate",
+      "Daily inventory count"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 271,
+    "question": "What is typically the final step after preparing a business case?",
+    "options": [
+      "Conducting user interface design",
+      "Submission for approval and funding decisions",
+      "Hiring more staff",
+      "Purchasing hardware immediately"
+    ],
+    "answer": 1
   }
 ]
+
 
 
   
