@@ -494,7 +494,7 @@
     "id": 50,
     "question": "Which of the following describes the correct sequence in the goals cascade?",
     "options": [
-      "EDM, APO, BAI, DSS, MEA",
+      "Evaluate, Direct, and Monitor (EDM), APO, BAI, DSS, MEA",
       "Stakeholder drivers and needs, enterprise goals, alignment goals, governance and management objectives",
       "Where are we now, where do we want to be, how do we get there, how do we keep the momentum"
     ],
@@ -1567,7 +1567,7 @@
   },
   {
     "id": 151,
-    "question": "EDM objectives focus on which primary activities?",
+    "question": "Evaluate, Direct, and Monitor (EDM) objectives focus on which primary activities?",
     "options": [
       "Managing IT risks",
       "Evaluating, directing, and monitoring governance outcomes",
