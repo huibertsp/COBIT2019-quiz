@@ -5,15 +5,13 @@ General Purpose:
 This web application enables users to efficiently practice for the TOGAF 10 Enterprise Architecture Foundation exam.
 It delivers randomized question sets, tracks progress and performance, and leverages browser storage for adaptive learning.
 
-Version History:
-| Timestamp               | Description                                                                                  |
-|-------------------------|----------------------------------------------------------------------------------------------|
-| 2025-08-17 21:02 EDT    | Initial release: responsive layout, 40-question selection, feedback, restart                 |
-| 2025-08-18 13:49 EDT    | Added version tracking and update logging in comment block per user instructions             |
-| 2025-08-18 13:50 EDT    | Feature: Exclude question for 7 days if answered correctly 3 times in a row                 |
-| 2025-08-18 13:58 EDT    | Moved version history between <html lang> and <head>; formatted as 2-column table           |
-| 2026-01-29 21:30 EST    | v1.2 Ask user how many questions to include in a session; use user-defined session length   |
-| 2026-01-29 21:51 EST    | v1.3 Show optional explanation text when an answer is wrong                                  |
+Version History (timestamp | description):
+2025-08-17 21:02 EDT | Initial release: responsive layout, 40-question selection, feedback, restart
+2025-08-18 13:49 EDT | Added version tracking and update logging in comment block per user instructions
+2025-08-18 13:50 EDT | Feature: Exclude question for 7 days if answered correctly 3 times in a row
+2025-08-18 13:58 EDT | Moved version history between html lang and head; formatted as 2-column style text
+2026-01-29 21:30 EST | v1.2 Ask user how many questions to include in a session; use user-defined session length
+2026-01-29 21:51 EST | v1.3 Show optional explanation text when an answer is wrong
 -->
 <head>
   <meta charset="UTF-8" />
@@ -191,9 +189,11 @@ Version History:
         return {};
       }
     }
+
     function setQuestionHistory(history) {
       localStorage.setItem('questionHistory', JSON.stringify(history));
     }
+
     function excludeExpiredQuestions(history) {
       const now = Date.now();
       for (const id in history) {
@@ -272,7 +272,7 @@ Version History:
       score = 0;
       currentQuestion = 0;
 
-      let availableQuestions = filterQuestionsForSession(allQuestions);
+      const availableQuestions = filterQuestionsForSession(allQuestions);
       if (availableQuestions.length === 0) {
         alert('No questions are currently available (all excluded). Try again later.');
         questions = [];
