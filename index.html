@@ -2,24 +2,23 @@
 <html lang="en">
 <!--
 General Purpose:
-This web application enables users to efficiently practice for the COBIT 2019 Foundation exam. 
+This web application enables users to efficiently practice for the TOGAF 10 Enterprise Architecture Foundation exam.
 It delivers randomized question sets, tracks progress and performance, and leverages browser storage for adaptive learning.
 
 Version History:
-| Timestamp           | Description                                                                       |
-|---------------------|----------------------------------------------------------------------------------|
-| 2025-08-17 21:02 EDT| Initial release: responsive layout, 40-question selection, feedback, restart     |
-| 2025-08-18 13:49 EDT| Added version tracking and update logging in comment block per user instructions |
-| 2025-08-18 13:50 EDT| Feature: Exclude question for 7 days if answered correctly 3 times in a row      |
-| 2025-08-18 13:58 EDT| Moved version history between <html lang> and <head>; formatted as 2-column table|
-| 2025-09-27 09:00 EDT| Updated code to reflect COBIT 2019 exam (from TOGAF 10)                          |
+| Timestamp               | Description                                                                                  |
+|-------------------------|----------------------------------------------------------------------------------------------|
+| 2025-08-17 21:02 EDT    | Initial release: responsive layout, 40-question selection, feedback, restart                 |
+| 2025-08-18 13:49 EDT    | Added version tracking and update logging in comment block per user instructions             |
+| 2025-08-18 13:50 EDT    | Feature: Exclude question for 7 days if answered correctly 3 times in a row                 |
+| 2025-08-18 13:58 EDT    | Moved version history between <html lang> and <head>; formatted as 2-column table           |
+| 2026-01-29 21:30 EST    | v1.2 Ask user how many questions to include in a session; use user-defined session length   |
 -->
 <head>
   <meta charset="UTF-8" />
-  <title>COBIT 2019 - Foundation</title>
+  <title>TOGAF 10 - Enterprise Architecture Foundation</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <style>
-    /* CSS unchanged – see previous version for details */
     body {
       font-family: Arial, sans-serif;
       background: #f7f9fc;
@@ -165,9 +164,9 @@ Version History:
 </head>
 <body>
   <header>
-    <h1>COBIT 2019 - Foundation</h1>
+    <h1>TOGAF 10 - Enterprise Architecture Foundation</h1>
     <div class="meta">
-      Version: v1.1 | Total Questions: <span id="total-questions">--</span>
+      Version: v1.2 | Total Questions: <span id="total-questions">--</span>
     </div>
   </header>
   <div class="container">
@@ -196,10 +195,7 @@ Version History:
     function excludeExpiredQuestions(history) {
       const now = Date.now();
       for (const id in history) {
-        if (
-          history[id].excludeUntil &&
-          now > history[id].excludeUntil
-        ) {
+        if (history[id].excludeUntil && now > history[id].excludeUntil) {
           history[id].excludeUntil = null;
           history[id].correctStreak = 0;
         }
@@ -215,6 +211,7 @@ Version History:
     let score = 0;
     let lastSelectedQuestions = [];
     let questionHistory = {};
+    let sessionQuestionCount = 40; // default, overridden by prompt
 
     function shuffle(array) {
       for (let i = array.length - 1; i > 0; i--) {
@@ -232,7 +229,7 @@ Version History:
         document.getElementById("total-questions").textContent = allQuestions.length;
         questionHistory = getQuestionHistory();
         questionHistory = excludeExpiredQuestions(questionHistory);
-        startNewQuizSession();
+        startNewQuizSession(true, true); // new set, ask user count
       } catch (err) {
         document.getElementById("error-area").style.display = "block";
         document.getElementById("error-area").textContent = "Error: " + err.message;
@@ -240,31 +237,58 @@ Version History:
       }
     }
 
+    function askSessionQuestionCount(maxAvailable) {
+      let count = null;
+      const defaultCount = Math.min(40, maxAvailable);
+      while (count === null) {
+        const input = prompt(
+          `How many questions would you like in this session? (1–${maxAvailable}, default ${defaultCount})`
+        );
+        if (input === null || input.trim() === "") {
+          count = defaultCount;
+          break;
+        }
+        const num = parseInt(input, 10);
+        if (!isNaN(num) && num >= 1 && num <= maxAvailable) {
+          count = num;
+        } else {
+          alert(`Please enter a number between 1 and ${maxAvailable}.`);
+        }
+      }
+      return count;
+    }
+
     function filterQuestionsForSession(rawQuestions) {
       const now = Date.now();
       return rawQuestions.filter(q => {
         const hist = questionHistory[q.id];
-        // Only exclude if excludeUntil is set, and in the future
-        return !(
-          hist &&
-          hist.excludeUntil &&
-          now < hist.excludeUntil
-        );
+        return !(hist && hist.excludeUntil && now < hist.excludeUntil);
       });
     }
 
-    function startNewQuizSession(newSet = true) {
+    function startNewQuizSession(newSet = true, askCount = false) {
       score = 0;
       currentQuestion = 0;
 
       let availableQuestions = filterQuestionsForSession(allQuestions);
-      if (availableQuestions.length < 40 && allQuestions.length >= 40) {
-        alert('Fewer than 40 questions are available because some have been excluded for 7 days.');
+      if (availableQuestions.length === 0) {
+        alert('No questions are currently available (all excluded). Try again later.');
+        questions = [];
+        return;
+      }
+
+      if (askCount) {
+        sessionQuestionCount = askSessionQuestionCount(availableQuestions.length);
+      } else {
+        // Ensure sessionQuestionCount never exceeds available questions
+        sessionQuestionCount = Math.min(sessionQuestionCount, availableQuestions.length);
       }
 
       if (newSet) {
         questions = shuffle(availableQuestions.slice());
-        if (questions.length > 40) questions = questions.slice(0, 40);
+        if (questions.length > sessionQuestionCount) {
+          questions = questions.slice(0, sessionQuestionCount);
+        }
         lastSelectedQuestions = questions.slice();
       } else {
         questions = lastSelectedQuestions.slice().filter(q =>
@@ -273,8 +297,12 @@ Version History:
         if (questions.length === 0) {
           alert('All questions in the previous set have been excluded for 7 days. A new set will be chosen.');
           questions = shuffle(availableQuestions.slice());
-          if (questions.length > 40) questions = questions.slice(0, 40);
+          if (questions.length > sessionQuestionCount) {
+            questions = questions.slice(0, sessionQuestionCount);
+          }
           lastSelectedQuestions = questions.slice();
+        } else if (questions.length > sessionQuestionCount) {
+          questions = questions.slice(0, sessionQuestionCount);
         }
       }
 
@@ -287,12 +315,12 @@ Version History:
       const q = questions[currentQuestion];
       document.getElementById("question-text").textContent = q.question;
 
-      // Shuffle answers and track new correct answer position
       const optionsWithIndexes = q.options.map((opt, idx) => ({ opt, idx }));
       shuffle(optionsWithIndexes);
 
       questions[currentQuestion].shuffledOptions = optionsWithIndexes;
-      questions[currentQuestion].shuffledAnswer = optionsWithIndexes.findIndex(o => o.idx === q.answer);
+      questions[currentQuestion].shuffledAnswer =
+        optionsWithIndexes.findIndex(o => o.idx === q.answer);
 
       const optionsList = document.getElementById("options-list");
       optionsList.innerHTML = "";
@@ -323,7 +351,6 @@ Version History:
         if (idx === selectedIndex && selectedIndex !== correctIndex) btn.classList.add("incorrect");
       });
 
-      // Track question performance (by unique question id)
       let hist = questionHistory[q.id] || { correctStreak: 0, excludeUntil: null };
       if (selectedIndex === correctIndex) {
         score++;
@@ -335,7 +362,6 @@ Version History:
           `❌ Incorrect! Correct answer: ${q.shuffledOptions[correctIndex].opt}`;
       }
 
-      // Exclude for 7 days if correctStreak hits 3
       if (hist.correctStreak >= 3) {
         hist.excludeUntil = Date.now() + (7 * 24 * 60 * 60 * 1000);
         hist.correctStreak = 0;
@@ -364,9 +390,9 @@ Version History:
       const resultArea = document.getElementById("result-area");
       resultArea.style.display = "block";
       const percentage = (score / questions.length) * 100;
-      const status = percentage >= 55 ?
-        `<span class="pass">PASS ✅</span>` :
-        `<span class="fail">FAIL ❌</span>`;
+      const status = percentage >= 55
+        ? `<span class="pass">PASS ✅</span>`
+        : `<span class="fail">FAIL ❌</span>`;
       resultArea.innerHTML = `
         <div class="result">
           <p>Your Score: ${score} / ${questions.length} (${percentage.toFixed(2)}%)</p>
@@ -374,8 +400,11 @@ Version History:
           <button class="restart-btn" id="restart-btn">Restart Exam</button>
         </div>`;
       document.getElementById("restart-btn").addEventListener("click", () => {
-        const useNewSet = confirm("Do you want a NEW set of questions? Press Cancel for the same questions.");
-        startNewQuizSession(useNewSet);
+        const useNewSet = confirm(
+          "Do you want a NEW set of questions? Press Cancel for the same questions."
+        );
+        // On restart, always ask again how many questions you want
+        startNewQuizSession(useNewSet, true);
       });
     }
 
