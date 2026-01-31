@@ -5,14 +5,13 @@ General Purpose:
 This web application enables users to efficiently practice for the TOGAF 10 Enterprise Architecture Foundation exam.
 It delivers randomized question sets, tracks progress and performance, and leverages browser storage for adaptive learning.
 
-Version History:
-| Timestamp               | Description                                                                                  |
-|-------------------------|----------------------------------------------------------------------------------------------|
-| 2025-08-17 21:02 EDT    | Initial release: responsive layout, 40-question selection, feedback, restart                 |
-| 2025-08-18 13:49 EDT    | Added version tracking and update logging in comment block per user instructions             |
-| 2025-08-18 13:50 EDT    | Feature: Exclude question for 7 days if answered correctly 3 times in a row                 |
-| 2025-08-18 13:58 EDT    | Moved version history between <html lang> and <head>; formatted as 2-column table           |
-| 2026-01-29 21:30 EST    | v1.2 Ask user how many questions to include in a session; use user-defined session length   |
+Version History (timestamp | description):
+2025-08-17 21:02 EDT | Initial release: responsive layout, 40-question selection, feedback, restart
+2025-08-18 13:49 EDT | Added version tracking and update logging in comment block per user instructions
+2025-08-18 13:50 EDT | Feature: Exclude question for 7 days if answered correctly 3 times in a row
+2025-08-18 13:58 EDT | Moved version history between html lang and head; formatted as 2-column style text
+2026-01-29 21:30 EST | v1.2 Ask user how many questions to include in a session; use user-defined session length
+2026-01-29 21:51 EST | v1.3 Show optional explanation text when an answer is wrong
 -->
 <head>
   <meta charset="UTF-8" />
@@ -93,6 +92,7 @@ Version History:
       font-size: 1em;
       margin-top: 15px;
       font-weight: bold;
+      white-space: pre-line;
     }
     .progress {
       margin-top: 22px;
@@ -166,7 +166,7 @@ Version History:
   <header>
     <h1>TOGAF 10 - Enterprise Architecture Foundation</h1>
     <div class="meta">
-      Version: v1.2 | Total Questions: <span id="total-questions">--</span>
+      Version: v1.3 | Total Questions: <span id="total-questions">--</span>
     </div>
   </header>
   <div class="container">
@@ -189,9 +189,11 @@ Version History:
         return {};
       }
     }
+
     function setQuestionHistory(history) {
       localStorage.setItem('questionHistory', JSON.stringify(history));
     }
+
     function excludeExpiredQuestions(history) {
       const now = Date.now();
       for (const id in history) {
@@ -270,7 +272,7 @@ Version History:
       score = 0;
       currentQuestion = 0;
 
-      let availableQuestions = filterQuestionsForSession(allQuestions);
+      const availableQuestions = filterQuestionsForSession(allQuestions);
       if (availableQuestions.length === 0) {
         alert('No questions are currently available (all excluded). Try again later.');
         questions = [];
@@ -280,7 +282,6 @@ Version History:
       if (askCount) {
         sessionQuestionCount = askSessionQuestionCount(availableQuestions.length);
       } else {
-        // Ensure sessionQuestionCount never exceeds available questions
         sessionQuestionCount = Math.min(sessionQuestionCount, availableQuestions.length);
       }
 
@@ -352,21 +353,26 @@ Version History:
       });
 
       let hist = questionHistory[q.id] || { correctStreak: 0, excludeUntil: null };
+      const feedbackEl = document.getElementById("feedback");
+
       if (selectedIndex === correctIndex) {
         score++;
         hist.correctStreak = (hist.correctStreak || 0) + 1;
-        document.getElementById("feedback").textContent = "✅ Correct!";
+        feedbackEl.textContent = "✅ Correct!";
       } else {
         hist.correctStreak = 0;
-        document.getElementById("feedback").textContent =
-          `❌ Incorrect! Correct answer: ${q.shuffledOptions[correctIndex].opt}`;
+        let message = `❌ Incorrect! Correct answer: ${q.shuffledOptions[correctIndex].opt}`;
+        if (q.explanation) {
+          message += `\nExplanation: ${q.explanation}`;
+        }
+        feedbackEl.textContent = message;
       }
 
       if (hist.correctStreak >= 3) {
         hist.excludeUntil = Date.now() + (7 * 24 * 60 * 60 * 1000);
         hist.correctStreak = 0;
-        document.getElementById("feedback").textContent +=
-          " This question will be excluded from sessions for 7 days!";
+        feedbackEl.textContent +=
+          "\nThis question will be excluded from sessions for 7 days!";
       }
       questionHistory[q.id] = hist;
       setQuestionHistory(questionHistory);
@@ -403,7 +409,6 @@ Version History:
         const useNewSet = confirm(
           "Do you want a NEW set of questions? Press Cancel for the same questions."
         );
-        // On restart, always ask again how many questions you want
         startNewQuizSession(useNewSet, true);
       });
     }
