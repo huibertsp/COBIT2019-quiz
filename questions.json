@@ -709,7 +709,7 @@
       "documenting the most appropriate accountabilities and responsibilities"
     ],
     "answer": 0,
-    "explanation": Designing a tailored governance system in COBIT 2019 leads to recommendations on which governance/management objectives to prioritize and what capability levels each should reach, or which variants of components to adopt, rather than just documenting accountabilities or enabler dimensions.
+    "explanation": "Designing a tailored governance system in COBIT 2019 leads to recommendations on which governance/management objectives to prioritize and what capability levels each should reach, or which variants of components to adopt, rather than just documenting accountabilities or enabler dimensions."
   },
   {
     "id": 72,
@@ -832,8 +832,7 @@
       "Mitigation of all risks associated with the implementation of EGIT projects"
     ],
     "answer": 1,
-    "explanation": The desired outcome is that EGIT projects stop being special, standalone initiatives and instead become part of the organization’s normal, ongoing development lifecycle so governance is embedded and sustainable.
-
+    "explanation": "The desired outcome is that EGIT projects stop being special, standalone initiatives and instead become part of the organization’s normal, ongoing development lifecycle so governance is embedded and sustainable."
   },
   {
     "id": 84,
