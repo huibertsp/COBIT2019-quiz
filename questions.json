@@ -1797,7 +1797,8 @@
       "DSS (Deliver, Service and Support)",
       "BAI (Build, Acquire and Implement)"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": "In COBIT 2019, human resource–related responsibilities (such as roles, skills, and competencies needed to support I&T) are addressed under the APO management objectives, which cover organization, strategy, and supporting activities for enterprise I&T."
   },
   {
     "id": 172,
