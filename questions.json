@@ -1619,7 +1619,8 @@
       "DSS (Deliver, Service and Support)",
       "MEA (Monitor, Evaluate and Assess)"
     ],
-    "answer": 0
+    "answer": 0,
+    "explanation": "APO includes the objective for managing third-party and supplier relationships, so responsibility for governing vendor interactions and related risks sits in this domain rather than in MEA, DSS, or BAI."
   },
   {
     "id": 156,
