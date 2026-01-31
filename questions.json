@@ -198,7 +198,8 @@
       "1 governance group, 4 management group",
       "4 governance group, 1 management group"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": "COBIT 2019's core model consists of 5 domains total: 1 governance domain (EDM - Evaluate, Direct and Monitor) and 4 management domains (APO, BAI, DSS, MEA)"    
   },
   {
     "id": 21,
