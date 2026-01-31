@@ -831,8 +831,7 @@
       "Development of a record of unapproved EGIT projects",
       "Mitigation of all risks associated with the implementation of EGIT projects"
     ],
-    "answer": 1,
-    "explanation": "The desired outcome is that EGIT projects stop being special, standalone initiatives and instead become part of the organization’s normal, ongoing development lifecycle so governance is embedded and sustainable."
+    "answer": 1
   },
   {
     "id": 84,
