@@ -805,9 +805,9 @@
     "id": 81,
     "question": "Phase _________ of the Implementation lifecycle sets a target for improvement followed by a gap analysis to identify potential solutions.",
     "options": [
-      "3, Where do we want to be?",
-      "1, What are the drivers?",
-      "2, What needs to be done"
+      "Where do we want to be?",
+      "What are the drivers?",
+      "What needs to be done"
     ],
     "answer": 0
   },
