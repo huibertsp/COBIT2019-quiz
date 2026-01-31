@@ -2897,6 +2897,127 @@
       "Purchasing hardware immediately"
     ],
     "answer": 1
+  },
+  {
+    "id": 272,
+    "question": "'I&T' in COBIT2019 means?",
+    "options": [
+      "Organizational department with the main responsability for technology",
+      "Governance of Information and Technology that may reside also outside technology department",
+      "Governance of Information Technology which is the responsability of the IT organizational department"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "id": 273,
+    "question": "The context of Enterprise Governance of Information and Technology includes?",
+    "options": [
+      "Governance leads the alignment which leads to value",
+      "Governance leads to value which leads to alignment",
+      "Alignment and value leads to governance"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": 274,
+    "question": "Enterprise Governance of Information and Technology (EGIT) leads to 3 outcomes, which of following is NOT one of them?",
+    "options": [
+      "Benefits realization",
+      "Risk realization",
+      "Risk optimization"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "id": 275,
+    "question": "Which of the following is TRUE about COBIT?",
+    "options": [
+      "COBIT is aimed at whole enterprise",
+      "COBIT is a framework to organize business processes",
+      "COBIT prescribes IT related decisions"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": 276,
+    "question": "Which of the following best describes COBIT?",
+    "options": [
+      "COBIT is a framework for the governance and management of enterprise information and technology",
+      "COBIT is a full description of the whole IT environment of an enterprise",
+      "COBIT is a framework to organize business processes"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": 277,
+    "question": "Which of the following is NOT a governance framework principle?",
+    "options": [
+      "Provide Stakeholder value",
+      "Open and flexible",
+      "Based on conceptual model"
+    ],
+    "answer": 0,
+    "explanation": ""
+  },
+  {
+    "id": 278,
+    "question": "Which of the following is NOT a governance system principle",
+    "options": [
+      "Holistic Apprach",
+      "Governance disctinct from management",
+      "Based on conceptual model"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "id": 279,
+    "question": "Explain principle „Dynamic Governance System“",
+    "options": [
+      "a Governance system for enterpriseI&T is built from a number of components that can work together in a holistic way",
+      "Each time one or more of the design factors are changed, the impact of these changes on the EGIT system muct be considered",
+      "a Governance system should clearly disctinguish between governance and management activities and structures"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "id": 280,
+    "question": "Explain „Holistic Approach“ principle",
+    "options": [
+      "A governance system should be customized to the enterprise's needs",
+      "A governance system for enterprise I&T is build from a number of components that can work together in a holistic way",
+      "A governance system should clearly disctinguish between governance and management activities and structures"
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "id": 281,
+    "question": "What is the primary difference between Governance System Principles and Governance Framework Principles?",
+    "options": [
+      "Governance System Principles focus on stakeholder needs while Governance Framework Principles focus on information and Technology needs",
+      "Governance System Principles and Governance Framework Principles are the same thing in COBIT 2019",
+      "Governance System Principles describe the core requriements for a governance system while Governance Framework Principles focus on building that governance system"
+    ],
+    "answer": 2,
+    "explanation": ""
+  },
+  {
+    "id": 282,
+    "question": "“A governance system should be customized to the enterprise’s needs, using a set of design factors as parameters to customize and prioritize the governance system components” is an example of which Governance System Principle?",
+    "options": [
+      "Tailored to enterprise needs",
+      "Open and flexible",
+      "Goals cascade"
+    ],
+    "answer": 0,
+    "explanation": ""
   }
 ]
 
