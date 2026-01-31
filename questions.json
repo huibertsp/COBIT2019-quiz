@@ -708,7 +708,8 @@
       "documenting the four enabler dimensions",
       "documenting the most appropriate accountabilities and responsibilities"
     ],
-    "answer": 0
+    "answer": 0,
+    "explanation": Designing a tailored governance system in COBIT 2019 leads to recommendations on which governance/management objectives to prioritize and what capability levels each should reach, or which variants of components to adopt, rather than just documenting accountabilities or enabler dimensions.
   },
   {
     "id": 72,
