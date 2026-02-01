@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "question": "Complete the sentence. When considering agile development, Architecture to Support Project will identify what products the Enterprise needs, the boundary of the products, and what constraints a product owner has; this defines the Enterprise’s ______________.",
+    "question": "Complete the sentence. When considering agile development, Architecture to Support Project will identify what products the Enterprise needs, the boundary of the products, and what constraints a product owner has; this defines the Enterprise\u2019s ______________.",
     "options": [
       "operations",
       "lifecycle economics",
@@ -9,8 +9,8 @@
       "workflow management"
     ],
     "answer": 2,
-    "explanation": "In COBIT’s agile-aware view, identifying needed products, their boundaries, and the product owner’s constraints effectively defines the enterprise’s product backlog.",
-    "examDomain":"Designing a Tailored Governance System"
+    "explanation": "In COBIT\u2019s agile-aware view, identifying needed products, their boundaries, and the product owner\u2019s constraints effectively defines the enterprise\u2019s product backlog.",
+    "examDomain": "Designing a Tailored Governance System"
   },
   {
     "id": 2,
@@ -20,7 +20,8 @@
       "External regulators",
       "The board"
     ],
-    "answer": 2
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 3,
@@ -30,7 +31,8 @@
       "Realization of benefits at an optimal resource cost while optimizing risk",
       "Realization of benefits at a reduced resource cost while mitigating risk"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 4,
@@ -40,7 +42,8 @@
       "focused exclusively on I&T investments that generate financial benefits.",
       "restricted to maintaining and increasing value derived from existing I&T investments."
     ],
-    "answer": 0
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 5,
@@ -50,7 +53,8 @@
       "Providing a full description of the entire IT environment within an enterprise",
       "Defining specific governance strategies and processes to implement in specific situations"
     ],
-    "answer": 0
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 6,
@@ -60,7 +64,8 @@
       "COBIT includes relevant content from other related I&T standards, frameworks and regulations.",
       "COBIT serves as a comprehensive standalone framework that covers all relevant I&T-related activities."
     ],
-    "answer": 0
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 7,
@@ -70,7 +75,8 @@
       "Monitoring activities designed to achieve enterprise objectives",
       "Evaluating stakeholder needs to determine enterprise objectives"
     ],
-    "answer": 2
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 8,
@@ -80,7 +86,8 @@
       "the executive management team.",
       "the board of directors."
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 9,
@@ -90,7 +97,8 @@
       "COBIT helps to manage the dependency on the use of external service providers.",
       "COBIT helps to ensure compliance with applicable rules and regulations."
     ],
-    "answer": 2
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 10,
@@ -100,7 +108,8 @@
       "assurance professionals responsible for evaluating and reporting on the existence of internal controls.",
       "business and IT management responsible for building and deploying I&T solutions."
     ],
-    "answer": 0
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 11,
@@ -110,7 +119,8 @@
       "a balance among benefits, risk and resources.",
       "maximized financial benefits to the investment portfolio."
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 12,
@@ -120,7 +130,8 @@
       "Prioritization of governance objectives.",
       "Program management."
     ],
-    "answer": 2
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 13,
@@ -130,7 +141,8 @@
       "ISO 15504",
       "COBIT 5 PAM"
     ],
-    "answer": 0
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 14,
@@ -140,7 +152,8 @@
       "The overall cost of design may increase",
       "The time of the governance system design may increase"
     ],
-    "answer": 0
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 15,
@@ -150,7 +163,8 @@
       "Stage 2. Determine the initial scope of the governance system",
       "Stage 3: Refine the scope of the governance system"
     ],
-    "answer": 0
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 16,
@@ -160,7 +174,8 @@
       "In the project plan",
       "In the project charter"
     ],
-    "answer": 0
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 17,
@@ -170,7 +185,8 @@
       "Inability to exploit new technologies or innovate using I&T.",
       "Optimization of internal business process functionality."
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 18,
@@ -180,7 +196,8 @@
       "Design Factors.",
       "Management Objectives."
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 19,
@@ -190,7 +207,8 @@
       "Growth, business, customer and financial",
       "Growth, internal, customer and financial"
     ],
-    "answer": 2
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 20,
@@ -201,7 +219,7 @@
       "4 governance group, 1 management group"
     ],
     "answer": 1,
-    "explanation": "COBIT 2019's core model consists of 5 domains total: 1 governance domain (EDM - Evaluate, Direct and Monitor) and 4 management domains (APO, BAI, DSS, MEA)"    
+    "explanation": "COBIT 2019's core model consists of 5 domains total: 1 governance domain (EDM - Evaluate, Direct and Monitor) and 4 management domains (APO, BAI, DSS, MEA)"
   },
   {
     "id": 21,
@@ -211,7 +229,8 @@
       "Variant components",
       "Specific components"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 22,
@@ -221,7 +240,8 @@
       "Customer",
       "Internal"
     ],
-    "answer": 2
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 23,
@@ -231,17 +251,19 @@
       "Medium-term cost equalization",
       "Short-term cost minimization"
     ],
-    "answer": 0
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 24,
     "question": "Within the COBIT goals cascade, stakeholder drivers are transformed into:",
     "options": [
-      "the enterprise’s actionable strategy.",
+      "the enterprise\u2019s actionable strategy.",
       "business unit performance metrics.",
-      "the enterprise’s governance framework."
+      "the enterprise\u2019s governance framework."
     ],
-    "answer": 0
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 25,
@@ -251,7 +273,8 @@
       "Stakeholder drivers and needs",
       "Governance and management objectives"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 26,
@@ -261,7 +284,8 @@
       "Financial",
       "Internal"
     ],
-    "answer": 2
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 27,
@@ -271,7 +295,8 @@
       "Ratio of significant incidents that were not identified in risk assessments vs. total incidents",
       "Number of business processing hours lost due to unplanned service interruptions"
     ],
-    "answer": 2
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 28,
@@ -281,7 +306,8 @@
       "Product and business innovation",
       "Quality of management information"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 29,
@@ -291,7 +317,8 @@
       "Organizational objectives",
       "Enterprise strategy"
     ],
-    "answer": 0
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 30,
@@ -302,8 +329,8 @@
       "Number of confidentiality incidents causing financial loss, business disruption or public embarrassment."
     ],
     "answer": 2,
-    "explanation": "This metric directly measures breaches of information security and privacy, so it best reflects performance against the alignment goal “security of information and privacy",
-    "examDomain":"Governance and Management Objectives"
+    "explanation": "This metric directly measures breaches of information security and privacy, so it best reflects performance against the alignment goal \u201csecurity of information and privacy",
+    "examDomain": "Governance and Management Objectives"
   },
   {
     "id": 31,
@@ -313,7 +340,8 @@
       "Percent of business staff satisfied that IT service delivery meets agreed service levels",
       "Level of user satisfaction with the quality and availability of I&T-related management information"
     ],
-    "answer": 0
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 32,
@@ -323,7 +351,8 @@
       "Financial",
       "Internal"
     ],
-    "answer": 0
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 33,
@@ -333,7 +362,8 @@
       "Managed availability and capacity",
       "Managed service agreements"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 34,
@@ -343,7 +373,8 @@
       "A risk management framework",
       "A managed system of internal controls"
     ],
-    "answer": 2
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 35,
@@ -353,7 +384,8 @@
       "Achieve competitive advantage, improve customer experience and improve operational effectiveness.",
       "Support the digital transformation strategy of the organization and deliver the desired value."
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 36,
@@ -363,7 +395,8 @@
       "Technology and innovation processes are overseen by the board.",
       "Assurance on controls is obtained from independent IT auditors."
     ],
-    "answer": 0
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 37,
@@ -373,7 +406,8 @@
       "COBIT is a full description of the whole IT environment of an enterprise.",
       "COBIT is a framework to organize business processes."
     ],
-    "answer": 0
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 38,
@@ -383,7 +417,8 @@
       "The organization's CIO is accountable for the Enterprise Governance of Information and Technology",
       "Enables both business and IT people to execute their responsibilities in support of business/IT alignment."
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 39,
@@ -393,7 +428,8 @@
       "Business partner",
       "Executive management"
     ],
-    "answer": 2
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 40,
@@ -403,7 +439,8 @@
       "Stakeholder needs, conditions and options are evaluated to determine balanced, agreed-on enterprise objectives.",
       "Direction is set through prioritization and decision making."
     ],
-    "answer": 0
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 41,
@@ -413,7 +450,8 @@
       "COBIT does not copy the contents of these related standards.",
       "COBIT provides equivalent statements or references to related guidance."
     ],
-    "answer": 0
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 42,
@@ -423,7 +461,8 @@
       "The COBIT 2019 Design Guide",
       "The COBIT 2019 Implementation Guide"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 43,
@@ -433,7 +472,8 @@
       "Governance System Principles and Governance Framework Principles are the same thing in COBIT 2019.",
       "Governance System Principles describe the core requirements for a governance system while Governance Framework Principles focus on building that governance system."
     ],
-    "answer": 2
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 44,
@@ -443,7 +483,8 @@
       "Open and flexible",
       "Goals cascade"
     ],
-    "answer": 0
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 45,
@@ -453,7 +494,8 @@
       "one process",
       "one governance framework principle"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 46,
@@ -463,7 +505,8 @@
       "Organizational structures",
       "Information"
     ],
-    "answer": 0
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 47,
@@ -473,7 +516,8 @@
       "Alignment goals",
       "Design factors"
     ],
-    "answer": 2
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 48,
@@ -485,7 +529,7 @@
     ],
     "answer": 0,
     "explanation": "In COBIT 2019, the risk profile is one of the formal design factors used to prioritize governance and management objectives by influencing which enterprise goals (and thus which objectives) are most critical.",
-    "examDomain":"Designing a Tailored Governance System"
+    "examDomain": "Designing a Tailored Governance System"
   },
   {
     "id": 49,
@@ -495,7 +539,8 @@
       "When IT fails, there is an immediate impact on the running and continuity of the business processes and services. However, IT is not seen as a driver for innovating business processes and services.",
       "IT is not crucial for the running and continuity of the business process and services, nor for their innovation."
     ],
-    "answer": 0
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 50,
@@ -505,7 +550,8 @@
       "Stakeholder drivers and needs, enterprise goals, alignment goals, governance and management objectives",
       "Where are we now, where do we want to be, how do we get there, how do we keep the momentum"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 51,
@@ -515,7 +561,8 @@
       "A governance objective relates to a governance process, while a management objective relates to a governance component.",
       "Governance processes typically are under the accountability of boards and executive management; management processes are the domain of senior and middle management."
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 52,
@@ -525,7 +572,8 @@
       "Balanced Scorecard",
       "Deliver, Service and Support"
     ],
-    "answer": 2
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 53,
@@ -535,7 +583,8 @@
       "Organizational Structures Component",
       "Process Component"
     ],
-    "answer": 2
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 54,
@@ -545,7 +594,8 @@
       "COBIT 2019 Design Guide",
       "COBIT 2019 Enabler Guide"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 55,
@@ -555,7 +605,8 @@
       "goals",
       "practices"
     ],
-    "answer": 0
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 56,
@@ -565,7 +616,8 @@
       "Responsible and accountable",
       "Ownership and delegated"
     ],
-    "answer": 0
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 57,
@@ -575,7 +627,8 @@
       "BAI02 Managed Requirements Definition",
       "APO09 Managed Service Agreements"
     ],
-    "answer": 0
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 58,
@@ -585,7 +638,8 @@
       "APO04 Managed Innovation",
       "BAI08 Managed Knowledge"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 59,
@@ -595,7 +649,8 @@
       "DevOps",
       "Growth"
     ],
-    "answer": 2
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 60,
@@ -605,7 +660,8 @@
       "37",
       "40"
     ],
-    "answer": 2
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 61,
@@ -615,7 +671,8 @@
       "Maturity and capability",
       "Primary and secondary"
     ],
-    "answer": 2
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 62,
@@ -625,7 +682,8 @@
       "Capability level 5",
       "Align, Plan and Organize"
     ],
-    "answer": 2
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 63,
@@ -635,7 +693,8 @@
       "Monitor, Evaluate and Assess",
       "Ensured Benefits Delivery"
     ],
-    "answer": 0
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 64,
@@ -645,7 +704,8 @@
       "Chief Digital Officer",
       "COBIT Framework Owner"
     ],
-    "answer": 2
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 65,
@@ -655,7 +715,8 @@
       "Assessing performance should be completed at the governance component level only.",
       "The CPM should support different types of assessments."
     ],
-    "answer": 2
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 66,
@@ -665,7 +726,8 @@
       "COBIT has its own capability scheme and does not support any industry-based frameworks.",
       "Skills Framework for the Information Age (SFIA)."
     ],
-    "answer": 0
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 67,
@@ -675,7 +737,8 @@
       "Fully, Largely, Partially, Not",
       "High, medium, low"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 68,
@@ -685,7 +748,8 @@
       "The capability level is achieved between 15 percent and 50 percent.",
       "The capability level is achieved less than 15 percent."
     ],
-    "answer": 0
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 69,
@@ -695,7 +759,8 @@
       "Level 2",
       "Level 4"
     ],
-    "answer": 2
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 70,
@@ -705,7 +770,8 @@
       "Understanding principles, policies and procedures",
       "Escalation procedures"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 71,
@@ -726,7 +792,8 @@
       "What are the drivers; Where are we now; Where to we want to be; What needs to be done; How do we get there; Did we get there; How do we keep the momentum going.",
       "Direct the governance system; Plan the governance system; Build the governance system; Run the governance system; Monitor the governance system."
     ],
-    "answer": 0
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 73,
@@ -736,7 +803,8 @@
       "Determine the initial scope of the governance system",
       "Plan program"
     ],
-    "answer": 0
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 74,
@@ -746,7 +814,8 @@
       "Step 4, Conclude the governance system design",
       "Step 1, What are the drivers?"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 75,
@@ -756,7 +825,8 @@
       "The COBIT 2019 Implementation Guide",
       "All of the above"
     ],
-    "answer": 2
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 76,
@@ -766,7 +836,8 @@
       "Both approaches have seven steps, and each of those steps aligns with each other.",
       "The COBIT Design Guide primarily aligns with the first three phases of the implementation lifecycle."
     ],
-    "answer": 2
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 77,
@@ -776,7 +847,8 @@
       "Phase 6, Did we get there?",
       "Phase 1, Assess Current State"
     ],
-    "answer": 0
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 78,
@@ -786,7 +858,8 @@
       "Program Management, Change Enablement, Continual Improvement",
       "Initiate program, establish desire to change, recognize need to act"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 79,
@@ -796,7 +869,8 @@
       "Business case",
       "Change driver"
     ],
-    "answer": 2
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 80,
@@ -806,7 +880,8 @@
       "Monitor and evaluate",
       "Sustain"
     ],
-    "answer": 2
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 81,
@@ -816,7 +891,8 @@
       "What are the drivers?",
       "What needs to be done"
     ],
-    "answer": 0
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 82,
@@ -827,7 +903,8 @@
       "reduces projects into smaller executable pieces.",
       "focuses on enabling IT value over business value."
     ],
-    "answer": 3
+    "answer": 3,
+    "explanation": ""
   },
   {
     "id": 83,
@@ -838,7 +915,8 @@
       "Development of a record of unapproved EGIT projects",
       "Mitigation of all risks associated with the implementation of EGIT projects"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 84,
@@ -848,7 +926,8 @@
       "Internal",
       "Customer"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 85,
@@ -858,7 +937,8 @@
       "IT compliance with internal policies",
       "Business service continuity and availability"
     ],
-    "answer": 2
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 86,
@@ -869,7 +949,8 @@
       "Where do we want to be?",
       "What are the drivers?"
     ],
-    "answer": 2
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 87,
@@ -879,7 +960,8 @@
       "Managed security",
       "Managed portfolio"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 88,
@@ -890,7 +972,8 @@
       "Chief information officer (CIO)",
       "Implementation team"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 89,
@@ -901,7 +984,8 @@
       "Optimization of business process costs",
       "Product and business innovation"
     ],
-    "answer": 3
+    "answer": 3,
+    "explanation": ""
   },
   {
     "id": 90,
@@ -911,7 +995,8 @@
       "Add key performance indicators (KPIs) to a balanced scorecard.",
       "Generate an IT governance policy."
     ],
-    "answer": 2
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 91,
@@ -922,7 +1007,8 @@
       "risks that have a high impact.",
       "risks that have already materialized."
     ],
-    "answer": 2
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 92,
@@ -933,7 +1019,8 @@
       "Information flows including security policy",
       "Information security focus areas"
     ],
-    "answer": 3
+    "answer": 3,
+    "explanation": ""
   },
   {
     "id": 93,
@@ -944,7 +1031,8 @@
       "DevOps",
       "Agile"
     ],
-    "answer": 3
+    "answer": 3,
+    "explanation": ""
   },
   {
     "id": 94,
@@ -955,7 +1043,8 @@
       "Risk frameworks",
       "Implementation costs"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 95,
@@ -966,7 +1055,8 @@
       "The enterprise should refer to the COBIT design workflow for universally applicable guidelines to resolve conflicting priorities.",
       "The enterprise should be prepared to deviate from previously identified priorities with justified reasons."
     ],
-    "answer": 3
+    "answer": 3,
+    "explanation": ""
   },
   {
     "id": 96,
@@ -977,7 +1067,8 @@
       "Threat landscape",
       "IT deployment"
     ],
-    "answer": 0
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 97,
@@ -988,7 +1079,8 @@
       "Organizational Structures",
       "Corporate Culture"
     ],
-    "answer": 2
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 98,
@@ -999,7 +1091,8 @@
       "To develop software applications",
       "To optimize business processes"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 99,
@@ -1010,7 +1103,8 @@
       "Governance System",
       "Governance Practices"
     ],
-    "answer": 0
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 100,
@@ -1021,7 +1115,8 @@
       "Performance Metrics",
       "Organizational Structures"
     ],
-    "answer": 2
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 101,
@@ -1032,7 +1127,8 @@
       "They develop new business models",
       "They manage vendor relationships"
     ],
-    "answer": 0
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 102,
@@ -1043,7 +1139,8 @@
       "Information Flows",
       "Risk Management"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 103,
@@ -1054,7 +1151,8 @@
       "Operational and Financial Objectives",
       "User and Vendor Objectives"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 104,
@@ -1065,7 +1163,8 @@
       "A network of technologies and applications",
       "A team of IT auditors and controllers"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 105,
@@ -1076,7 +1175,8 @@
       "Governance Structures",
       "Information Flows"
     ],
-    "answer": 0
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 106,
@@ -1087,7 +1187,8 @@
       "To replace enterprise architecture",
       "To manage project timelines"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 107,
@@ -1098,7 +1199,8 @@
       "Information Flows",
       "Governance Practices"
     ],
-    "answer": 2
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 108,
@@ -1109,7 +1211,8 @@
       "Governance Body",
       "External Auditors"
     ],
-    "answer": 2
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 109,
@@ -1120,7 +1223,8 @@
       "To develop software",
       "To manage vendor contracts"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 110,
@@ -1131,7 +1235,8 @@
       "Principles",
       "Information Flows"
     ],
-    "answer": 0
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 111,
@@ -1144,7 +1249,7 @@
     ],
     "answer": 1,
     "explanation": "COBIT 2019 explicitly defines governance as the activities of evaluating stakeholder needs, directing through prioritization and decision-making, and monitoring performance and compliance (EDM domain).",
-    "examDomain":"Governance System and Components"
+    "examDomain": "Governance System and Components"
   },
   {
     "id": 112,
@@ -1155,7 +1260,8 @@
       "Principles, Policies, and Frameworks",
       "Governance Structures"
     ],
-    "answer": 0
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 113,
@@ -1166,7 +1272,8 @@
       "Management directs governance bodies",
       "Both perform the same functions"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 114,
@@ -1177,7 +1284,8 @@
       "That budgets are strictly followed",
       "That security protocols are enforced"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 115,
@@ -1188,7 +1296,8 @@
       "Build, Acquire and Implement",
       "Deliver, Service and Support"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 116,
@@ -1199,7 +1308,8 @@
       "Risk Avoidance",
       "Operational Efficiency"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 117,
@@ -1210,7 +1320,8 @@
       "Principles, Policies, and Frameworks",
       "Information Flows"
     ],
-    "answer": 0
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 118,
@@ -1221,7 +1332,8 @@
       "Faster software development",
       "Reduced IT costs"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 119,
@@ -1232,7 +1344,8 @@
       "DSS05 Manage Security Services",
       "MEA01 Monitor, Evaluate and Assess Performance and Conformance"
     ],
-    "answer": 0
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 120,
@@ -1243,7 +1356,8 @@
       "To document IT systems configuration",
       "To develop business applications"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 121,
@@ -1254,7 +1368,8 @@
       "Performing operational tasks",
       "Coding and deploying systems"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 122,
@@ -1265,7 +1380,8 @@
       "List of enterprise applications",
       "Compliance checklists"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 123,
@@ -1276,7 +1392,8 @@
       "Writing software code",
       "Training IT staff"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 124,
@@ -1287,7 +1404,8 @@
       "Standardized for all enterprises",
       "Managed solely by IT managers"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 125,
@@ -1298,7 +1416,8 @@
       "Replace ISO standards",
       "Focus solely on cybersecurity"
     ],
-    "answer": 0
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 126,
@@ -1309,7 +1428,8 @@
       "To secure enterprise data",
       "To manage supplier contracts"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 127,
@@ -1320,7 +1440,8 @@
       "Develop software solutions",
       "Manage IT vendor contracts"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 128,
@@ -1331,7 +1452,8 @@
       "Information Flows",
       "Risk Management"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 129,
@@ -1342,7 +1464,8 @@
       "Ignore some components in small enterprises",
       "Focus only on processes"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 130,
@@ -1353,7 +1476,8 @@
       "Management directs governance policies",
       "Governance only applies to IT department"
     ],
-    "answer": 0
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 131,
@@ -1364,7 +1488,8 @@
       "Setting governance frameworks",
       "Constituting governance bodies"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 132,
@@ -1375,7 +1500,8 @@
       "Principles",
       "Information Flows"
     ],
-    "answer": 0
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 133,
@@ -1386,7 +1512,8 @@
       "Replace policies and frameworks",
       "Determine operational budgets"
     ],
-    "answer": 0
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 134,
@@ -1397,7 +1524,8 @@
       "Processes",
       "Information Flows"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 135,
@@ -1408,7 +1536,8 @@
       "They are not relevant to governance",
       "They monitor vendor delivery schedules"
     ],
-    "answer": 0
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 136,
@@ -1419,7 +1548,8 @@
       "Faster software development",
       "Reduced number of IT staff"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 137,
@@ -1430,7 +1560,8 @@
       "To minimize communication",
       "To define enterprise architecture diagrams"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 138,
@@ -1441,7 +1572,8 @@
       "They are mutually exclusive",
       "Only processes matter"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 139,
@@ -1452,7 +1584,8 @@
       "Only after security incidents",
       "Only during audits"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 140,
@@ -1463,7 +1596,8 @@
       "Risk Management",
       "Principles"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 141,
@@ -1474,7 +1608,8 @@
       "Ignore risks to speed up projects",
       "Transfer all risks to vendors"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 142,
@@ -1485,7 +1620,8 @@
       "Monitor, Evaluate and Assess",
       "Deliver, Service and Support"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 143,
@@ -1496,7 +1632,8 @@
       "Develop IT solutions",
       "Recruit IT staff"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 144,
@@ -1507,7 +1644,8 @@
       "Build, Acquire and Implement",
       "Align, Plan and Organize"
     ],
-    "answer": 2
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 145,
@@ -1518,7 +1656,8 @@
       "Compliance assessments",
       "Financial reporting"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 146,
@@ -1529,7 +1668,8 @@
       "EDM (Evaluate, Direct and Monitor)",
       "MEA (Monitor, Evaluate and Assess)"
     ],
-    "answer": 2
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 147,
@@ -1540,7 +1680,8 @@
       "APO (Align, Plan and Organize)",
       "MEA (Monitor, Evaluate and Assess)"
     ],
-    "answer": 2
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 148,
@@ -1551,7 +1692,8 @@
       "EDM (Evaluate, Direct and Monitor)",
       "APO (Align, Plan and Organize)"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 149,
@@ -1562,7 +1704,8 @@
       "Strategic governance policies",
       "Performance monitoring"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 150,
@@ -1573,7 +1716,8 @@
       "DSS (Deliver, Service and Support)",
       "MEA (Monitor, Evaluate and Assess)"
     ],
-    "answer": 3
+    "answer": 3,
+    "explanation": ""
   },
   {
     "id": 151,
@@ -1584,7 +1728,8 @@
       "Building IT solutions",
       "Supporting IT service delivery"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 152,
@@ -1595,7 +1740,8 @@
       "APO (Align, Plan and Organize)",
       "EDM (Evaluate, Direct and Monitor)"
     ],
-    "answer": 2
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 153,
@@ -1606,7 +1752,8 @@
       "DSS (Deliver, Service and Support)",
       "MEA (Monitor, Evaluate and Assess)"
     ],
-    "answer": 2
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 154,
@@ -1617,7 +1764,8 @@
       "Evaluating stakeholder needs",
       "Setting strategic goals"
     ],
-    "answer": 0
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 155,
@@ -1640,7 +1788,8 @@
       "Delivering IT services",
       "Acquiring IT resources"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 157,
@@ -1651,7 +1800,8 @@
       "Planning business alignment",
       "Evaluating enterprise architecture"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 158,
@@ -1664,7 +1814,7 @@
     ],
     "answer": 0,
     "explanation": "The EDM governance domain is responsible for setting direction by establishing the overarching frameworks and policies within which the management domains operate.",
-    "examDomain":"Governance and Management Objectives"
+    "examDomain": "Governance and Management Objectives"
   },
   {
     "id": 159,
@@ -1677,7 +1827,7 @@
     ],
     "answer": 0,
     "explanation": "The BAI (Build, Acquire and Implement) domain in COBIT 2019 focuses specifically on the activities of identifying, acquiring, developing, and implementing I&T solutions and changes, distinguishing it from monitoring (MEA), strategy (APO/EDM), or service delivery (DSS).",
-    "examDomain":"Governance and Management Objectives"
+    "examDomain": "Governance and Management Objectives"
   },
   {
     "id": 160,
@@ -1688,7 +1838,8 @@
       "APO (Align, Plan and Organize)",
       "MEA (Monitor, Evaluate and Assess)"
     ],
-    "answer": 2
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 161,
@@ -1699,7 +1850,8 @@
       "DSS (Deliver, Service and Support)",
       "BAI (Build, Acquire and Implement)"
     ],
-    "answer": 0
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 162,
@@ -1710,7 +1862,8 @@
       "DSS (Deliver, Service and Support)",
       "MEA (Monitor, Evaluate and Assess)"
     ],
-    "answer": 0
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 163,
@@ -1721,7 +1874,8 @@
       "MEA (Monitor, Evaluate and Assess)",
       "APO (Align, Plan and Organize)"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 164,
@@ -1732,7 +1886,8 @@
       "BAI (Build, Acquire and Implement)",
       "MEA (Monitor, Evaluate and Assess)"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 165,
@@ -1743,7 +1898,8 @@
       "BAI (Build, Acquire and Implement)",
       "APO (Align, Plan and Organize)"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 166,
@@ -1754,7 +1910,8 @@
       "DSS (Deliver, Service and Support)",
       "MEA (Monitor, Evaluate and Assess)"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 167,
@@ -1765,7 +1922,8 @@
       "DSS (Deliver, Service and Support)",
       "APO (Align, Plan and Organize)"
     ],
-    "answer": 0
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 168,
@@ -1776,7 +1934,8 @@
       "DSS (Deliver, Service and Support)",
       "MEA (Monitor, Evaluate and Assess)"
     ],
-    "answer": 0
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 169,
@@ -1787,7 +1946,8 @@
       "BAI (Build, Acquire and Implement)",
       "APO (Align, Plan and Organize)"
     ],
-    "answer": 2
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 170,
@@ -1798,7 +1958,8 @@
       "APO (Align, Plan and Organize)",
       "EDM (Evaluate, Direct and Monitor)"
     ],
-    "answer": 0
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 171,
@@ -1810,7 +1971,7 @@
       "BAI (Build, Acquire and Implement)"
     ],
     "answer": 1,
-    "explanation": "In COBIT 2019, human resource–related responsibilities (such as roles, skills, and competencies needed to support I&T) are addressed under the APO management objectives, which cover organization, strategy, and supporting activities for enterprise I&T."
+    "explanation": "In COBIT 2019, human resource\u2013related responsibilities (such as roles, skills, and competencies needed to support I&T) are addressed under the APO management objectives, which cover organization, strategy, and supporting activities for enterprise I&T."
   },
   {
     "id": 172,
@@ -1821,7 +1982,8 @@
       "DSS (Deliver, Service and Support)",
       "MEA (Monitor, Evaluate and Assess)"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 173,
@@ -1832,7 +1994,8 @@
       "MEA (Monitor, Evaluate and Assess)",
       "APO (Align, Plan and Organize)"
     ],
-    "answer": 2
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 174,
@@ -1843,7 +2006,8 @@
       "DSS (Deliver, Service and Support)",
       "MEA (Monitor, Evaluate and Assess)"
     ],
-    "answer": 0
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 175,
@@ -1854,7 +2018,8 @@
       "MEA (Monitor, Evaluate and Assess)",
       "APO (Align, Plan and Organize)"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 176,
@@ -1865,7 +2030,8 @@
       "DSS (Deliver, Service and Support)",
       "BAI (Build, Acquire and Implement)"
     ],
-    "answer": 0
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 177,
@@ -1876,7 +2042,8 @@
       "Minimizing IT expenditures",
       "Centralized IT control"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 178,
@@ -1887,7 +2054,8 @@
       "Technology trends",
       "Vendor policies"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 179,
@@ -1898,7 +2066,8 @@
       "Detached from business strategy",
       "Limited to IT department"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 180,
@@ -1909,7 +2078,8 @@
       "Stakeholder transparency and accountability",
       "Manage risk only"
     ],
-    "answer": 2
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 181,
@@ -1920,7 +2090,8 @@
       "Focused solely on compliance",
       "Isolated from business units"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 182,
@@ -1931,7 +2102,8 @@
       "Ignore external regulations",
       "Be fragmented"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 183,
@@ -1942,7 +2114,8 @@
       "Governance excludes financial processes",
       "Governance is limited to technology architecture"
     ],
-    "answer": 0
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 184,
@@ -1953,7 +2126,8 @@
       "Replaced regularly",
       "Fully automated"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 185,
@@ -1964,7 +2138,8 @@
       "Tools only",
       "Security controls alone"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 186,
@@ -1975,7 +2150,8 @@
       "IT infrastructure only",
       "Outsourcing only"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 187,
@@ -1986,18 +2162,20 @@
       "Rigid execution",
       "Fixed scope"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 188,
-    "question": "COBIT 2019’s principle of transparency requires:",
+    "question": "COBIT 2019\u2019s principle of transparency requires:",
     "options": [
       "Restricting information flow",
       "Clear communication and accountability",
       "Hiding governance processes",
       "Limiting stakeholder involvement"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 189,
@@ -2008,7 +2186,8 @@
       "Management directs governance",
       "They have no interaction"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 190,
@@ -2019,7 +2198,8 @@
       "Compliance focus",
       "Fragmented governance"
     ],
-    "answer": 0
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 191,
@@ -2030,7 +2210,8 @@
       "Identical worldwide",
       "Focused solely on IT"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 192,
@@ -2041,18 +2222,20 @@
       "Vendors only",
       "Audit teams"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 193,
-    "question": "COBIT’s holistic approach includes balancing which dimensions?",
+    "question": "COBIT\u2019s holistic approach includes balancing which dimensions?",
     "options": [
       "Cost and speed",
       "Risk, benefit, and resource use",
       "Technology and marketing",
       "Compliance and secrecy"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 194,
@@ -2063,7 +2246,8 @@
       "Only executive management is involved",
       "IT operates independently"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 195,
@@ -2074,7 +2258,8 @@
       "Be comprehensive and value-focused",
       "Exclude stakeholder input"
     ],
-    "answer": 2
+    "answer": 2,
+    "explanation": ""
   },
   {
     "id": 196,
@@ -2085,7 +2270,8 @@
       "Developing business software",
       "Managing only financial accounts"
     ],
-    "answer": 0
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 197,
@@ -2096,7 +2282,8 @@
       "To replace all existing IT standards",
       "To serve as a software development methodology"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 198,
@@ -2107,7 +2294,8 @@
       "Network infrastructure upgrades",
       "Increased hardware investments"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 199,
@@ -2118,7 +2306,8 @@
       "Database design principles",
       "Cloud computing architecture"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 200,
@@ -2129,7 +2318,8 @@
       "Marketing and sales processes",
       "Hardware configuration and installation"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 201,
@@ -2140,7 +2330,8 @@
       "Marketing teams",
       "End users of software"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 202,
@@ -2151,7 +2342,8 @@
       "Network cabling",
       "Office supply procurement"
     ],
-    "answer": 0
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 203,
@@ -2162,7 +2354,8 @@
       "Government agencies only",
       "Software startups only"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 204,
@@ -2173,7 +2366,8 @@
       "Hardware specifications",
       "Marketing campaign strategies"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 205,
@@ -2184,7 +2378,8 @@
       "Designing network topologies",
       "Controlling office supplies"
     ],
-    "answer": 0
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 206,
@@ -2195,7 +2390,8 @@
       "It ignores other frameworks",
       "It conflicts with most standards"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 207,
@@ -2206,7 +2402,8 @@
       "IT operations and security",
       "Software and hardware"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 208,
@@ -2217,7 +2414,8 @@
       "Compliance-only governance",
       "Department-specific governance"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 209,
@@ -2228,7 +2426,8 @@
       "Management directs governance",
       "They are unrelated"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 210,
@@ -2239,7 +2438,8 @@
       "Integrated with other standards",
       "Focused on value creation"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 211,
@@ -2250,7 +2450,8 @@
       "Marketing campaigns",
       "Customer service"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 212,
@@ -2261,7 +2462,8 @@
       "Hardware configurations",
       "Network routers"
     ],
-    "answer": 0
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 213,
@@ -2272,7 +2474,8 @@
       "They manage IT operations",
       "They design IT infrastructure"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 214,
@@ -2283,7 +2486,8 @@
       "Microsoft",
       "IEEE"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 215,
@@ -2294,18 +2498,20 @@
       "Focus solely on cybersecurity",
       "Manage only IT infrastructure"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 216,
     "question": "Which of the following best describes the adaptability of COBIT 2019?",
     "options": [
       "It has a fixed set of processes",
-      "It can be tailored to the enterprise’s context and complexity",
+      "It can be tailored to the enterprise\u2019s context and complexity",
       "It is only for government use",
       "It cannot be customized"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 217,
@@ -2316,7 +2522,8 @@
       "Select performance metrics",
       "Establish governance components"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 218,
@@ -2327,7 +2534,8 @@
       "Ignoring business objectives",
       "Outsourcing governance tasks"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 219,
@@ -2338,7 +2546,8 @@
       "Vendor contracts",
       "Security policy"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 220,
@@ -2349,7 +2558,8 @@
       "Temporary participants",
       "Technical developers only"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 221,
@@ -2360,7 +2570,8 @@
       "Avoiding training",
       "Using rigid standards"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 222,
@@ -2371,7 +2582,8 @@
       "To list IT assets",
       "To reduce compliance requirements"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 223,
@@ -2382,7 +2594,8 @@
       "Writing technical manuals",
       "Deploying new hardware"
     ],
-    "answer": 0
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 224,
@@ -2393,7 +2606,8 @@
       "By IT administrators only",
       "With external consultants only"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 225,
@@ -2404,7 +2618,8 @@
       "Excessive automation",
       "Overstaffing"
     ],
-    "answer": 0
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 226,
@@ -2415,7 +2630,8 @@
       "Limited stakeholder involvement",
       "Ignoring feedback"
     ],
-    "answer": 0
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 227,
@@ -2426,7 +2642,8 @@
       "Service level agreement",
       "Risk register"
     ],
-    "answer": 0
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 228,
@@ -2437,7 +2654,8 @@
       "It increases costs unnecessarily",
       "It is optional"
     ],
-    "answer": 0
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 229,
@@ -2448,7 +2666,8 @@
       "Postponing difficult tasks",
       "Outsourcing all activities"
     ],
-    "answer": 0
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 230,
@@ -2459,7 +2678,8 @@
       "Avoid change management",
       "Skip training sessions"
     ],
-    "answer": 0
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 231,
@@ -2470,7 +2690,8 @@
       "Vendor evaluations",
       "Backup schedules"
     ],
-    "answer": 0
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 232,
@@ -2481,7 +2702,8 @@
       "Because initial design is always perfect",
       "To finalize the project quickly"
     ],
-    "answer": 0
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 233,
@@ -2492,7 +2714,8 @@
       "No training needed",
       "Only executive-level training"
     ],
-    "answer": 0
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 234,
@@ -2503,7 +2726,8 @@
       "Focusing solely on IT security risks",
       "Only looking at external risks"
     ],
-    "answer": 0
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 235,
@@ -2514,7 +2738,8 @@
       "Unclear reporting lines",
       "Decentralizing governance entirely"
     ],
-    "answer": 0
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 236,
@@ -2525,7 +2750,8 @@
       "Discontinuing governance meetings",
       "Freezing processes permanently"
     ],
-    "answer": 0
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 237,
@@ -2536,7 +2762,8 @@
       "Reduce the number of stakeholders",
       "Replace existing management structures"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 238,
@@ -2547,7 +2774,8 @@
       "Network configuration tool",
       "Software asset inventory"
     ],
-    "answer": 0
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 239,
@@ -2558,7 +2786,8 @@
       "Purchasing new IT hardware",
       "Hiring external consultants only"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 240,
@@ -2569,7 +2798,8 @@
       "Reduces leadership involvement",
       "Focuses solely on IT operations"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 241,
@@ -2580,7 +2810,8 @@
       "Age of IT equipment",
       "External competitor actions only"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 242,
@@ -2591,7 +2822,8 @@
       "Implement all components uniformly",
       "Stop at documentation"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 243,
@@ -2602,7 +2834,8 @@
       "Only adopting compliance controls",
       "Relying on industry trends alone"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 244,
@@ -2613,7 +2846,8 @@
       "Only relevant during implementation",
       "Ignored completely"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 245,
@@ -2624,7 +2858,8 @@
       "Focus on technology trends only",
       "Vendor preferences"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 246,
@@ -2635,7 +2870,8 @@
       "A new vendor is selected",
       "Hardware is updated"
     ],
-    "answer": 0
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 247,
@@ -2646,7 +2882,8 @@
       "Decreasing stakeholder input",
       "Using the exact same system as competitors"
     ],
-    "answer": 0
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 248,
@@ -2657,7 +2894,8 @@
       "Only impacts IT policies",
       "Only matters for HR departments"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 249,
@@ -2668,7 +2906,8 @@
       "Amount of available software",
       "Size of the IT budget only"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 250,
@@ -2679,7 +2918,8 @@
       "Outsource all missing components",
       "Delay action until the next review cycle"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 251,
@@ -2690,7 +2930,8 @@
       "The amount of new technology purchased",
       "Saving on training costs"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 252,
@@ -2701,7 +2942,8 @@
       "Selecting vendors for IT components",
       "Maintaining hardware"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 253,
@@ -2712,7 +2954,8 @@
       "Source code repository",
       "Asset inventory"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 254,
@@ -2723,7 +2966,8 @@
       "Fixed for all organizations",
       "Only for technical staff"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 255,
@@ -2734,7 +2978,8 @@
       "More hardware purchases",
       "Lower software quality"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 256,
@@ -2745,7 +2990,8 @@
       "Incident log",
       "User account name"
     ],
-    "answer": 0
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 257,
@@ -2756,7 +3002,8 @@
       "Focus solely on financial metrics",
       "Ignore stakeholder feedback"
     ],
-    "answer": 0
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 258,
@@ -2767,7 +3014,8 @@
       "Change control",
       "Vendor contracts"
     ],
-    "answer": 0
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 259,
@@ -2776,9 +3024,10 @@
       "The latest technology trends only",
       "Enterprise strategy and business objectives",
       "Only IT department priorities",
-      "External vendors’ interests"
+      "External vendors\u2019 interests"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 260,
@@ -2789,7 +3038,8 @@
       "When ignored after implementation",
       "When tracked by only one person"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 261,
@@ -2800,7 +3050,8 @@
       "They only review final reports",
       "They audit financial results only"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 262,
@@ -2811,7 +3062,8 @@
       "Automate business operations",
       "Write technical manuals"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 263,
@@ -2822,7 +3074,8 @@
       "Software source code",
       "Network diagrams"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 264,
@@ -2833,7 +3086,8 @@
       "Staff vacation schedules",
       "Server room temperature"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 265,
@@ -2844,7 +3098,8 @@
       "Vendors",
       "System administrators"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 266,
@@ -2855,7 +3110,8 @@
       "Training roster",
       "Incident timeline"
     ],
-    "answer": 0
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 267,
@@ -2866,7 +3122,8 @@
       "Length of team meetings",
       "Password expiration policy"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 268,
@@ -2877,7 +3134,8 @@
       "By listing all IT assets",
       "By hiding decision-making processes"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 269,
@@ -2888,7 +3146,8 @@
       "Benefits will be guaranteed",
       "Vendors will be satisfied"
     ],
-    "answer": 0
+    "answer": 0,
+    "explanation": ""
   },
   {
     "id": 270,
@@ -2899,7 +3158,8 @@
       "Employee turnover rate",
       "Daily inventory count"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 271,
@@ -2910,7 +3170,8 @@
       "Hiring more staff",
       "Purchasing hardware immediately"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": ""
   },
   {
     "id": 272,
@@ -2991,7 +3252,7 @@
   },
   {
     "id": 279,
-    "question": "Explain principle „Dynamic Governance System“",
+    "question": "Explain principle \u201eDynamic Governance System\u201c",
     "options": [
       "a Governance system for enterpriseI&T is built from a number of components that can work together in a holistic way",
       "Each time one or more of the design factors are changed, the impact of these changes on the EGIT system muct be considered",
@@ -3002,7 +3263,7 @@
   },
   {
     "id": 280,
-    "question": "Explain „Holistic Approach“ principle",
+    "question": "Explain \u201eHolistic Approach\u201c principle",
     "options": [
       "A governance system should be customized to the enterprise's needs",
       "A governance system for enterprise I&T is build from a number of components that can work together in a holistic way",
@@ -3024,7 +3285,7 @@
   },
   {
     "id": 282,
-    "question": "“A governance system should be customized to the enterprise’s needs, using a set of design factors as parameters to customize and prioritize the governance system components” is an example of which Governance System Principle?",
+    "question": "\u201cA governance system should be customized to the enterprise\u2019s needs, using a set of design factors as parameters to customize and prioritize the governance system components\u201d is an example of which Governance System Principle?",
     "options": [
       "Tailored to enterprise needs",
       "Open and flexible",
@@ -3034,10 +3295,3 @@
     "explanation": ""
   }
 ]
-
-
-
-  
-  
-  
-
