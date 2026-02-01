@@ -8,7 +8,9 @@
       "backlog",
       "workflow management"
     ],
-    "answer": 2
+    "answer": 2,
+    "explanation": "In COBIT’s agile-aware view, identifying needed products, their boundaries, and the product owner’s constraints effectively defines the enterprise’s product backlog.",
+    "examDomain":"Designing a Tailored Governance System"
   },
   {
     "id": 2,
