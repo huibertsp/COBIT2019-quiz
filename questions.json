@@ -299,7 +299,9 @@
       "Number of critical business processes supported by up-to-date infrastructure and applications",
       "Number of confidentiality incidents causing financial loss, business disruption or public embarrassment."
     ],
-    "answer": 2
+    "answer": 2,
+    "explanation": "This metric directly measures breaches of information security and privacy, so it best reflects performance against the alignment goal “security of information and privacy",
+    "examDomain":"Governance and Management Objectives"
   },
   {
     "id": 31,
