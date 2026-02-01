@@ -483,7 +483,9 @@
       "Holistic approach",
       "Risk Profile"
     ],
-    "answer": 0
+    "answer": 0,
+    "explanation": "In COBIT 2019, the risk profile is one of the formal design factors used to prioritize governance and management objectives by influencing which enterprise goals (and thus which objectives) are most critical.",
+    "examDomain":"Designing a Tailored Governance System"
   },
   {
     "id": 49,
@@ -1140,7 +1142,9 @@
       "Developing IT systems",
       "Enforcing compliance regulations"
     ],
-    "answer": 1
+    "answer": 1,
+    "explanation": "COBIT 2019 explicitly defines governance as the activities of evaluating stakeholder needs, directing through prioritization and decision-making, and monitoring performance and compliance (EDM domain).",
+    "examDomain":"Governance System and Components"
   },
   {
     "id": 112,
@@ -1658,18 +1662,22 @@
       "DSS (Deliver, Service and Support)",
       "MEA (Monitor, Evaluate and Assess)"
     ],
-    "answer": 0
+    "answer": 0,
+    "explanation": "The EDM governance domain is responsible for setting direction by establishing the overarching frameworks and policies within which the management domains operate.",
+    "examDomain":"Governance and Management Objectives"
   },
   {
     "id": 159,
-    "question": "The primary concern of BAI objectives is:",
+    "question": "The primary concern of BAI (Build Acquire and Implement) objectives is:",
     "options": [
       "Service support",
       "Implementing new solutions and processes",
       "Monitoring performance",
       "Managing strategic direction"
     ],
-    "answer": 0
+    "answer": 0,
+    "explanation": "The BAI (Build, Acquire and Implement) domain in COBIT 2019 focuses specifically on the activities of identifying, acquiring, developing, and implementing I&T solutions and changes, distinguishing it from monitoring (MEA), strategy (APO/EDM), or service delivery (DSS).",
+    "examDomain":"Governance and Management Objectives"
   },
   {
     "id": 160,
