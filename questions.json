@@ -21,7 +21,8 @@
       "The board"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Framework Introduction"
   },
   {
     "id": 3,
@@ -32,7 +33,8 @@
       "Realization of benefits at a reduced resource cost while mitigating risk"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Framework Introduction"
   },
   {
     "id": 4,
@@ -43,7 +45,8 @@
       "restricted to maintaining and increasing value derived from existing I&T investments."
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Framework Introduction"
   },
   {
     "id": 5,
@@ -54,7 +57,8 @@
       "Defining specific governance strategies and processes to implement in specific situations"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Framework Introduction"
   },
   {
     "id": 6,
@@ -65,7 +69,8 @@
       "COBIT serves as a comprehensive standalone framework that covers all relevant I&T-related activities."
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Principles"
   },
   {
     "id": 7,
@@ -76,7 +81,8 @@
       "Evaluating stakeholder needs to determine enterprise objectives"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Framework Introduction"
   },
   {
     "id": 8,
@@ -87,7 +93,8 @@
       "the board of directors."
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Framework Introduction"
   },
   {
     "id": 9,
@@ -98,7 +105,8 @@
       "COBIT helps to ensure compliance with applicable rules and regulations."
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Framework Introduction"
   },
   {
     "id": 10,
@@ -109,7 +117,8 @@
       "business and IT management responsible for building and deploying I&T solutions."
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Framework Introduction"
   },
   {
     "id": 11,
@@ -120,7 +129,8 @@
       "maximized financial benefits to the investment portfolio."
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Principles"
   },
   {
     "id": 12,
@@ -131,7 +141,8 @@
       "Program management."
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Implementation"
   },
   {
     "id": 13,
@@ -142,7 +153,8 @@
       "COBIT 5 PAM"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Performance Management"
   },
   {
     "id": 14,
@@ -153,7 +165,8 @@
       "The time of the governance system design may increase"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Designing a Tailored Governance System"
   },
   {
     "id": 15,
@@ -164,7 +177,8 @@
       "Stage 3: Refine the scope of the governance system"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Designing a Tailored Governance System"
   },
   {
     "id": 16,
@@ -175,7 +189,8 @@
       "In the project charter"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Framework Introduction"
   },
   {
     "id": 17,
@@ -186,7 +201,8 @@
       "Optimization of internal business process functionality."
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Framework Introduction"
   },
   {
     "id": 18,
@@ -197,7 +213,8 @@
       "Management Objectives."
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Framework Introduction"
   },
   {
     "id": 19,
@@ -208,7 +225,8 @@
       "Growth, internal, customer and financial"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Performance Management"
   },
   {
     "id": 20,
@@ -219,7 +237,8 @@
       "4 governance group, 1 management group"
     ],
     "answer": 1,
-    "explanation": "COBIT 2019's core model consists of 5 domains total: 1 governance domain (EDM - Evaluate, Direct and Monitor) and 4 management domains (APO, BAI, DSS, MEA)"
+    "explanation": "COBIT 2019's core model consists of 5 domains total: 1 governance domain (EDM - Evaluate, Direct and Monitor) and 4 management domains (APO, BAI, DSS, MEA)",
+    "examDomain": "Framework Introduction"
   },
   {
     "id": 21,
@@ -230,7 +249,8 @@
       "Specific components"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Designing a Tailored Governance System"
   },
   {
     "id": 22,
@@ -241,7 +261,8 @@
       "Internal"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Performance Management"
   },
   {
     "id": 23,
@@ -252,7 +273,8 @@
       "Short-term cost minimization"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Designing a Tailored Governance System"
   },
   {
     "id": 24,
@@ -263,7 +285,8 @@
       "the enterprise\u2019s governance framework."
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Framework Introduction"
   },
   {
     "id": 25,
@@ -274,7 +297,8 @@
       "Governance and management objectives"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Framework Introduction"
   },
   {
     "id": 26,
@@ -285,7 +309,8 @@
       "Internal"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Performance Management"
   },
   {
     "id": 27,
@@ -296,7 +321,8 @@
       "Number of business processing hours lost due to unplanned service interruptions"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Framework Introduction"
   },
   {
     "id": 28,
@@ -307,7 +333,8 @@
       "Quality of management information"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Performance Management"
   },
   {
     "id": 29,
@@ -318,7 +345,8 @@
       "Enterprise strategy"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Framework Introduction"
   },
   {
     "id": 30,
@@ -341,7 +369,8 @@
       "Level of user satisfaction with the quality and availability of I&T-related management information"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Framework Introduction"
   },
   {
     "id": 32,
@@ -352,7 +381,8 @@
       "Internal"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Performance Management"
   },
   {
     "id": 33,
@@ -363,7 +393,8 @@
       "Managed service agreements"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Performance Management"
   },
   {
     "id": 34,
@@ -374,7 +405,8 @@
       "A managed system of internal controls"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Governance and Management Objectives"
   },
   {
     "id": 35,
@@ -385,7 +417,8 @@
       "Support the digital transformation strategy of the organization and deliver the desired value."
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Governance and Management Objectives"
   },
   {
     "id": 36,
@@ -396,7 +429,8 @@
       "Assurance on controls is obtained from independent IT auditors."
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Governance and Management Objectives"
   },
   {
     "id": 37,
@@ -407,7 +441,8 @@
       "COBIT is a framework to organize business processes."
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Framework Introduction"
   },
   {
     "id": 38,
@@ -418,7 +453,8 @@
       "Enables both business and IT people to execute their responsibilities in support of business/IT alignment."
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Framework Introduction"
   },
   {
     "id": 39,
@@ -429,7 +465,8 @@
       "Executive management"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Performance Management"
   },
   {
     "id": 40,
@@ -440,7 +477,8 @@
       "Direction is set through prioritization and decision making."
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Framework Introduction"
   },
   {
     "id": 41,
@@ -451,7 +489,8 @@
       "COBIT provides equivalent statements or references to related guidance."
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Framework Introduction"
   },
   {
     "id": 42,
@@ -462,7 +501,8 @@
       "The COBIT 2019 Implementation Guide"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Designing a Tailored Governance System"
   },
   {
     "id": 43,
@@ -473,7 +513,8 @@
       "Governance System Principles describe the core requirements for a governance system while Governance Framework Principles focus on building that governance system."
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Principles"
   },
   {
     "id": 44,
@@ -484,7 +525,8 @@
       "Goals cascade"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Designing a Tailored Governance System"
   },
   {
     "id": 45,
@@ -495,7 +537,8 @@
       "one governance framework principle"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Governance and Management Objectives"
   },
   {
     "id": 46,
@@ -506,7 +549,8 @@
       "Information"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Governance System and Components"
   },
   {
     "id": 47,
@@ -517,7 +561,8 @@
       "Design factors"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Designing a Tailored Governance System"
   },
   {
     "id": 48,
@@ -540,7 +585,8 @@
       "IT is not crucial for the running and continuity of the business process and services, nor for their innovation."
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Designing a Tailored Governance System"
   },
   {
     "id": 50,
@@ -551,7 +597,8 @@
       "Where are we now, where do we want to be, how do we get there, how do we keep the momentum"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Framework Introduction"
   },
   {
     "id": 51,
@@ -562,7 +609,8 @@
       "Governance processes typically are under the accountability of boards and executive management; management processes are the domain of senior and middle management."
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Governance and Management Objectives"
   },
   {
     "id": 52,
@@ -573,7 +621,8 @@
       "Deliver, Service and Support"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Framework Introduction"
   },
   {
     "id": 53,
@@ -584,7 +633,8 @@
       "Process Component"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Governance and Management Objectives"
   },
   {
     "id": 54,
@@ -595,7 +645,8 @@
       "COBIT 2019 Enabler Guide"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Designing a Tailored Governance System"
   },
   {
     "id": 55,
@@ -606,7 +657,8 @@
       "practices"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Governance System and Components"
   },
   {
     "id": 56,
@@ -617,7 +669,8 @@
       "Ownership and delegated"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Performance Management"
   },
   {
     "id": 57,
@@ -628,7 +681,8 @@
       "APO09 Managed Service Agreements"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Governance and Management Objectives"
   },
   {
     "id": 58,
@@ -639,7 +693,8 @@
       "BAI08 Managed Knowledge"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Governance and Management Objectives"
   },
   {
     "id": 59,
@@ -650,7 +705,8 @@
       "Growth"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Performance Management"
   },
   {
     "id": 60,
@@ -661,7 +717,8 @@
       "40"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Governance and Management Objectives"
   },
   {
     "id": 61,
@@ -672,7 +729,8 @@
       "Primary and secondary"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Governance and Management Objectives"
   },
   {
     "id": 62,
@@ -683,7 +741,8 @@
       "Align, Plan and Organize"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Governance and Management Objectives"
   },
   {
     "id": 63,
@@ -694,7 +753,8 @@
       "Ensured Benefits Delivery"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Governance and Management Objectives"
   },
   {
     "id": 64,
@@ -705,7 +765,8 @@
       "COBIT Framework Owner"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Framework Introduction"
   },
   {
     "id": 65,
@@ -716,7 +777,8 @@
       "The CPM should support different types of assessments."
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Performance Management"
   },
   {
     "id": 66,
@@ -727,7 +789,8 @@
       "Skills Framework for the Information Age (SFIA)."
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Performance Management"
   },
   {
     "id": 67,
@@ -738,7 +801,8 @@
       "High, medium, low"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Performance Management"
   },
   {
     "id": 68,
@@ -749,7 +813,8 @@
       "The capability level is achieved less than 15 percent."
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Framework Introduction"
   },
   {
     "id": 69,
@@ -760,7 +825,8 @@
       "Level 4"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Performance Management"
   },
   {
     "id": 70,
@@ -771,7 +837,8 @@
       "Escalation procedures"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Performance Management"
   },
   {
     "id": 71,
@@ -782,7 +849,8 @@
       "documenting the most appropriate accountabilities and responsibilities"
     ],
     "answer": 0,
-    "explanation": "Designing a tailored governance system in COBIT 2019 leads to recommendations on which governance/management objectives to prioritize and what capability levels each should reach, or which variants of components to adopt, rather than just documenting accountabilities or enabler dimensions."
+    "explanation": "Designing a tailored governance system in COBIT 2019 leads to recommendations on which governance/management objectives to prioritize and what capability levels each should reach, or which variants of components to adopt, rather than just documenting accountabilities or enabler dimensions.",
+    "examDomain": "Designing a Tailored Governance System"
   },
   {
     "id": 72,
@@ -793,7 +861,8 @@
       "Direct the governance system; Plan the governance system; Build the governance system; Run the governance system; Monitor the governance system."
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Designing a Tailored Governance System"
   },
   {
     "id": 73,
@@ -804,7 +873,8 @@
       "Plan program"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Designing a Tailored Governance System"
   },
   {
     "id": 74,
@@ -815,7 +885,8 @@
       "Step 1, What are the drivers?"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Designing a Tailored Governance System"
   },
   {
     "id": 75,
@@ -826,7 +897,8 @@
       "All of the above"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Business Case"
   },
   {
     "id": 76,
@@ -837,7 +909,8 @@
       "The COBIT Design Guide primarily aligns with the first three phases of the implementation lifecycle."
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Implementation"
   },
   {
     "id": 77,
@@ -848,7 +921,8 @@
       "Phase 1, Assess Current State"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Implementation"
   },
   {
     "id": 78,
@@ -859,7 +933,8 @@
       "Initiate program, establish desire to change, recognize need to act"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Implementation"
   },
   {
     "id": 79,
@@ -870,7 +945,8 @@
       "Change driver"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Implementation"
   },
   {
     "id": 80,
@@ -881,7 +957,8 @@
       "Sustain"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Implementation"
   },
   {
     "id": 81,
@@ -892,7 +969,8 @@
       "What needs to be done"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Implementation"
   },
   {
     "id": 82,
@@ -904,7 +982,8 @@
       "focuses on enabling IT value over business value."
     ],
     "answer": 3,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Implementation"
   },
   {
     "id": 83,
@@ -916,7 +995,8 @@
       "Mitigation of all risks associated with the implementation of EGIT projects"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Implementation"
   },
   {
     "id": 84,
@@ -927,7 +1007,8 @@
       "Customer"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Performance Management"
   },
   {
     "id": 85,
@@ -938,7 +1019,8 @@
       "Business service continuity and availability"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Framework Introduction"
   },
   {
     "id": 86,
@@ -950,7 +1032,8 @@
       "What are the drivers?"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Implementation"
   },
   {
     "id": 87,
@@ -961,7 +1044,8 @@
       "Managed portfolio"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Governance and Management Objectives"
   },
   {
     "id": 88,
@@ -973,7 +1057,8 @@
       "Implementation team"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Business Case"
   },
   {
     "id": 89,
@@ -985,7 +1070,8 @@
       "Product and business innovation"
     ],
     "answer": 3,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Performance Management"
   },
   {
     "id": 90,
@@ -996,7 +1082,8 @@
       "Generate an IT governance policy."
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Implementation"
   },
   {
     "id": 91,
@@ -1008,7 +1095,8 @@
       "risks that have already materialized."
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Designing a Tailored Governance System"
   },
   {
     "id": 92,
@@ -1020,7 +1108,8 @@
       "Information security focus areas"
     ],
     "answer": 3,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Designing a Tailored Governance System"
   },
   {
     "id": 93,
@@ -1032,7 +1121,8 @@
       "Agile"
     ],
     "answer": 3,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Implementation"
   },
   {
     "id": 94,
@@ -1044,7 +1134,8 @@
       "Implementation costs"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Framework Introduction"
   },
   {
     "id": 95,
@@ -1056,7 +1147,8 @@
       "The enterprise should be prepared to deviate from previously identified priorities with justified reasons."
     ],
     "answer": 3,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Designing a Tailored Governance System"
   },
   {
     "id": 96,
@@ -1068,7 +1160,8 @@
       "IT deployment"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Designing a Tailored Governance System"
   },
   {
     "id": 97,
@@ -1080,7 +1173,8 @@
       "Corporate Culture"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Governance System and Components"
   },
   {
     "id": 98,
@@ -1092,7 +1186,8 @@
       "To optimize business processes"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Governance System and Components"
   },
   {
     "id": 99,
@@ -1104,7 +1199,8 @@
       "Governance Practices"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Governance and Management Objectives"
   },
   {
     "id": 100,
@@ -1116,7 +1212,8 @@
       "Organizational Structures"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Governance System and Components"
   },
   {
     "id": 101,
@@ -1128,7 +1225,8 @@
       "They manage vendor relationships"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Governance System and Components"
   },
   {
     "id": 102,
@@ -1140,7 +1238,8 @@
       "Risk Management"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Governance System and Components"
   },
   {
     "id": 103,
@@ -1152,7 +1251,8 @@
       "User and Vendor Objectives"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Governance and Management Objectives"
   },
   {
     "id": 104,
@@ -1164,7 +1264,8 @@
       "A team of IT auditors and controllers"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Governance System and Components"
   },
   {
     "id": 105,
@@ -1176,7 +1277,8 @@
       "Information Flows"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Performance Management"
   },
   {
     "id": 106,
@@ -1188,7 +1290,8 @@
       "To manage project timelines"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Governance System and Components"
   },
   {
     "id": 107,
@@ -1200,7 +1303,8 @@
       "Governance Practices"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Governance System and Components"
   },
   {
     "id": 108,
@@ -1212,7 +1316,8 @@
       "External Auditors"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Governance and Management Objectives"
   },
   {
     "id": 109,
@@ -1224,7 +1329,8 @@
       "To manage vendor contracts"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Framework Introduction"
   },
   {
     "id": 110,
@@ -1236,7 +1342,8 @@
       "Information Flows"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Governance System and Components"
   },
   {
     "id": 111,
@@ -1261,7 +1368,8 @@
       "Governance Structures"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Governance and Management Objectives"
   },
   {
     "id": 113,
@@ -1273,7 +1381,8 @@
       "Both perform the same functions"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Framework Introduction"
   },
   {
     "id": 114,
@@ -1285,7 +1394,8 @@
       "That security protocols are enforced"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Governance System and Components"
   },
   {
     "id": 115,
@@ -1297,7 +1407,8 @@
       "Deliver, Service and Support"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Framework Introduction"
   },
   {
     "id": 116,
@@ -1309,7 +1420,8 @@
       "Operational Efficiency"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Governance System and Components"
   },
   {
     "id": 117,
@@ -1321,7 +1433,8 @@
       "Information Flows"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Governance System and Components"
   },
   {
     "id": 118,
@@ -1333,7 +1446,8 @@
       "Reduced IT costs"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Principles"
   },
   {
     "id": 119,
@@ -1345,7 +1459,8 @@
       "MEA01 Monitor, Evaluate and Assess Performance and Conformance"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Framework Introduction"
   },
   {
     "id": 120,
@@ -1357,7 +1472,8 @@
       "To develop business applications"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Framework Introduction"
   },
   {
     "id": 121,
@@ -1369,7 +1485,8 @@
       "Coding and deploying systems"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Framework Introduction"
   },
   {
     "id": 122,
@@ -1381,7 +1498,8 @@
       "Compliance checklists"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Governance and Management Objectives"
   },
   {
     "id": 123,
@@ -1393,7 +1511,8 @@
       "Training IT staff"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Framework Introduction"
   },
   {
     "id": 124,
@@ -1405,7 +1524,8 @@
       "Managed solely by IT managers"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Governance System and Components"
   },
   {
     "id": 125,
@@ -1417,7 +1537,8 @@
       "Focus solely on cybersecurity"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Framework Introduction"
   },
   {
     "id": 126,
@@ -1429,7 +1550,8 @@
       "To manage supplier contracts"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Governance System and Components"
   },
   {
     "id": 127,
@@ -1441,7 +1563,8 @@
       "Manage IT vendor contracts"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Governance System and Components"
   },
   {
     "id": 128,
@@ -1453,7 +1576,8 @@
       "Risk Management"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Governance System and Components"
   },
   {
     "id": 129,
@@ -1465,7 +1589,8 @@
       "Focus only on processes"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Governance System and Components"
   },
   {
     "id": 130,
@@ -1477,7 +1602,8 @@
       "Governance only applies to IT department"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Framework Introduction"
   },
   {
     "id": 131,
@@ -1489,7 +1615,8 @@
       "Constituting governance bodies"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Framework Introduction"
   },
   {
     "id": 132,
@@ -1501,7 +1628,8 @@
       "Information Flows"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Governance System and Components"
   },
   {
     "id": 133,
@@ -1513,7 +1641,8 @@
       "Determine operational budgets"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Principles"
   },
   {
     "id": 134,
@@ -1525,7 +1654,8 @@
       "Information Flows"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Governance System and Components"
   },
   {
     "id": 135,
@@ -1537,7 +1667,8 @@
       "They monitor vendor delivery schedules"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Framework Introduction"
   },
   {
     "id": 136,
@@ -1549,7 +1680,8 @@
       "Reduced number of IT staff"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Framework Introduction"
   },
   {
     "id": 137,
@@ -1561,7 +1693,8 @@
       "To define enterprise architecture diagrams"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Governance System and Components"
   },
   {
     "id": 138,
@@ -1573,7 +1706,8 @@
       "Only processes matter"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Governance System and Components"
   },
   {
     "id": 139,
@@ -1585,7 +1719,8 @@
       "Only during audits"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Governance System and Components"
   },
   {
     "id": 140,
@@ -1597,7 +1732,8 @@
       "Principles"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Governance System and Components"
   },
   {
     "id": 141,
@@ -1609,7 +1745,8 @@
       "Transfer all risks to vendors"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Governance System and Components"
   },
   {
     "id": 142,
@@ -1621,7 +1758,8 @@
       "Deliver, Service and Support"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Governance and Management Objectives"
   },
   {
     "id": 143,
@@ -1633,7 +1771,8 @@
       "Recruit IT staff"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Governance and Management Objectives"
   },
   {
     "id": 144,
@@ -1645,7 +1784,8 @@
       "Align, Plan and Organize"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Governance and Management Objectives"
   },
   {
     "id": 145,
@@ -1657,7 +1797,8 @@
       "Financial reporting"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Governance and Management Objectives"
   },
   {
     "id": 146,
@@ -1669,7 +1810,8 @@
       "MEA (Monitor, Evaluate and Assess)"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Governance and Management Objectives"
   },
   {
     "id": 147,
@@ -1681,7 +1823,8 @@
       "MEA (Monitor, Evaluate and Assess)"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Governance and Management Objectives"
   },
   {
     "id": 148,
@@ -1693,7 +1836,8 @@
       "APO (Align, Plan and Organize)"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Framework Introduction"
   },
   {
     "id": 149,
@@ -1705,7 +1849,8 @@
       "Performance monitoring"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Governance and Management Objectives"
   },
   {
     "id": 150,
@@ -1717,7 +1862,8 @@
       "MEA (Monitor, Evaluate and Assess)"
     ],
     "answer": 3,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Governance and Management Objectives"
   },
   {
     "id": 151,
@@ -1729,7 +1875,8 @@
       "Supporting IT service delivery"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Governance and Management Objectives"
   },
   {
     "id": 152,
@@ -1741,7 +1888,8 @@
       "EDM (Evaluate, Direct and Monitor)"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Governance and Management Objectives"
   },
   {
     "id": 153,
@@ -1753,7 +1901,8 @@
       "MEA (Monitor, Evaluate and Assess)"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Framework Introduction"
   },
   {
     "id": 154,
@@ -1765,7 +1914,8 @@
       "Setting strategic goals"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Governance and Management Objectives"
   },
   {
     "id": 155,
@@ -1777,7 +1927,8 @@
       "MEA (Monitor, Evaluate and Assess)"
     ],
     "answer": 0,
-    "explanation": "APO includes the objective for managing third-party and supplier relationships, so responsibility for governing vendor interactions and related risks sits in this domain rather than in MEA, DSS, or BAI."
+    "explanation": "APO includes the objective for managing third-party and supplier relationships, so responsibility for governing vendor interactions and related risks sits in this domain rather than in MEA, DSS, or BAI.",
+    "examDomain": "Governance and Management Objectives"
   },
   {
     "id": 156,
@@ -1789,7 +1940,8 @@
       "Acquiring IT resources"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Governance and Management Objectives"
   },
   {
     "id": 157,
@@ -1801,7 +1953,8 @@
       "Evaluating enterprise architecture"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Governance and Management Objectives"
   },
   {
     "id": 158,
@@ -1839,7 +1992,8 @@
       "MEA (Monitor, Evaluate and Assess)"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Governance and Management Objectives"
   },
   {
     "id": 161,
@@ -1851,7 +2005,8 @@
       "BAI (Build, Acquire and Implement)"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Governance and Management Objectives"
   },
   {
     "id": 162,
@@ -1863,7 +2018,8 @@
       "MEA (Monitor, Evaluate and Assess)"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Governance and Management Objectives"
   },
   {
     "id": 163,
@@ -1875,7 +2031,8 @@
       "APO (Align, Plan and Organize)"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Governance and Management Objectives"
   },
   {
     "id": 164,
@@ -1887,7 +2044,8 @@
       "MEA (Monitor, Evaluate and Assess)"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Governance and Management Objectives"
   },
   {
     "id": 165,
@@ -1899,7 +2057,8 @@
       "APO (Align, Plan and Organize)"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Framework Introduction"
   },
   {
     "id": 166,
@@ -1911,7 +2070,8 @@
       "MEA (Monitor, Evaluate and Assess)"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Governance and Management Objectives"
   },
   {
     "id": 167,
@@ -1923,7 +2083,8 @@
       "APO (Align, Plan and Organize)"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Framework Introduction"
   },
   {
     "id": 168,
@@ -1935,7 +2096,8 @@
       "MEA (Monitor, Evaluate and Assess)"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Governance and Management Objectives"
   },
   {
     "id": 169,
@@ -1947,7 +2109,8 @@
       "APO (Align, Plan and Organize)"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Governance and Management Objectives"
   },
   {
     "id": 170,
@@ -1959,7 +2122,8 @@
       "EDM (Evaluate, Direct and Monitor)"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Performance Management"
   },
   {
     "id": 171,
@@ -1971,7 +2135,8 @@
       "BAI (Build, Acquire and Implement)"
     ],
     "answer": 1,
-    "explanation": "In COBIT 2019, human resource\u2013related responsibilities (such as roles, skills, and competencies needed to support I&T) are addressed under the APO management objectives, which cover organization, strategy, and supporting activities for enterprise I&T."
+    "explanation": "In COBIT 2019, human resource\u2013related responsibilities (such as roles, skills, and competencies needed to support I&T) are addressed under the APO management objectives, which cover organization, strategy, and supporting activities for enterprise I&T.",
+    "examDomain": "Governance and Management Objectives"
   },
   {
     "id": 172,
@@ -1983,7 +2148,8 @@
       "MEA (Monitor, Evaluate and Assess)"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Framework Introduction"
   },
   {
     "id": 173,
@@ -1995,7 +2161,8 @@
       "APO (Align, Plan and Organize)"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Framework Introduction"
   },
   {
     "id": 174,
@@ -2007,7 +2174,8 @@
       "MEA (Monitor, Evaluate and Assess)"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Framework Introduction"
   },
   {
     "id": 175,
@@ -2019,7 +2187,8 @@
       "APO (Align, Plan and Organize)"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Governance and Management Objectives"
   },
   {
     "id": 176,
@@ -2031,7 +2200,8 @@
       "BAI (Build, Acquire and Implement)"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Framework Introduction"
   },
   {
     "id": 177,
@@ -2043,7 +2213,8 @@
       "Centralized IT control"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Principles"
   },
   {
     "id": 178,
@@ -2055,7 +2226,8 @@
       "Vendor policies"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Principles"
   },
   {
     "id": 179,
@@ -2067,7 +2239,8 @@
       "Limited to IT department"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Principles"
   },
   {
     "id": 180,
@@ -2079,7 +2252,8 @@
       "Manage risk only"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Principles"
   },
   {
     "id": 181,
@@ -2091,7 +2265,8 @@
       "Isolated from business units"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Principles"
   },
   {
     "id": 182,
@@ -2103,7 +2278,8 @@
       "Be fragmented"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Principles"
   },
   {
     "id": 183,
@@ -2115,7 +2291,8 @@
       "Governance is limited to technology architecture"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Principles"
   },
   {
     "id": 184,
@@ -2127,7 +2304,8 @@
       "Fully automated"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Principles"
   },
   {
     "id": 185,
@@ -2139,7 +2317,8 @@
       "Security controls alone"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Principles"
   },
   {
     "id": 186,
@@ -2151,7 +2330,8 @@
       "Outsourcing only"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Principles"
   },
   {
     "id": 187,
@@ -2163,7 +2343,8 @@
       "Fixed scope"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Principles"
   },
   {
     "id": 188,
@@ -2175,7 +2356,8 @@
       "Limiting stakeholder involvement"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Principles"
   },
   {
     "id": 189,
@@ -2187,7 +2369,8 @@
       "They have no interaction"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Principles"
   },
   {
     "id": 190,
@@ -2199,7 +2382,8 @@
       "Fragmented governance"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Principles"
   },
   {
     "id": 191,
@@ -2211,7 +2395,8 @@
       "Focused solely on IT"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Principles"
   },
   {
     "id": 192,
@@ -2223,7 +2408,8 @@
       "Audit teams"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Principles"
   },
   {
     "id": 193,
@@ -2235,7 +2421,8 @@
       "Compliance and secrecy"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Framework Introduction"
   },
   {
     "id": 194,
@@ -2247,7 +2434,8 @@
       "IT operates independently"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Principles"
   },
   {
     "id": 195,
@@ -2259,7 +2447,8 @@
       "Exclude stakeholder input"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Principles"
   },
   {
     "id": 196,
@@ -2271,7 +2460,8 @@
       "Managing only financial accounts"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Framework Introduction"
   },
   {
     "id": 197,
@@ -2283,7 +2473,8 @@
       "To serve as a software development methodology"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Framework Introduction"
   },
   {
     "id": 198,
@@ -2295,7 +2486,8 @@
       "Increased hardware investments"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Designing a Tailored Governance System"
   },
   {
     "id": 199,
@@ -2307,7 +2499,8 @@
       "Cloud computing architecture"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Governance System and Components"
   },
   {
     "id": 200,
@@ -2319,7 +2512,8 @@
       "Hardware configuration and installation"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Framework Introduction"
   },
   {
     "id": 201,
@@ -2331,7 +2525,8 @@
       "End users of software"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Framework Introduction"
   },
   {
     "id": 202,
@@ -2343,7 +2538,8 @@
       "Office supply procurement"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Framework Introduction"
   },
   {
     "id": 203,
@@ -2355,7 +2551,8 @@
       "Software startups only"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Framework Introduction"
   },
   {
     "id": 204,
@@ -2367,7 +2564,8 @@
       "Marketing campaign strategies"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Implementation"
   },
   {
     "id": 205,
@@ -2379,7 +2577,8 @@
       "Controlling office supplies"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Framework Introduction"
   },
   {
     "id": 206,
@@ -2391,7 +2590,8 @@
       "It conflicts with most standards"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Framework Introduction"
   },
   {
     "id": 207,
@@ -2403,7 +2603,8 @@
       "Software and hardware"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Governance System and Components"
   },
   {
     "id": 208,
@@ -2415,7 +2616,8 @@
       "Department-specific governance"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Framework Introduction"
   },
   {
     "id": 209,
@@ -2427,7 +2629,8 @@
       "They are unrelated"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Framework Introduction"
   },
   {
     "id": 210,
@@ -2439,7 +2642,8 @@
       "Focused on value creation"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Framework Introduction"
   },
   {
     "id": 211,
@@ -2451,7 +2655,8 @@
       "Customer service"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Framework Introduction"
   },
   {
     "id": 212,
@@ -2463,7 +2668,8 @@
       "Network routers"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Governance System and Components"
   },
   {
     "id": 213,
@@ -2475,7 +2681,8 @@
       "They design IT infrastructure"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Framework Introduction"
   },
   {
     "id": 214,
@@ -2487,7 +2694,8 @@
       "IEEE"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Framework Introduction"
   },
   {
     "id": 215,
@@ -2499,7 +2707,8 @@
       "Manage only IT infrastructure"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Designing a Tailored Governance System"
   },
   {
     "id": 216,
@@ -2511,7 +2720,8 @@
       "It cannot be customized"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Framework Introduction"
   },
   {
     "id": 217,
@@ -2523,7 +2733,8 @@
       "Establish governance components"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Framework Introduction"
   },
   {
     "id": 218,
@@ -2535,7 +2746,8 @@
       "Outsourcing governance tasks"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Implementation"
   },
   {
     "id": 219,
@@ -2547,7 +2759,8 @@
       "Security policy"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Governance System and Components"
   },
   {
     "id": 220,
@@ -2559,7 +2772,8 @@
       "Technical developers only"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Implementation"
   },
   {
     "id": 221,
@@ -2571,7 +2785,8 @@
       "Using rigid standards"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Implementation"
   },
   {
     "id": 222,
@@ -2583,7 +2798,8 @@
       "To reduce compliance requirements"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Implementation"
   },
   {
     "id": 223,
@@ -2595,7 +2811,8 @@
       "Deploying new hardware"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Implementation"
   },
   {
     "id": 224,
@@ -2607,7 +2824,8 @@
       "With external consultants only"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Implementation"
   },
   {
     "id": 225,
@@ -2619,7 +2837,8 @@
       "Overstaffing"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Framework Introduction"
   },
   {
     "id": 226,
@@ -2631,7 +2850,8 @@
       "Ignoring feedback"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Framework Introduction"
   },
   {
     "id": 227,
@@ -2643,7 +2863,8 @@
       "Risk register"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Implementation"
   },
   {
     "id": 228,
@@ -2655,7 +2876,8 @@
       "It is optional"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Implementation"
   },
   {
     "id": 229,
@@ -2667,7 +2889,8 @@
       "Outsourcing all activities"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Implementation"
   },
   {
     "id": 230,
@@ -2679,7 +2902,8 @@
       "Skip training sessions"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Designing a Tailored Governance System"
   },
   {
     "id": 231,
@@ -2691,7 +2915,8 @@
       "Backup schedules"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Implementation"
   },
   {
     "id": 232,
@@ -2703,7 +2928,8 @@
       "To finalize the project quickly"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Implementation"
   },
   {
     "id": 233,
@@ -2715,7 +2941,8 @@
       "Only executive-level training"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Implementation"
   },
   {
     "id": 234,
@@ -2727,7 +2954,8 @@
       "Only looking at external risks"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Implementation"
   },
   {
     "id": 235,
@@ -2739,7 +2967,8 @@
       "Decentralizing governance entirely"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Implementation"
   },
   {
     "id": 236,
@@ -2751,7 +2980,8 @@
       "Freezing processes permanently"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Implementation"
   },
   {
     "id": 237,
@@ -2763,7 +2993,8 @@
       "Replace existing management structures"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Governance System and Components"
   },
   {
     "id": 238,
@@ -2775,7 +3006,8 @@
       "Software asset inventory"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Governance System and Components"
   },
   {
     "id": 239,
@@ -2787,7 +3019,8 @@
       "Hiring external consultants only"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Designing a Tailored Governance System"
   },
   {
     "id": 240,
@@ -2799,7 +3032,8 @@
       "Focuses solely on IT operations"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Governance System and Components"
   },
   {
     "id": 241,
@@ -2811,7 +3045,8 @@
       "External competitor actions only"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Designing a Tailored Governance System"
   },
   {
     "id": 242,
@@ -2823,7 +3058,8 @@
       "Stop at documentation"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Governance System and Components"
   },
   {
     "id": 243,
@@ -2835,7 +3071,8 @@
       "Relying on industry trends alone"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Designing a Tailored Governance System"
   },
   {
     "id": 244,
@@ -2847,7 +3084,8 @@
       "Ignored completely"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Designing a Tailored Governance System"
   },
   {
     "id": 245,
@@ -2859,7 +3097,8 @@
       "Vendor preferences"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Framework Introduction"
   },
   {
     "id": 246,
@@ -2871,7 +3110,8 @@
       "Hardware is updated"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Designing a Tailored Governance System"
   },
   {
     "id": 247,
@@ -2883,7 +3123,8 @@
       "Using the exact same system as competitors"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Designing a Tailored Governance System"
   },
   {
     "id": 248,
@@ -2895,7 +3136,8 @@
       "Only matters for HR departments"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Framework Introduction"
   },
   {
     "id": 249,
@@ -2907,7 +3149,8 @@
       "Size of the IT budget only"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Designing a Tailored Governance System"
   },
   {
     "id": 250,
@@ -2919,7 +3162,8 @@
       "Delay action until the next review cycle"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Framework Introduction"
   },
   {
     "id": 251,
@@ -2931,7 +3175,8 @@
       "Saving on training costs"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Designing a Tailored Governance System"
   },
   {
     "id": 252,
@@ -2943,7 +3188,8 @@
       "Maintaining hardware"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Performance Management"
   },
   {
     "id": 253,
@@ -2955,7 +3201,8 @@
       "Asset inventory"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Performance Management"
   },
   {
     "id": 254,
@@ -2967,7 +3214,8 @@
       "Only for technical staff"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Performance Management"
   },
   {
     "id": 255,
@@ -2979,7 +3227,8 @@
       "Lower software quality"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Performance Management"
   },
   {
     "id": 256,
@@ -2991,7 +3240,8 @@
       "User account name"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Governance and Management Objectives"
   },
   {
     "id": 257,
@@ -3003,7 +3253,8 @@
       "Ignore stakeholder feedback"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Performance Management"
   },
   {
     "id": 258,
@@ -3015,7 +3266,8 @@
       "Vendor contracts"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Governance and Management Objectives"
   },
   {
     "id": 259,
@@ -3027,7 +3279,8 @@
       "External vendors\u2019 interests"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Performance Management"
   },
   {
     "id": 260,
@@ -3039,7 +3292,8 @@
       "When tracked by only one person"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Performance Management"
   },
   {
     "id": 261,
@@ -3051,7 +3305,8 @@
       "They audit financial results only"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Performance Management"
   },
   {
     "id": 262,
@@ -3063,7 +3318,8 @@
       "Write technical manuals"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Business Case"
   },
   {
     "id": 263,
@@ -3075,7 +3331,8 @@
       "Network diagrams"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Business Case"
   },
   {
     "id": 264,
@@ -3087,7 +3344,8 @@
       "Server room temperature"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Business Case"
   },
   {
     "id": 265,
@@ -3099,7 +3357,8 @@
       "System administrators"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Business Case"
   },
   {
     "id": 266,
@@ -3111,7 +3370,8 @@
       "Incident timeline"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Business Case"
   },
   {
     "id": 267,
@@ -3123,7 +3383,8 @@
       "Password expiration policy"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Business Case"
   },
   {
     "id": 268,
@@ -3135,7 +3396,8 @@
       "By hiding decision-making processes"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Business Case"
   },
   {
     "id": 269,
@@ -3147,7 +3409,8 @@
       "Vendors will be satisfied"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Business Case"
   },
   {
     "id": 270,
@@ -3159,7 +3422,8 @@
       "Daily inventory count"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Business Case"
   },
   {
     "id": 271,
@@ -3171,7 +3435,8 @@
       "Purchasing hardware immediately"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Business Case"
   },
   {
     "id": 272,
@@ -3182,7 +3447,8 @@
       "Governance of Information Technology which is the responsability of the IT organizational department"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Governance and Management Objectives"
   },
   {
     "id": 273,
@@ -3193,7 +3459,8 @@
       "Alignment and value leads to governance"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Framework Introduction"
   },
   {
     "id": 274,
@@ -3204,7 +3471,8 @@
       "Risk optimization"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Framework Introduction"
   },
   {
     "id": 275,
@@ -3215,7 +3483,8 @@
       "COBIT prescribes IT related decisions"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Framework Introduction"
   },
   {
     "id": 276,
@@ -3226,7 +3495,8 @@
       "COBIT is a framework to organize business processes"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Framework Introduction"
   },
   {
     "id": 277,
@@ -3237,7 +3507,8 @@
       "Based on conceptual model"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Principles"
   },
   {
     "id": 278,
@@ -3248,7 +3519,8 @@
       "Based on conceptual model"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Principles"
   },
   {
     "id": 279,
@@ -3259,7 +3531,8 @@
       "a Governance system should clearly disctinguish between governance and management activities and structures"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Principles"
   },
   {
     "id": 280,
@@ -3270,7 +3543,8 @@
       "A governance system should clearly disctinguish between governance and management activities and structures"
     ],
     "answer": 1,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Principles"
   },
   {
     "id": 281,
@@ -3281,7 +3555,8 @@
       "Governance System Principles describe the core requriements for a governance system while Governance Framework Principles focus on building that governance system"
     ],
     "answer": 2,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Principles"
   },
   {
     "id": 282,
@@ -3292,6 +3567,7 @@
       "Goals cascade"
     ],
     "answer": 0,
-    "explanation": ""
+    "explanation": "",
+    "examDomain": "Designing a Tailored Governance System"
   }
 ]
