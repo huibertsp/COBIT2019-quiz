@@ -2,7 +2,7 @@
 <html lang="en">
 <!--
 General Purpose:
-This web application enables users to efficiently practice for the TOGAF 10 Enterprise Architecture Foundation exam.
+This web application enables users to efficiently practice for the TOGAF 10 / COBIT Foundation exams.
 It delivers randomized question sets, tracks progress and performance, and leverages browser storage for adaptive learning.
 
 Version History (timestamp | description):
@@ -13,6 +13,7 @@ Version History (timestamp | description):
 2026-01-29 21:30 EST | v1.2 Ask user how many questions to include in a session; use user-defined session length
 2026-01-29 21:51 EST | v1.3 Show optional explanation text when an answer is wrong
 2026-01-31 22:41 EST | v1.4 Show optional examDomain along with the answer feedback when present
+2026-02-02 18:15 EST | v1.5 Always show examDomain after an answer, correct or wrong
 -->
 <head>
   <meta charset="UTF-8" />
@@ -167,7 +168,7 @@ Version History (timestamp | description):
   <header>
     <h1>TOGAF 10 - Enterprise Architecture Foundation</h1>
     <div class="meta">
-      Version: v1.4 | Total Questions: <span id="total-questions">--</span>
+      Version: v1.5 | Total Questions: <span id="total-questions">--</span>
     </div>
   </header>
   <div class="container">
@@ -190,9 +191,11 @@ Version History (timestamp | description):
         return {};
       }
     }
+
     function setQuestionHistory(history) {
       localStorage.setItem('questionHistory', JSON.stringify(history));
     }
+
     function excludeExpiredQuestions(history) {
       const now = Date.now();
       for (const id in history) {
@@ -230,7 +233,7 @@ Version History (timestamp | description):
         document.getElementById("total-questions").textContent = allQuestions.length;
         questionHistory = getQuestionHistory();
         questionHistory = excludeExpiredQuestions(questionHistory);
-        startNewQuizSession(true, true);
+        startNewQuizSession(true, true); // new set, ask user count
       } catch (err) {
         document.getElementById("error-area").style.display = "block";
         document.getElementById("error-area").textContent = "Error: " + err.message;
@@ -353,34 +356,34 @@ Version History (timestamp | description):
 
       let hist = questionHistory[q.id] || { correctStreak: 0, excludeUntil: null };
       const feedbackEl = document.getElementById("feedback");
+      let message = "";
 
       if (selectedIndex === correctIndex) {
         score++;
         hist.correctStreak = (hist.correctStreak || 0) + 1;
-        let msg = "✅ Correct!";
-        if (q.examDomain) {
-          msg += `\nDomain: ${q.examDomain}`;
-        }
-        feedbackEl.textContent = msg;
+        message = "✅ Correct!";
       } else {
         hist.correctStreak = 0;
-        let message =
-          `❌ Incorrect! Correct answer: ${q.shuffledOptions[correctIndex].opt}`;
-        if (q.examDomain) {
-          message += `\nDomain: ${q.examDomain}`;
-        }
+        message = `❌ Incorrect! Correct answer: ${q.shuffledOptions[correctIndex].opt}`;
         if (q.explanation) {
           message += `\nExplanation: ${q.explanation}`;
         }
-        feedbackEl.textContent = message;
       }
 
+      // Always show examDomain if present
+      if (q.examDomain) {
+        message += `\nDomain: ${q.examDomain}`;
+      }
+
+      // Exclude after 3 correct in a row
       if (hist.correctStreak >= 3) {
         hist.excludeUntil = Date.now() + (7 * 24 * 60 * 60 * 1000);
         hist.correctStreak = 0;
-        feedbackEl.textContent +=
-          "\nThis question will be excluded from sessions for 7 days!";
+        message += "\nThis question will be excluded from sessions for 7 days!";
       }
+
+      feedbackEl.textContent = message;
+
       questionHistory[q.id] = hist;
       setQuestionHistory(questionHistory);
 
