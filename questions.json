@@ -3569,5 +3569,89 @@
     "answer": 0,
     "explanation": "",
     "examDomain": "Designing a Tailored Governance System"
+  },
+  {
+    "id": 283,
+    "question": "Which statement is TRUE about Governance Management Objectives",
+    "options": [
+      "A governance or management objective always relates to one process",
+      "A governance of management objective relates to one or more processes and a series of related components",
+      "Evaluate, Direct and Monitor is a Management Objective"
+    ],
+    "answer": 1,
+    "explanation": "In COBIT 2019, governance and management objectives are holistic groupings that encompass multiple processes plus supporting governance components (structures, information flows, culture, etc.), not just single processes.",
+    "examDomain": "Governance and Management Objectives"
+  },
+  {
+    "id": 284,
+    "question": "Which of the following is a Governance Objective",
+    "options": [
+      "Managed Projects",
+      "Managed Continuity",
+      "Ensured Risk Optimization"
+    ],
+    "answer": 2,
+    "explanation": "In COBIT 2019, \"Ensured Risk Optimization\" (EDM03) is a governance objective within the EDM domain, while \"Managed Projects\" (BAI01) and \"Managed Continuity\" (DSS04) are management objectives.",
+    "examDomain": "Governance and Management Objectives"
+  },
+  {
+    "id": 285,
+    "question": "Which of the following is NOT a component of a Governance System",
+    "options": [
+      "Processes",
+      "Culture, ethics & behavior",
+      "Finance"
+    ],
+    "answer": 2,
+    "explanation": "COBIT 2019 defines six specific governance system components (processes, organizational structures, principles/policies/frameworks, information flows, culture/ethics/behavior, people/skills/competencies), and \"Finance\" is not one of them.",
+    "examDomain": "Governance System and Components"
+  },
+  {
+    "id": 286,
+    "question": "Which of the following is NOT TRUE about Design factors",
+    "options": [
+      "Compliance requirements is a design factor",
+      "Design factor is certain governance topic, domain or issue that can be addressed by a collection of governance and management objectives and their components",
+      "Role of IT is a design factor"
+    ],
+    "answer": 1,
+    "explanation": "In COBIT 2019, design factors are contextual, strategic, or tactical influences (like compliance requirements and role of IT) that guide tailoring, not governance topics or issues addressed by objectives.",
+    "examDomain": "Designing a Tailored Governance System"
+  },
+  {
+    "id": 287,
+    "question": "A governance or management objective always relates to _____ and a series of related components of other types to help achieve the objective.",
+    "options": [
+      "compliance requirements",
+      "one process",
+      "one governance framework principle"
+    ],
+    "answer": 1,
+    "explanation": "COBIT 2019 governance and management objectives are groupings that typically include one primary process plus supporting components (structures, information, culture, etc.) to achieve the objective, not just compliance requirements or single principles.",
+    "examDomain": "Governance and Management Objectives"
+  },
+  {
+    "id": 288,
+    "question": "______________ are factors that can influence the design of an enterprise’s governance system and position it for success in the use of I&T.",
+    "options": [
+      "Components of the governance system",
+      "Alignment goals",
+      "Design factors"
+    ],
+    "answer": 2,
+    "explanation": "Design factors are contextual, strategic, and tactical influences (like enterprise strategy, compliance requirements, and role of IT) that directly shape how an enterprise tailors its governance system for I&T success.",
+    "examDomain": "Designing a Tailored Governance System"
+  },
+  {
+    "id": 289,
+    "question": "Which of the following is a design factor for a governance system that supports prioritization of management objectives based on prioritization of enterprise goals?",
+    "options": [
+      "Balanced scorecard",
+      "Holistic approach",
+      "Risk Profile"
+    ],
+    "answer": 2,
+    "explanation": "Risk Profile is one of COBIT 2019's 11 design factors that directly influences how enterprise goals are prioritized, which then cascades to prioritizing relevant governance and management objectives.",
+    "examDomain": "Designing a Tailored Governance System"
   }
 ]
