@@ -477,7 +477,7 @@
       "Direction is set through prioritization and decision making."
     ],
     "answer": 0,
-    "explanation": "",
+    "explanation": "The three bullet points describe Governance and Management together, but the \"IT plans, builds, runs and monitors activities\" specifically defines Management’s role: “plans, builds, runs and monitors activities, in alignment with the direction set by the governance body, to achieve the enterprise objectives.",
     "examDomain": "Framework Introduction"
   },
   {
@@ -885,7 +885,7 @@
       "Step 1, What are the drivers?"
     ],
     "answer": 1,
-    "explanation": "",
+    "explanation": "Step 4, Conclude the governance system design. COBIT 2019 places “Resolve Inherent Priority Conflicts” explicitly in Step 4 of the Governance System Design Workflow.",
     "examDomain": "Designing a Tailored Governance System"
   },
   {
@@ -1368,7 +1368,7 @@
       "Governance Structures"
     ],
     "answer": 0,
-    "explanation": "",
+    "explanation": "The Processes component provides detailed descriptions of practices and activities needed to achieve governance and management objectives.",
     "examDomain": "Governance and Management Objectives"
   },
   {
@@ -3452,14 +3452,14 @@
   },
   {
     "id": 273,
-    "question": "The context of Enterprise Governance of Information and Technology includes?",
+    "question": "The context of Enterprise Governance of Information and Technology (EGIT) includes?",
     "options": [
       "Governance leads the alignment which leads to value",
       "Governance leads to value which leads to alignment",
       "Alignment and value leads to governance"
     ],
     "answer": 0,
-    "explanation": "",
+    "explanation": "Governance leads the alignment which leads to value. In COBIT’s view, governance sets direction and constraints, this governance then drives alignment of I&T with enterprise needs, and that alignment enables value creation.",
     "examDomain": "Framework Introduction"
   },
   {
@@ -3519,7 +3519,7 @@
       "Based on conceptual model"
     ],
     "answer": 2,
-    "explanation": "",
+    "explanation": "COBIT 2019 governance system principles include “holistic approach” and “based on a conceptual model”; “governance distinct from management” is a governance framework principle, not a governance system principle.",
     "examDomain": "Principles"
   },
   {
