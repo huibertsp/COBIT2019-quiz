@@ -3653,5 +3653,251 @@
     "answer": 2,
     "explanation": "Risk Profile is one of COBIT 2019's 11 design factors that directly influences how enterprise goals are prioritized, which then cascades to prioritizing relevant governance and management objectives.",
     "examDomain": "Designing a Tailored Governance System"
+  },
+  [
+  {
+    "id": 290,
+    "question": "Governance objectives are grouped in the",
+    "options": [
+      "Evaluate, Direct and Monitor domain",
+      "Build, Acquire and Implement domain",
+      "Monitor, Evaluate and Asses domain"
+    ],
+    "answer": 0,
+    "explanation": "Governance objectives in COBIT 2019 are grouped in the EDM (Evaluate, Direct and Monitor) domain, while the other domains (BAI, DSS, MEA) contain management objectives.",
+    "examDomain": "Governance and Management Objectives"
+  },
+  {
+    "id": 291,
+    "question": "„Managed IT changes" objective is part of",
+    "options": [
+      "Monitor, Evaluate and Asses domain",
+      "Build, Acquire and Implement domain",
+      "Align, Plan and Organize domain"
+    ],
+    "answer": 1,
+    "explanation": "Explanation: \"Managed IT Changes\" (BAI06) is a core process in the BAI (Build, Acquire and Implement) domain, focusing on controlled change management practices for specifying, testing, authorizing, and deploying IT changes.",
+    "examDomain": "Governance and Management Objectives"
+  },
+  {
+    "id": 292,
+    "question": "Purpose statement of „Manage Configurations" is",
+    "options": [
+      "Provide sufficient information about service assets to enable the service to be efficiently managed.",
+      "Asses the impact of changes and deal with service incidents",
+      "Account for all I&T assets and optimize the value provided by their use.",
+      "Implement solutions safely and in line with the agreed expectations and outcomes."
+    ],
+    "answer": 2,
+    "explanation": "\"Managed Configurations\" (BAI10) purpose in COBIT 2019 is to account for all I&T assets and optimize the value provided by their use, enabling effective change management, incident resolution, and service asset visibility through configuration repositories and baselines.",
+    "examDomain": "Governance and Management Objectives"
+  },
+  {
+    "id": 293,
+    "question": "Each Governance and Management Objectives is described by",
+    "options": [
+      "High-level information, Goal cascade, Related components & Related Guidelines",
+      "High level, mid level and detailed information",
+      "Governance system principles"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "examDomain": "Governance and Management Objectives"
+  },
+  {
+    "id": 294,
+    "question": "Governance ________ are factors that, individually and collectively, contribute to the good operations of the enterprise's governance system over I&T and were known as enablers in COBIT 5.",
+    "options": [
+      "components",
+      "goals",
+      "practices"
+    ],
+    "answer": 0,
+    "explanation": "Governance components in COBIT 2019 are the factors (processes, structures, information flows, culture, skills, infrastructure) that individually and collectively enable effective governance system operation over I&T; these were called \"enablers\" in COBIT 5.",
+    "examDomain": "Governance System and Components"
+  },
+  {
+    "id": 295,
+    "question": "Which two levels of involvement does COBIT 2019 identify within the updated RACI chart?",
+    "options": [
+      "Consulted and Informed",
+      "Responsible and Accountable",
+      "Ownership and Delegated"
+    ],
+    "answer": 1,
+    "explanation": "COBIT 2019's updated RACI charts focus on two primary levels of involvement—Responsible (performs the work) and Accountable (ultimately answerable)—while Consulted and Informed roles are customized by the enterprise based on its specific needs.",
+    "examDomain": "Governance System and Components"
+  },
+  {
+    "id": 296,
+    "question": "Which Governance or Management Objective has the following purpose statement? <BR><BR>Realize defined project outcomes and reduce the risk of unexpected delays, costs and value erosion by improving communications to and involvement of business and end users. Ensure the value and quality of project deliverables and maximize their contribution to the defined programs and investment portfolio.",
+    "options": [
+      "BAI11 Managed Projects",
+      "BAI02 Managed Requirements Defintion",
+      "APO09 Managed Service Agreements"
+    ],
+    "answer": 0,
+    "explanation": "The purpose statement matches exactly BAI11 Managed Projects in COBIT 2019, which focuses on realizing project outcomes through business/end-user involvement, managing delays/costs/value erosion risks, and ensuring deliverables contribute to programs/portfolios.",
+    "examDomain": "Governance and Management Objectives"
+  },
+  {
+    "id": 297,
+    "question": "Which Governance or Management Objective has the following purpose statement? <BR><BR>Achieve competitive advantage, business innovation, improved customer experience, and improved operational effectiveness and efficiency by exploiting I&T developments and emerging technologies.",
+    "options": [
+      "APO01 Managed Service Catalog",
+      "APO04 Managed Innovation",
+      "BIA08 Managed Knowledge"
+    ],
+    "answer": 1,
+    "explanation": "The purpose statement matches exactly APO04 Managed Innovation in COBIT 2019, which drives competitive advantage, business innovation, customer experience, and operational effectiveness by exploiting I&T developments and emerging technologies.",
+    "examDomain": "Governance and Management Objectives"
+  },
+  {
+    "id": 298,
+    "question": "Within the COBIT Goals Cascade, under which Balanced Scorecard dimension would you find the Enterprise Goal \"Managed digital transformation programs?\"",
+    "options": [
+      "Align, Plan and Organize (APO)",
+      "DevOps",
+      "Growth"
+    ],
+    "answer": 2,
+    "explanation": "In COBIT 2019's Goals Cascade, \"Managed digital transformation programs\" falls under the Growth (Learning & Growth) Balanced Scorecard dimension, which covers enterprise goals focused on innovation, agility, and strategic transformation initiatives.",
+    "examDomain": "Goals Cascade"
+  },
+  {
+    "id": 299,
+    "question": "This statement applies to Governance and Management Objectives \"For each practice, inputs and outputs are identified\" <BR><BR>Which is the appropriate Governance Component?",
+    "options": [
+      "Process",
+      "Organizational Structures",
+      "Information",
+      "People, Skills, Competencies",
+      "Policies",
+      "Culture, Ethics and behavior",
+      "Services, Infrastructure and Applications"
+    ],
+    "answer": 0,
+    "explanation": "The Process component in COBIT 2019 governance system provides the detailed structure for each governance/management objective, explicitly identifying practices, related activities, inputs and outputs (with origins/destinations), purpose, and related metrics.",
+    "examDomain": "Governance System and Components"
+  },
+  {
+    "id": 300,
+    "question": "This statement applies to Governance and Management Objectives \"Based on the Skills Framework for the Information Age, or SFIA.\" <BR><BR>Which is the appropriate Governance Component?",
+    "options": [
+      "Process",
+      "Organizational Structures",
+      "Information",
+      "People, Skills, Competencies",
+      "Policies",
+      "Culture, Ethics and behavior",
+      "Services, Infrastructure and Applications"
+    ],
+    "answer": 3,
+    "explanation": "COBIT 2019 explicitly bases its People, Skills, and Competencies governance component guidance on the Skills Framework for the Information Age (SFIA), providing detailed skill mappings for each governance/management objective.",
+    "examDomain": "Governance System and Components"
+  },
+  {
+    "id": 301,
+    "question": "This statement applies to Governance and Management Objectives \"COBIT 2019 only suggests responsible and accountable roles.\" <BR><BR>Which is the appropriate Governance Component?",
+    "options": [
+      "Process",
+      "Organizational Structures",
+      "Information",
+      "People, Skills, Competencies",
+      "Policies",
+      "Culture, Ethics and behavior",
+      "Services, Infrastructure and Applications"
+    ],
+    "answer": 1,
+    "explanation": "The Organizational Structures governance component in COBIT 2019 defines roles and responsibilities using an updated RACI model that focuses only on responsible and accountable roles, leaving consulted/informed roles for enterprise customization.",
+    "examDomain": "Governance System and Components"
+  },
+  {
+    "id": 302,
+    "question": "This statement applies to Governance and Management Objectives \"Third-party services, types of infrastructure and categories of applications that can be applied to support the achievement of a governance or management objective.\"<BR><BR>Which is the appropriate Governance Component?",
+    "options": [
+      "Process",
+      "Organizational Structures",
+      "Information",
+      "People, Skills, Competencies",
+      "Policies",
+      "Culture, Ethics and behavior",
+      "Services, Infrastructure and Applications"
+    ],
+    "answer": 6,
+    "explanation": "The Services, Infrastructure and Applications governance component in COBIT 2019 specifically addresses third-party services, infrastructure types, and application categories required to support achievement of governance and management objectives.",
+    "examDomain": "Governance System and Components"
+  },
+  {
+    "id": 303,
+    "question": "Process capability levels are measured on scale",
+    "options": [
+      "0-10",
+      "0-100",
+      "0-5"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "examDomain": "Performance Management"
+  },
+  {
+    "id": 304,
+    "question": "Partially achieved capability level scale is",
+    "options": [
+      "20-50%",
+      "50-80%",
+      "15-50%"
+    ],
+    "answer": 2,
+    "explanation": "COBIT 2019 process capability levels use a CMMI-based scale from 0 (Incomplete) to 5 (Optimizing), measuring how well processes achieve their purpose through attributes like performed, managed, established, predictable, and optimizing.",
+    "examDomain": "Performance Management"
+  },
+  {
+    "id": 305,
+    "question": "Process activities are associated to",
+    "options": [
+      "Capability levels",
+      "Maturity levels",
+      "Both Capability and Maturity levels"
+    ],
+    "answer": 0,
+    "explanation": "Process activities in COBIT 2019 are directly associated with capability levels (0-5), where specific activities must be performed to achieve each level; maturity levels are an organizational attribute, not tied to individual process activities.",
+    "examDomain": "Performance Management"
+  },
+  {
+    "id": 306,
+    "question": "Which of these is NOT an example of a good practice for Organizational structures",
+    "options": [
+      "Span of control",
+      "Delegation of authority",
+      "Accuracy"
+    ],
+    "answer": 2,
+    "explanation": "Good practices for COBIT 2019's Organizational Structures component include defining span of control and delegation of authority to clarify decision-making hierarchies and responsibilities; accuracy relates to the Information or Process components, not organizational design.",
+    "examDomain": "Governance System and Components"
+  },
+  {
+    "id": 307,
+    "question": "Which of the following is a key principle to COBIT Performance Management (CPM)?",
+    "options": [
+      "The CPM should include 5 levels of capability adn maturity",
+      "Assessing performnace should be completed at the governance component level only",
+      "The CPM should support different types of assesments"
+    ],
+    "answer": 2,
+    "explanation": "A key principle of COBIT 2019 Performance Management (CPM) is flexibility to support different types of assessments (self-assessments, formal audits, appraisals), providing reliable results for various organizational needs beyond just process capability levels.",
+    "examDomain": "Performance Management"
+  },
+  {
+    "id": 308,
+    "question": "COBIT 2019 Performance management supports which industry-based process capability scheme?",
+    "options": [
+      "CMMI-based process capability scheme.",
+      "COBIT has ts own capability scheme and does not support any inducstry-based frameworks.",
+      "Skills Framework for the information Age (SFIA)."
+    ],
+    "answer": 0,
+    "explanation": "COBIT 2019 Performance Management (CPM) supports a CMMI-based process capability scheme (levels 0-5), aligning with industry standards while extending assessment to other governance components beyond just processes.",
+    "examDomain": "Performance Management"
   }
 ]
