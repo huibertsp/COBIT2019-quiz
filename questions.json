@@ -3982,5 +3982,65 @@
     "answer": 1,
     "explanation": "Current I&T-related issues are considered during the initial scope determination stage, where design factors like current issues help prioritize governance objectives via the goals cascade.",
     "examDomain": "Design Factors and Governance System Design Workflow"
+  },
+  {
+    "id": 316,
+    "question": "Which of the following is the „Program management“ implementation step?",
+    "options": [
+      "Sustain",
+      "Define Roadmap",
+      "Identify role players"
+    ],
+    "answer": 1,
+    "explanation": "\"Define Roadmap\" is a key step in COBIT 2019's program management approach within the implementation guide (specifically phase 4 or 5), creating prioritized project roadmaps based on governance system design outputs; \"Sustain\" refers to phase 7 (keep momentum), and \"Identify role players\" is part of initiation/stakeholder management.",
+    "examDomain": "Implementation"
+  },
+  {
+    "id": 317,
+    "question": "Which of the following is the „Change enablement“ implementation step?",
+    "options": [
+      "Sustain",
+      "Define Roadmap",
+      "Identify role players"
+    ],
+    "answer": 0,
+    "explanation": "\"Sustain\" (phase 7: How do we keep the momentum going?) is part of the core 7-phase implementation life cycle, while Change enablement is one of the three supporting perspectives (alongside Program management and Continual improvement) that provide guidance across those phases for stakeholder engagement and adoption.",
+    "examDomain": "Implementation"
+  },
+  {
+    "id": 318,
+    "question": "In which phase of the implementation lifecycle would an enterprise “Plan program” for the implementation?",
+    "options": [
+      "Phase 4 - What needs to be done?",
+      "Phase 1 - What are the drivers?",
+      "Phase 5 - How do we get there?"
+    ],
+    "answer": 0,
+    "explanation": "In COBIT 2019's 7-phase implementation lifecycle, Phase 4 (\"What needs to be done?\") involves planning programs and projects by defining practical solutions, business cases, and detailed implementation/change plans based on the governance system design from prior phases.",
+    "examDomain": "Implementation"
+  },
+  {
+    "id": 319,
+    "question": "What is the best description of the alignment between the COBIT Implementation and Design Guides?",
+    "options": [
+      "The both require all Governance and Management objectives to be asses at high maturity level.",
+      "Both approaches heve seven steps, and each of those steps align with each other.",
+      "The COBIT Design Guide primarely aligns with the first three phases of the implementation lifecycle."
+    ],
+    "answer": 2,
+    "explanation": "The Design Guide's 4-step workflow (enterprise context → initial scope → refine scope → conclude design) maps directly to Implementation Guide phases 1-3 (What are drivers? → Where are we now? → Where do we want to be?), providing the governance system blueprint before detailed planning begins in phase 4.",
+    "examDomain": "Design and Implementation"
+  },
+  {
+    "id": 320,
+    "question": "In which phase of the implementation lifecycle would an enterprise “Define the Road Map” for the implementation?",
+    "options": [
+      "Phase 3 - Where do we want to be?",
+      "Phase 6 - Did we get there?",
+      "Phase 1 - Asses Current State"
+    ],
+    "answer": 0,
+    "explanation": "\"Define the Road Map\" occurs in Phase 4 of COBIT 2019's 7-phase implementation lifecycle, where detailed project plans, roadmaps, and business cases are developed based on the target governance system from Phase 3; Phase 1 is drivers identification, Phase 3 sets targets, and Phase 6 is benefits realization assessment.",
+    "examDomain": "Implementation"
   }
 ]
