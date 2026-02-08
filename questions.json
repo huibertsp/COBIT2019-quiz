@@ -3898,5 +3898,89 @@
     "answer": 0,
     "explanation": "COBIT 2019 Performance Management (CPM) supports a CMMI-based process capability scheme (levels 0-5), aligning with industry standards while extending assessment to other governance components beyond just processes.",
     "examDomain": "Performance Management"
+  },
+  {
+    "id": 309,
+    "question": "Which of the following is NOT a COBIT design factor",
+    "options": [
+      "Enterprise size",
+      "Source Model",
+      "Cloud Computing"
+    ],
+    "answer": 2,
+    "explanation": "COBIT 2019's 11 official design factors include Enterprise size and Sourcing Model (which encompasses cloud as a sourcing option), but Cloud Computing itself is not listed as a standalone design factor.",
+    "examDomain": "Design Factors"
+  },
+  {
+    "id": 310,
+    "question": "Impact of design factors on the tailoring of governance system is NOT",
+    "options": [
+      "Component variations",
+      "COBIT Code Model",
+      "Specific Focus Areas"
+    ],
+    "answer": 1,
+    "explanation": "The impacts of design factors on tailoring the governance system are described as component variations, changes in management objective priority/target capability, and definition of specific focus areas; “COBIT Code Model” is not one of these impacts.",
+    "examDomain": "Design Factors"
+  },
+  {
+    "id": 311,
+    "question": "„Resolve inherent priority conflicts“ is part of which step of the Governance system design workflow?",
+    "options": [
+      "Conclude the governance system design",
+      "Understand the enterprise context and strategy",
+      "Refine the scope of the governance system"
+    ],
+    "answer": 0,
+    "explanation": "“Resolve inherent priority conflicts” is explicitly part of the final step, where you conclude the governance system design by reconciling competing priorities before finalizing the tailored governance system.",
+    "examDomain": "Design Factors and Governance System Design Workflow"
+  },
+  {
+    "id": 312,
+    "question": "Which of the following is not a step in the Governance system design workflow?",
+    "options": [
+      "Understand the enterprise context and strategy",
+      "Initiate the implementation of the governance system",
+      "Refine the scope of the governance system"
+    ],
+    "answer": 1,
+    "explanation": "The COBIT 2019 Governance System Design Workflow consists of four steps: 1) Understand enterprise context and strategy, 2) Determine/refine scope of the governance system, 3) Conclude governance system design; implementation initiation belongs to the separate COBIT 2019 Implementation Guide's seven-phase lifecycle, not the design workflow.",
+    "examDomain": "Design Factors and Governance System Design Workflow"
+  },
+  {
+    "id": 313,
+    "question": "Designing a tailored governance system will result in recommendations for prioritizing governance and management objectives or related governance system components, for ____________, or for adopting specific variants of a governance system component.",
+    "options": [
+      "target capability levels",
+      "documenting the four enabler dimensions",
+      "documenting the most appropriate accountabilities and responsibilities"
+    ],
+    "answer": 0,
+    "explanation": "Designing a tailored governance system in COBIT 2019 results in recommendations for prioritizing objectives/components, setting target capability levels, or adopting specific component variants; the other options relate to different framework elements (enablers were COBIT 5, RACI is Organizational Structures).",
+    "examDomain": "Design Factors"
+  },
+  {
+    "id": 314,
+    "question": "Which of the following is the correct set of steps in the governance system design workflow?",
+    "options": [
+      "Understand the enterprise context and strategy; Determine the initial scope of the governance system; Refine the scope of the governance system; Conclude the governance system design",
+      "What are the drivers; Where are we now; Where do we want to be; What needs to be done; How do we get there; How do we keep the momentum",
+      "Direct the governance system; Plan the governance system; Build the governance system; Run the governance system; Monitor the governance system"
+    ],
+    "answer": 0,
+    "explanation": "These are the four precise steps of COBIT 2019's Governance System Design Workflow: understanding context/strategy, initial scoping via Goals Cascade/design factors, scope refinement via additional factors, and concluding with priority conflict resolution. The second option describes the 7-phase Implementation Guide; the third resembles EDM domains.",
+    "examDomain": "Design Factors and Governance System Design Workflow"
+  },
+  {
+    "id": 315,
+    "question": "In which stage of the Governance System Design Workflow would an enterprise consider the current I&T-related issues?",
+    "options": [
+      "Understand enterprise strategy",
+      "Determine the initial scope of the governance system",
+      "Plan program"
+    ],
+    "answer": 1,
+    "explanation": "Current I&T-related issues are considered during the initial scope determination stage, where design factors like current issues help prioritize governance objectives via the goals cascade.",
+    "examDomain": "Design Factors and Governance System Design Workflow"
   }
 ]
