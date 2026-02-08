@@ -3671,9 +3671,9 @@
     "id": 291,
     "question": "\"Managed IT changes\" objective is part of",
     "options": [
-      "Monitor, Evaluate and Asses domain",
-      "Build, Acquire and Implement domain",
-      "Align, Plan and Organize domain"
+      "MEA - Monitor, Evaluate and Asses domain",
+      "BAI - Build, Acquire and Implement domain",
+      "APO - Align, Plan and Organize domain"
     ],
     "answer": 1,
     "explanation": "Explanation: \"Managed IT Changes\" (BAI06) is a core process in the BAI (Build, Acquire and Implement) domain, focusing on controlled change management practices for specifying, testing, authorizing, and deploying IT changes.",
@@ -3681,7 +3681,7 @@
   },
   {
     "id": 292,
-    "question": "Purpose statement of „Manage Configurations" is",
+    "question": "Purpose statement of \"Manage Configurations\" is",
     "options": [
       "Provide sufficient information about service assets to enable the service to be efficiently managed.",
       "Asses the impact of changes and deal with service incidents",
