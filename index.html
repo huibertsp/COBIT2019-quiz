@@ -2,7 +2,7 @@
 <html lang="en">
 <!--
 General Purpose:
-This web application enables users to efficiently practice for the COBIT Foundation exams.
+This web application enables users to efficiently practice for the COBIT 2019 Foundation exam.
 It delivers randomized question sets, tracks progress and performance, and leverages browser storage for adaptive learning.
 
 Version History (timestamp | description):
@@ -14,10 +14,11 @@ Version History (timestamp | description):
 2026-01-29 21:51 EST | v1.3 Show optional explanation text when an answer is wrong
 2026-01-31 22:41 EST | v1.4 Show optional examDomain along with the answer feedback when present
 2026-02-02 18:15 EST | v1.5 Always show examDomain after an answer, correct or wrong
+2026-02-08 16:23 EST | v1.6 Changed title to COBIT 2019 Foundation; Added examDomain statistics at results
 -->
 <head>
   <meta charset="UTF-8" />
-  <title>COBIT 2019 Foundation Exam Practise</title>
+  <title>COBIT 2019 Foundation</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <style>
     body {
@@ -134,6 +135,31 @@ Version History (timestamp | description):
       color: #c62828;
       font-weight: bold;
     }
+    .domain-stats {
+      margin-top: 25px;
+      text-align: left;
+      font-size: 0.95em;
+    }
+    .domain-stats h3 {
+      color: #283593;
+      margin-bottom: 12px;
+      text-align: center;
+    }
+    .domain-row {
+      display: flex;
+      justify-content: space-between;
+      padding: 8px 0;
+      border-bottom: 1px solid #eee;
+    }
+    .domain-row:last-child {
+      border-bottom: none;
+    }
+    .domain-name {
+      font-weight: 500;
+    }
+    .domain-score {
+      font-weight: bold;
+    }
     .error {
       text-align: center;
       color: #b71c1c;
@@ -161,14 +187,19 @@ Version History (timestamp | description):
       .progress, .feedback, .result {
         font-size: 1.08em;
       }
+      .domain-row {
+        flex-direction: column;
+        text-align: center;
+        gap: 4px;
+      }
     }
   </style>
 </head>
 <body>
   <header>
-    <h1>COBIT 2019 Foundation Practice Questions</h1>
+    <h1>COBIT 2019 Foundation</h1>
     <div class="meta">
-      Version: v1.5 | Total Questions: <span id="total-questions">--</span>
+      Version: v1.6 | Total Questions: <span id="total-questions">--</span>
     </div>
   </header>
   <div class="container">
@@ -215,7 +246,8 @@ Version History (timestamp | description):
     let score = 0;
     let lastSelectedQuestions = [];
     let questionHistory = {};
-    let sessionQuestionCount = 40; // default, overridden by prompt
+    let sessionQuestionCount = 40;
+    let domainStats = {};
 
     function shuffle(array) {
       for (let i = array.length - 1; i > 0; i--) {
@@ -233,7 +265,7 @@ Version History (timestamp | description):
         document.getElementById("total-questions").textContent = allQuestions.length;
         questionHistory = getQuestionHistory();
         questionHistory = excludeExpiredQuestions(questionHistory);
-        startNewQuizSession(true, true); // new set, ask user count
+        startNewQuizSession(true, true);
       } catch (err) {
         document.getElementById("error-area").style.display = "block";
         document.getElementById("error-area").textContent = "Error: " + err.message;
@@ -273,6 +305,7 @@ Version History (timestamp | description):
     function startNewQuizSession(newSet = true, askCount = false) {
       score = 0;
       currentQuestion = 0;
+      domainStats = {};
 
       const availableQuestions = filterQuestionsForSession(allQuestions);
       if (availableQuestions.length === 0) {
@@ -375,6 +408,16 @@ Version History (timestamp | description):
         message += `\nDomain: ${q.examDomain}`;
       }
 
+      // Track domain stats
+      const domain = q.examDomain || 'Unknown';
+      if (!domainStats[domain]) {
+        domainStats[domain] = { total: 0, correct: 0 };
+      }
+      domainStats[domain].total++;
+      if (selectedIndex === correctIndex) {
+        domainStats[domain].correct++;
+      }
+
       // Exclude after 3 correct in a row
       if (hist.correctStreak >= 3) {
         hist.excludeUntil = Date.now() + (7 * 24 * 60 * 60 * 1000);
@@ -405,16 +448,35 @@ Version History (timestamp | description):
       document.getElementById("exam-area").style.display = "none";
       const resultArea = document.getElementById("result-area");
       resultArea.style.display = "block";
+      
       const percentage = (score / questions.length) * 100;
       const status = percentage >= 55
         ? `<span class="pass">PASS ✅</span>`
         : `<span class="fail">FAIL ❌</span>`;
+
+      let domainStatsHtml = '<div class="domain-stats"><h3>Domain Performance</h3>';
+      Object.entries(domainStats)
+        .sort(([,a], [,b]) => b.total - a.total)
+        .forEach(([domain, stats]) => {
+          const domainPct = ((stats.correct / stats.total) * 100).toFixed(1);
+          const statusClass = domainPct >= 70 ? 'pass' : domainPct >= 50 ? '' : 'fail';
+          domainStatsHtml += `
+            <div class="domain-row">
+              <span class="domain-name">${domain}</span>
+              <span class="domain-score ${statusClass}">${stats.correct}/${stats.total} (${domainPct}%)</span>
+            </div>
+          `;
+        });
+      domainStatsHtml += '</div>';
+
       resultArea.innerHTML = `
         <div class="result">
           <p>Your Score: ${score} / ${questions.length} (${percentage.toFixed(2)}%)</p>
           <p>Result: ${status}</p>
-          <button class="restart-btn" id="restart-btn">Restart Exam</button>
+          ${domainStatsHtml}
+          <button class="restart-btn" id="restart-btn" style="margin-top: 25px;">Restart Exam</button>
         </div>`;
+      
       document.getElementById("restart-btn").addEventListener("click", () => {
         const useNewSet = confirm(
           "Do you want a NEW set of questions? Press Cancel for the same questions."
