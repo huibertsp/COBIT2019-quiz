@@ -3729,7 +3729,7 @@
   },
   {
     "id": 296,
-    "question": "Which Governance or Management Objective has the following purpose statement? <BR><BR>Realize defined project outcomes and reduce the risk of unexpected delays, costs and value erosion by improving communications to and involvement of business and end users. Ensure the value and quality of project deliverables and maximize their contribution to the defined programs and investment portfolio.",
+    "question": "Which Governance or Management Objective has the following purpose statement? \r\n Realize defined project outcomes and reduce the risk of unexpected delays, costs and value erosion by improving communications to and involvement of business and end users. Ensure the value and quality of project deliverables and maximize their contribution to the defined programs and investment portfolio.",
     "options": [
       "BAI11 Managed Projects",
       "BAI02 Managed Requirements Defintion",
@@ -3741,7 +3741,7 @@
   },
   {
     "id": 297,
-    "question": "Which Governance or Management Objective has the following purpose statement? <BR><BR>Achieve competitive advantage, business innovation, improved customer experience, and improved operational effectiveness and efficiency by exploiting I&T developments and emerging technologies.",
+    "question": "Which Governance or Management Objective has the following purpose statement? \r\n Achieve competitive advantage, business innovation, improved customer experience, and improved operational effectiveness and efficiency by exploiting I&T developments and emerging technologies.",
     "options": [
       "APO01 Managed Service Catalog",
       "APO04 Managed Innovation",
@@ -3765,7 +3765,7 @@
   },
   {
     "id": 299,
-    "question": "This statement applies to Governance and Management Objectives \"For each practice, inputs and outputs are identified\" <BR><BR>Which is the appropriate Governance Component?",
+    "question": "This statement applies to Governance and Management Objectives \"For each practice, inputs and outputs are identified\" \r\n Which is the appropriate Governance Component?",
     "options": [
       "Process",
       "Organizational Structures",
@@ -3781,7 +3781,7 @@
   },
   {
     "id": 300,
-    "question": "This statement applies to Governance and Management Objectives \"Based on the Skills Framework for the Information Age, or SFIA.\" <BR><BR>Which is the appropriate Governance Component?",
+    "question": "This statement applies to Governance and Management Objectives \"Based on the Skills Framework for the Information Age, or SFIA.\" \r\n Which is the appropriate Governance Component?",
     "options": [
       "Process",
       "Organizational Structures",
@@ -3797,7 +3797,7 @@
   },
   {
     "id": 301,
-    "question": "This statement applies to Governance and Management Objectives \"COBIT 2019 only suggests responsible and accountable roles.\" <BR><BR>Which is the appropriate Governance Component?",
+    "question": "This statement applies to Governance and Management Objectives \"COBIT 2019 only suggests responsible and accountable roles.\" \r\n Which is the appropriate Governance Component?",
     "options": [
       "Process",
       "Organizational Structures",
@@ -3813,7 +3813,7 @@
   },
   {
     "id": 302,
-    "question": "This statement applies to Governance and Management Objectives \"Third-party services, types of infrastructure and categories of applications that can be applied to support the achievement of a governance or management objective.\"<BR><BR>Which is the appropriate Governance Component?",
+    "question": "This statement applies to Governance and Management Objectives \"Third-party services, types of infrastructure and categories of applications that can be applied to support the achievement of a governance or management objective.\" \r\n Which is the appropriate Governance Component?",
     "options": [
       "Process",
       "Organizational Structures",
