@@ -837,7 +837,7 @@
       "Escalation procedures"
     ],
     "answer": 1,
-    "explanation": "",
+    "explanation": "Evaluating a RACI chart is a direct way to assess how well roles and responsibilities are defined and working within organizational structures in COBIT 2019.",
     "examDomain": "Performance Management"
   },
   {
@@ -1057,7 +1057,7 @@
       "Implementation team"
     ],
     "answer": 1,
-    "explanation": "",
+    "explanation": "Business process owners ensure the business case and program plan are realistic and achievable by validating IT initiatives against operational business needs and expected benefits delivery.",
     "examDomain": "Business Case"
   },
   {
@@ -1615,7 +1615,7 @@
       "Constituting governance bodies"
     ],
     "answer": 1,
-    "explanation": "",
+    "explanation": "In COBIT 2019, management practices are the activities that plan, build, run, and monitor operations in line with the direction set by governance.",
     "examDomain": "Framework Introduction"
   },
   {
@@ -2603,7 +2603,7 @@
       "Software and hardware"
     ],
     "answer": 1,
-    "explanation": "",
+    "explanation": "COBIT 2019 defines the governance system as the combination of governance components (the seven key enablers: processes, organizational structures, principles/policies/procedures, information, culture/ethics/behavior, people/skills/competencies, services/infrastructure/applications) tailored to enterprise context.",
     "examDomain": "Governance System and Components"
   },
   {
