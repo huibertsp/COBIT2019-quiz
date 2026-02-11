@@ -1031,8 +1031,8 @@
       "Where do we want to be?",
       "What are the drivers?"
     ],
-    "answer": 2,
-    "explanation": "",
+    "answer": 3,
+    "explanation": "Making sure the program team knows and understands the enterprise goals happens in the initial phase, “What are the drivers?”, where stakeholder needs and enterprise goals are identified and communicated.",
     "examDomain": "Implementation"
   },
   {
@@ -3555,7 +3555,7 @@
       "Governance System Principles describe the core requriements for a governance system while Governance Framework Principles focus on building that governance system"
     ],
     "answer": 2,
-    "explanation": "",
+    "explanation": "In COBIT 2019, Governance System Principles define what a good governance system must be like, whereas Governance Framework Principles guide how the overall framework supporting that system should be constructed and maintained.",
     "examDomain": "Principles"
   },
   {
