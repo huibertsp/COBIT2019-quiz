@@ -933,7 +933,7 @@
       "Initiate program, establish desire to change, recognize need to act"
     ],
     "answer": 1,
-    "explanation": "",
+    "explanation": "The COBIT 2019 implementation lifecycle's three perspectives (or rings) are program management (outer ring for oversight), change enablement (middle ring for execution), and continual improvement (inner ring with the seven phases).",
     "examDomain": "Implementation"
   },
   {
@@ -969,7 +969,7 @@
       "What needs to be done"
     ],
     "answer": 0,
-    "explanation": "",
+    "explanation": "Phase 3, "Where do we want to be?", establishes the target for improvement using design factors and goals cascade, followed by gap analysis to pinpoint solutions.",
     "examDomain": "Implementation"
   },
   {
@@ -1173,7 +1173,7 @@
       "Corporate Culture"
     ],
     "answer": 2,
-    "explanation": "",
+    "explanation": "Organizational structures are one of the seven core governance components in COBIT 2019, defining decision-making bodies and roles essential to the governance system.",
     "examDomain": "Governance System and Components"
   },
   {
@@ -2005,7 +2005,7 @@
       "BAI (Build, Acquire and Implement)"
     ],
     "answer": 0,
-    "explanation": "",
+    "explanation": "Ensuring compliance with policies and standards is a core MEA domain responsibility, particularly through MEA03 Monitored Compliance with External Requirements and MEA01 Monitored Performance and Conformance.",
     "examDomain": "Governance and Management Objectives"
   },
   {
