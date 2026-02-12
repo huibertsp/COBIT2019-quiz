@@ -117,7 +117,7 @@
       "business and IT management responsible for building and deploying I&T solutions."
     ],
     "answer": 0,
-    "explanation": "",
+    "explanation": "COBIT 2019 is designed for governance professionals who build, deploy, and sustain the overall governance system, not just specific IT or assurance roles.",
     "examDomain": "Framework Introduction"
   },
   {
@@ -189,7 +189,7 @@
       "In the project charter"
     ],
     "answer": 0,
-    "explanation": "",
+    "explanation": "The business case articulates the executive management's desire to change by outlining pain points, drivers, and value proposition needed to secure sponsorship for the governance initiative.",
     "examDomain": "Framework Introduction"
   },
   {
@@ -585,7 +585,7 @@
       "IT is not crucial for the running and continuity of the business process and services, nor for their innovation."
     ],
     "answer": 0,
-    "explanation": "",
+    "explanation": "A strategic IT role in COBIT 2019's design factor means IT drives both operational continuity and business innovation, unlike support (run-only) or utility (minimal impact) roles.",
     "examDomain": "Designing a Tailored Governance System"
   },
   {
@@ -1316,7 +1316,7 @@
       "External Auditors"
     ],
     "answer": 2,
-    "explanation": "",
+    "explanation": "The governance body holds primary responsibility for setting, evaluating, and directing governance objectives in COBIT 2019's EDM domain to ensure alignment with enterprise goals.",
     "examDomain": "Governance and Management Objectives"
   },
   {
@@ -1576,7 +1576,7 @@
       "Risk Management"
     ],
     "answer": 1,
-    "explanation": "",
+    "explanation": "The rules and behaviors that shape governance culture are defined and embedded through the enterprise’s principles, policies, and frameworks.",
     "examDomain": "Governance System and Components"
   },
   {
@@ -2160,8 +2160,8 @@
       "MEA (Monitor, Evaluate and Assess)",
       "APO (Align, Plan and Organize)"
     ],
-    "answer": 2,
-    "explanation": "",
+    "answer": 1,
+    "explanation": "Service reporting and communication are operational service activities, which fall under the DSS domain that covers the delivery, support, and communication of IT services.",
     "examDomain": "Framework Introduction"
   },
   {
