@@ -465,7 +465,7 @@
       "Executive management"
     ],
     "answer": 2,
-    "explanation": "",
+    "explanation": "That description matches executive management, which organizes and oversees how I&T performance is monitored and reported across the enterprise as part of governance direction and control.",
     "examDomain": "Performance Management"
   },
   {
@@ -753,7 +753,7 @@
       "Ensured Benefits Delivery"
     ],
     "answer": 0,
-    "explanation": "",
+    "explanation": "he management objective DSS03 Managed Problems belongs to the Deliver, Service and Support (DSS) management domain.",
     "examDomain": "Governance and Management Objectives"
   },
   {
@@ -764,8 +764,8 @@
       "Chief Digital Officer",
       "COBIT Framework Owner"
     ],
-    "answer": 2,
-    "explanation": "",
+    "answer": 1,
+    "explanation": "Chief Digital Officer is not among the specific roles or organizational structures explicitly defined in COBIT 2019, unlike COBIT Framework Owner (framework oversight role) and Relationship Manager (stakeholder liaison role).",
     "examDomain": "Framework Introduction"
   },
   {
@@ -1121,7 +1121,7 @@
       "Agile"
     ],
     "answer": 3,
-    "explanation": "",
+    "explanation": "Agile requires the highest level of user participation across multiple stages through continuous feedback loops, sprints, and iterative refinement, unlike traditional (minimal), DevOps (team-focused), or hybrid approaches.",
     "examDomain": "Implementation"
   },
   {
