@@ -81,7 +81,7 @@
       "Evaluating stakeholder needs to determine enterprise objectives"
     ],
     "answer": 2,
-    "explanation": "",
+    "explanation": "Governance in COBIT 2019 comprises Evaluate, Direct, and Monitor (EDM) activities performed by the governance body, where evaluating stakeholder needs sets enterprise objectives as the foundation.",
     "examDomain": "Framework Introduction"
   },
   {
@@ -105,7 +105,7 @@
       "COBIT helps to ensure compliance with applicable rules and regulations."
     ],
     "answer": 2,
-    "explanation": "",
+    "explanation": "Compliance with external regulations is primarily valued by external stakeholders like regulators and auditors, unlike internal performance organization or service provider dependency management which concern internal enterprise operations.",
     "examDomain": "Framework Introduction"
   },
   {
@@ -141,7 +141,7 @@
       "Program management."
     ],
     "answer": 2,
-    "explanation": "",
+    "explanation": "Program management is integral to the outer ring perspective of the COBIT 2019 implementation lifecycle, providing oversight and coordination across all phases, while prioritization of governance objectives occurs in "Where do we want to be?" and focus areas are design factors.",
     "examDomain": "Implementation"
   },
   {
@@ -225,7 +225,7 @@
       "Growth, internal, customer and financial"
     ],
     "answer": 2,
-    "explanation": "",
+    "explanation": "The Balanced Scorecard's four dimensions—often called perspectives—are financial, customer, internal business processes, and learning/growth, providing a holistic view beyond just financial metrics.",
     "examDomain": "Performance Management"
   },
   {
@@ -405,7 +405,7 @@
       "A managed system of internal controls"
     ],
     "answer": 2,
-    "explanation": "",
+    "explanation": "A managed system of internal controls (MEA02) provides stakeholders with trust in operations, confidence in achieving enterprise objectives, and transparency on residual risk through continuous monitoring and assurance activities.",
     "examDomain": "Governance and Management Objectives"
   },
   {
@@ -549,7 +549,7 @@
       "Information"
     ],
     "answer": 0,
-    "explanation": "",
+    "explanation": "Enterprise size is a design factor used to tailor the governance system, not one of the seven core governance components like organizational structures and information.",
     "examDomain": "Governance System and Components"
   },
   {
@@ -1199,7 +1199,7 @@
       "Governance Practices"
     ],
     "answer": 0,
-    "explanation": "",
+    "explanation": "Governance components (the seven enablers: processes, organizational structures, principles/policies/procedures, information, culture/ethics/behavior, people/skills/competencies, services/infrastructure/applications) define how governance objectives are achieved through their integrated application.",
     "examDomain": "Governance and Management Objectives"
   },
   {
@@ -1628,7 +1628,8 @@
       "Information Flows"
     ],
     "answer": 0,
-    "explanation": "",
+    "explanation": "Organizational structures define key decision-making entities, roles, and RACI charts that establish accountability and clear decision-making lines across the governance system.
+",
     "examDomain": "Governance System and Components"
   },
   {
