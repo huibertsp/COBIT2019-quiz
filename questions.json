@@ -177,7 +177,7 @@
       "Stage 3: Refine the scope of the governance system"
     ],
     "answer": 0,
-    "explanation": "",
+    "explanation": "Current I&T related issues are assessed during Stage 1 of COBIT 2019 governance system design, where the enterprise context—including pain points, strategy, and existing IT challenges—is analyzed to inform scope and prioritization.",
     "examDomain": "Designing a Tailored Governance System"
   },
   {
@@ -428,8 +428,8 @@
       "Technology and innovation processes are overseen by the board.",
       "Assurance on controls is obtained from independent IT auditors."
     ],
-    "answer": 0,
-    "explanation": "",
+    "answer": 1,
+    "explanation": "In COBIT 2019, alignment of I&T decisions with enterprise strategy is achieved when the governing body (board) actively oversees technology and innovation, ensuring IT direction follows business objectives.",
     "examDomain": "Governance and Management Objectives"
   },
   {
@@ -1107,8 +1107,8 @@
       "Information flows including security policy",
       "Information security focus areas"
     ],
-    "answer": 3,
-    "explanation": "",
+    "answer": 1,
+    "explanation": "For the threat landscape design factor, COBIT 2019 focuses on characterizing threats by their impact and probability levels, not by internal capability, flows, or specific security focus areas.",
     "examDomain": "Designing a Tailored Governance System"
   },
   {
@@ -2109,7 +2109,7 @@
       "APO (Align, Plan and Organize)"
     ],
     "answer": 2,
-    "explanation": "",
+    "explanation": "Configuration and change control are addressed by BAI06 Managed IT Changes and BAI10 Managed Configuration, both in the BAI management domain.",
     "examDomain": "Governance and Management Objectives"
   },
   {
