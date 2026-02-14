@@ -21,7 +21,7 @@
       "The board"
     ],
     "answer": 2,
-    "explanation": "",
+    "explanation": "The board holds ultimate responsibility for oversight of structures and mechanisms driving enterprise governance of information and technology (EGIT) in COBIT 2019.",
     "examDomain": "Framework Introduction"
   },
   {
@@ -4042,5 +4042,341 @@
     "answer": 0,
     "explanation": "\"Define the Road Map\" occurs in Phase 4 of COBIT 2019's 7-phase implementation lifecycle, where detailed project plans, roadmaps, and business cases are developed based on the target governance system from Phase 3; Phase 1 is drivers identification, Phase 3 sets targets, and Phase 6 is benefits realization assessment.",
     "examDomain": "Implementation"
+  },
+  {
+    "id": 321,
+    "question": "What is the primary purpose of Phase 1 \"What are the drivers?\" in the COBIT 2019 Implementation Life Cycle?",
+    "options": [
+      "Recognize the need for implementation and create desire to change",
+      "Define detailed projects and business cases",
+      "Embed new governance practices in daily operations"
+    ],
+    "answer": 0,
+    "explanation": "The answer is \"Recognize the need for implementation and create desire to change\" because Phase 1 focuses on identifying pain points, triggers, and strategic drivers to build executive motivation for an EGIT initiative.",
+    "examDomain": "Governance Implementation Lifecycle"
+  },
+  {
+    "id": 322,
+    "question": "Which phase of the COBIT 2019 Implementation Life Cycle performs a high-level current-state assessment of governance and management of I&T?",
+    "options": [
+      "Phase 2 – Where are we now?",
+      "Phase 3 – Where do we want to be?",
+      "Phase 6 – Did we get there?"
+    ],
+    "answer": 0,
+    "explanation": "The answer is \"Phase 2 – Where are we now?\" because this phase assesses the current situation, including existing processes, issues, and capabilities, to establish a baseline.",
+    "examDomain": "Governance Implementation Lifecycle"
+  },
+  {
+    "id": 323,
+    "question": "In which phase is the target state for the governance system defined using design factors and the goals cascade?",
+    "options": [
+      "Phase 3 – Where do we want to be?",
+      "Phase 4 – What needs to be done?",
+      "Phase 1 – What are the drivers?"
+    ],
+    "answer": 0,
+    "explanation": "The answer is \"Phase 3 – Where do we want to be?\" because this phase sets improvement targets and refines them using COBIT 2019 design factors and the goals cascade.",
+    "examDomain": "Governance Implementation Lifecycle"
+  },
+  {
+    "id": 324,
+    "question": "In the COBIT 2019 Implementation Life Cycle, where are detailed gaps between current and target capabilities formally analyzed?",
+    "options": [
+      "Phase 3 – Where do we want to be?",
+      "Phase 2 – Where are we now?",
+      "Phase 5 – How do we get there?"
+    ],
+    "answer": 0,
+    "explanation": "The answer is \"Phase 3 – Where do we want to be?\" because this phase includes detailed gap analysis to identify which improvements and solutions are required to reach the target state.",
+    "examDomain": "Governance Implementation Lifecycle"
+  },
+  {
+    "id": 325,
+    "question": "Which phase of the Implementation Life Cycle defines and prioritizes practical solutions and projects supported by business cases?",
+    "options": [
+      "Phase 4 – What needs to be done?",
+      "Phase 5 – How do we get there?",
+      "Phase 7 – How do we keep the momentum going?"
+    ],
+    "answer": 0,
+    "explanation": "The answer is \"Phase 4 – What needs to be done?\" because this phase converts gaps and targets into a prioritized set of projects, initiatives, and business cases.",
+    "examDomain": "Governance Implementation Lifecycle"
+  },
+  {
+    "id": 326,
+    "question": "In which phase are the defined solutions from the implementation plan rolled out into day-to-day practice?",
+    "options": [
+      "Phase 5 – How do we get there?",
+      "Phase 4 – What needs to be done?",
+      "Phase 6 – Did we get there?"
+    ],
+    "answer": 0,
+    "explanation": "The answer is \"Phase 5 – How do we get there?\" because this phase focuses on executing the projects and integrating new or improved enablers into operational activities.",
+    "examDomain": "Governance Implementation Lifecycle"
+  },
+  {
+    "id": 327,
+    "question": "Which phase is primarily concerned with measuring whether the implemented changes achieved the expected benefits?",
+    "options": [
+      "Phase 6 – Did we get there?",
+      "Phase 2 – Where are we now?",
+      "Phase 1 – What are the drivers?"
+    ],
+    "answer": 0,
+    "explanation": "The answer is \"Phase 6 – Did we get there?\" because this phase evaluates performance against objectives to confirm benefit realization and effectiveness of changes.",
+    "examDomain": "Governance Implementation Lifecycle"
+  },
+  {
+    "id": 328,
+    "question": "At which phase is the decision made on how to adjust long-term targets and plans based on the results of earlier iterations?",
+    "options": [
+      "Phase 6 – Did we get there?",
+      "Phase 3 – Where do we want to be?",
+      "Phase 5 – How do we get there?"
+    ],
+    "answer": 0,
+    "explanation": "The answer is \"Phase 6 – Did we get there?\" because assessment outcomes from this phase feed into revising long-term targets and future cycles of improvement.",
+    "examDomain": "Governance Implementation Lifecycle"
+  },
+  {
+    "id": 329,
+    "question": "What is the main objective of Phase 7 \"How do we keep the momentum going?\"",
+    "options": [
+      "Embed continual improvement and plan the next improvement cycle",
+      "Perform initial current-state assessment",
+      "Design the detailed implementation roadmap"
+    ],
+    "answer": 0,
+    "explanation": "The answer is \"Embed continual improvement and plan the next improvement cycle\" because Phase 7 focuses on sustaining gains, celebrating success, and triggering new EGIT improvement rounds.",
+    "examDomain": "Governance Implementation Lifecycle"
+  },
+  {
+    "id": 330,
+    "question": "Where in the Implementation Life Cycle are business case outlines and high-level roles and responsibilities typically produced?",
+    "options": [
+      "Phase 1 – What are the drivers?",
+      "Phase 2 – Where are we now?",
+      "Phase 3 – Where do we want to be?"
+    ],
+    "answer": 0,
+    "explanation": "The answer is \"Phase 1 – What are the drivers?\" because early scoping outputs include initial business cases and a high-level role and responsibility overview to support sponsorship.",
+    "examDomain": "Governance Implementation Lifecycle"
+  },
+   {
+    "id": 331,
+    "question": "During which phase are “quick wins” identified to help build credibility and buy-in for the governance improvement program?",
+    "options": [
+      "Phase 3 – Where do we want to be?",
+      "Phase 6 – Did we get there?",
+      "Phase 7 – How do we keep the momentum going?"
+    ],
+    "answer": 0,
+    "explanation": "The answer is \"Phase 3 – Where do we want to be?\" because this phase analyzes gaps and solutions, including selecting short-term wins that can be delivered quickly.",
+    "examDomain": "Governance Implementation Lifecycle"
+  },
+  {
+    "id": 332,
+    "question": "In COBIT 2019, which Implementation Life Cycle phase formally defines the program and transition plan for EGIT improvements?",
+    "options": [
+      "Phase 4 – What needs to be done?",
+      "Phase 2 – Where are we now?",
+      "Phase 7 – How do we keep the momentum going?"
+    ],
+    "answer": 0,
+    "explanation": "The answer is \"Phase 4 – What needs to be done?\" because this phase translates solutions into a structured program and roadmap for implementation.",
+    "examDomain": "Governance Implementation Lifecycle"
+  },
+  {
+    "id": 333,
+    "question": "Where are performance measures and target metrics for new or improved governance practices typically established?",
+    "options": [
+      "Phase 5 – How do we get there?",
+      "Phase 1 – What are the drivers?",
+      "Phase 6 – Did we get there?"
+    ],
+    "answer": 0,
+    "explanation": "The answer is \"Phase 5 – How do we get there?\" because this phase introduces metrics and monitoring mechanisms as part of operationalizing solutions.",
+    "examDomain": "Governance Implementation Lifecycle"
+  },
+  {
+    "id": 334,
+    "question": "Which Implementation Life Cycle phase emphasizes stakeholder communication about achieved results and next steps?",
+    "options": [
+      "Phase 7 – How do we keep the momentum going?",
+      "Phase 2 – Where are we now?",
+      "Phase 3 – Where do we want to be?"
+    ],
+    "answer": 0,
+    "explanation": "The answer is \"Phase 7 – How do we keep the momentum going?\" because this phase consolidates results, communicates success, and reinforces continued engagement.",
+    "examDomain": "Governance Implementation Lifecycle"
+  },
+  {
+    "id": 335,
+    "question": "At what point in the Life Cycle are “current pain points and trigger events” explicitly analyzed?",
+    "options": [
+      "Phase 1 – What are the drivers?",
+      "Phase 4 – What needs to be done?",
+      "Phase 6 – Did we get there?"
+    ],
+    "answer": 0,
+    "explanation": "The answer is \"Phase 1 – What are the drivers?\" because this initial phase identifies pain points, incidents, audit findings, or strategic triggers that justify change.",
+    "examDomain": "Governance Implementation Lifecycle"
+  },
+  {
+    "id": 336,
+    "question": "Which phase uses the goals cascade most intensively to translate enterprise goals into prioritized I&T-related improvement needs?",
+    "options": [
+      "Phase 3 – Where do we want to be?",
+      "Phase 2 – Where are we now?",
+      "Phase 5 – How do we get there?"
+    ],
+    "answer": 0,
+    "explanation": "The answer is \"Phase 3 – Where do we want to be?\" because this phase leverages the COBIT goals cascade and design factors to align target capabilities with enterprise goals.",
+    "examDomain": "Governance Implementation Lifecycle"
+  },
+  {
+    "id": 337,
+    "question": "In which phase should current I&T-related issues and risk scenarios be cataloged to support scoping?",
+    "options": [
+      "Phase 2 – Where are we now?",
+      "Phase 5 – How do we get there?",
+      "Phase 7 – How do we keep the momentum going?"
+    ],
+    "answer": 0,
+    "explanation": "The answer is \"Phase 2 – Where are we now?\" because during scoping and baseline assessment, existing issues and risk scenarios are documented to focus the program.",
+    "examDomain": "Governance Implementation Lifecycle"
+  },
+  {
+    "id": 338,
+    "question": "Which Implementation Life Cycle phase is most directly linked to detailed project planning, including milestones, resources, and dependencies?",
+    "options": [
+      "Phase 4 – What needs to be done?",
+      "Phase 3 – Where do we want to be?",
+      "Phase 1 – What are the drivers?"
+    ],
+    "answer": 0,
+    "explanation": "The answer is \"Phase 4 – What needs to be done?\" because this phase converts improvement options into concrete, planned projects and initiatives.",
+    "examDomain": "Governance Implementation Lifecycle"
+  },
+  {
+    "id": 339,
+    "question": "Where is the transition of EGIT projects into the enterprise’s normal development life cycle primarily addressed?",
+    "options": [
+      "Phase 5 – How do we get there?",
+      "Phase 1 – What are the drivers?",
+      "Phase 6 – Did we get there?"
+    ],
+    "answer": 0,
+    "explanation": "The answer is \"Phase 5 – How do we get there?\" because this is where solutions are embedded into ongoing processes and standard life cycles.",
+    "examDomain": "Governance Implementation Lifecycle"
+  },
+  {
+    "id": 340,
+    "question": "Which phase explicitly considers organizational change enablement, such as communication and training plans, for governance improvements?",
+    "options": [
+      "Phase 4 – What needs to be done?",
+      "Phase 6 – Did we get there?",
+      "Phase 2 – Where are we now?"
+    ],
+    "answer": 0,
+    "explanation": "The answer is \"Phase 4 – What needs to be done?\" because building the change plan, including communications and training, is part of planning practical solutions.",
+    "examDomain": "Governance Implementation Lifecycle"
+  },
+    {
+    "id": 341,
+    "question": "During which phase should the initial EGIT implementation roadmap be aligned with enterprise portfolio and program management practices?",
+    "options": [
+      "Phase 4 – What needs to be done?",
+      "Phase 3 – Where do we want to be?",
+      "Phase 7 – How do we keep the momentum going?"
+    ],
+    "answer": 0,
+    "explanation": "The answer is \"Phase 4 – What needs to be done?\" because the EGIT roadmap and program definition are integrated with enterprise portfolio/program management here.",
+    "examDomain": "Governance Implementation Lifecycle"
+  },
+  {
+    "id": 342,
+    "question": "What is the main feedback mechanism from Phase 6 into earlier phases of the Implementation Life Cycle?",
+    "options": [
+      "Performance evaluation results",
+      "New pain points and triggers",
+      "Updated design factors"
+    ],
+    "answer": 0,
+    "explanation": "The answer is \"Performance evaluation results\" because Phase 6 measures outcomes, providing data that drives redefinition of targets and plans in earlier phases.",
+    "examDomain": "Governance Implementation Lifecycle"
+  },
+  {
+    "id": 343,
+    "question": "Which phase is best associated with selecting tools and techniques (e.g., assessment tools, templates) to support the improvement program?",
+    "options": [
+      "Phase 2 – Where are we now?",
+      "Phase 6 – Did we get there?",
+      "Phase 7 – How do we keep the momentum going?"
+    ],
+    "answer": 0,
+    "explanation": "The answer is \"Phase 2 – Where are we now?\" because organizations often select tools and methods while planning and conducting the initial assessments and scoping.",
+    "examDomain": "Governance Implementation Lifecycle"
+  },
+  {
+    "id": 344,
+    "question": "In which phase would you expect to update risk registers and control libraries to reflect the implemented EGIT improvements?",
+    "options": [
+      "Phase 5 – How do we get there?",
+      "Phase 3 – Where do we want to be?",
+      "Phase 1 – What are the drivers?"
+    ],
+    "answer": 0,
+    "explanation": "The answer is \"Phase 5 – How do we get there?\" because implementation of solutions includes updating operational risk and control artifacts.",
+    "examDomain": "Governance Implementation Lifecycle"
+  },
+  {
+    "id": 345,
+    "question": "What is a typical key output of Phase 7 beyond lessons learned?",
+    "options": [
+      "Definition of the next wave of EGIT improvements",
+      "Baseline capability assessment",
+      "Detailed project work breakdown structure"
+    ],
+    "answer": 0,
+    "explanation": "The answer is \"Definition of the next wave of EGIT improvements\" because Phase 7 identifies further needs and initiates the next continuous improvement cycle.",
+    "examDomain": "Governance Implementation Lifecycle"
+  },
+  {
+    "id": 346,
+    "question": "Which Implementation Life Cycle phase is most directly concerned with aligning EGIT improvements to enterprise strategy and priorities?",
+    "options": [
+      "Phase 1 – What are the drivers?",
+      "Phase 6 – Did we get there?",
+      "Phase 5 – How do we get there?"
+    ],
+    "answer": 0,
+    "explanation": "The answer is \"Phase 1 – What are the drivers?\" because this phase explicitly links drivers, strategic goals, and pain points to the need for EGIT improvements.",
+    "examDomain": "Governance Implementation Lifecycle"
+  },
+  {
+    "id": 347,
+    "question": "At which phase is sponsorship and high-level commitment from executives formally confirmed and communicated?",
+    "options": [
+      "Phase 1 – What are the drivers?",
+      "Phase 4 – What needs to be done?",
+      "Phase 7 – How do we keep the momentum going?"
+    ],
+    "answer": 0,
+    "explanation": "The answer is \"Phase 1 – What are the drivers?\" because this early phase secures and communicates executive sponsorship to legitimize the program.",
+    "examDomain": "Governance Implementation Lifecycle"
+  },
+  {
+    "id": 348,
+    "question": "What is the primary focus of the core continual improvement life cycle ring that surrounds the COBIT Implementation phases?",
+    "options": [
+      "Iteratively repeating the seven phases to sustain EGIT improvements",
+      "Defining organizational structures for governance",
+      "Designing new technology architectures"
+    ],
+    "answer": 0,
+    "explanation": "The answer is \"Iteratively repeating the seven phases to sustain EGIT improvements\" because the continual improvement life cycle provides an ongoing loop using these phases for repeated enhancements.",
+    "examDomain": "Governance Implementation Lifecycle"
   }
 ]
