@@ -597,7 +597,7 @@
       "Where are we now, where do we want to be, how do we get there, how do we keep the momentum"
     ],
     "answer": 1,
-    "explanation": "",
+    "explanation": "The COBIT 2019 goals cascade follows this exact sequence: stakeholder drivers/needs → enterprise goals → alignment goals → governance/management objectives, ensuring IT governance aligns with business strategy through structured translation.",
     "examDomain": "Framework Introduction"
   },
   {
@@ -1277,7 +1277,7 @@
       "Information Flows"
     ],
     "answer": 0,
-    "explanation": "",
+    "explanation": "n COBIT 2019, the Processes governance component is responsible for monitoring performance, as it encompasses the governance and management objectives (including MEA processes) with associated capability levels and metrics for evaluation.",
     "examDomain": "Performance Management"
   },
   {
@@ -1615,7 +1615,7 @@
       "Constituting governance bodies"
     ],
     "answer": 1,
-    "explanation": "In COBIT 2019, management practices are the activities that plan, build, run, and monitor operations in line with the direction set by governance.",
+    "explanation": "Management practices in COBIT 2019 encompass the plan-build-run-monitor activities that execute the governance direction set by the governance body, distinguishing them from governance activities like directing, monitoring, or setting frameworks.",
     "examDomain": "Framework Introduction"
   },
   {
@@ -1978,8 +1978,8 @@
       "Monitoring performance",
       "Managing strategic direction"
     ],
-    "answer": 0,
-    "explanation": "The BAI (Build, Acquire and Implement) domain in COBIT 2019 focuses specifically on the activities of identifying, acquiring, developing, and implementing I&T solutions and changes, distinguishing it from monitoring (MEA), strategy (APO/EDM), or service delivery (DSS).",
+    "answer": 1,
+    "explanation": "The BAI (Build, Acquire and Implement) domain focuses on the definition, acquisition, implementation, and integration of I&T solutions into business processes, distinguishing it from service delivery (DSS), performance monitoring (MEA), and strategic direction (APO).",
     "examDomain": "Governance and Management Objectives"
   },
   {
