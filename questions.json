@@ -3526,12 +3526,12 @@
     "id": 279,
     "question": "Explain principle \u201eDynamic Governance System\u201c",
     "options": [
-      "a Governance system for enterpriseI&T is built from a number of components that can work together in a holistic way",
+      "a Governance system for enterprise I&T is built from a number of components that can work together in a holistic way",
       "Each time one or more of the design factors are changed, the impact of these changes on the EGIT system muct be considered",
       "a Governance system should clearly disctinguish between governance and management activities and structures"
     ],
     "answer": 1,
-    "explanation": "",
+    "explanation": "The \"Dynamic Governance System\" principle in COBIT 2019 states that governance systems must adapt to changes in design factors (e.g., strategy, technology, risk profile) by reassessing their impact on the EGIT system to remain viable and future-proof",
     "examDomain": "Principles"
   },
   {
