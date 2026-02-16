@@ -836,7 +836,7 @@
       "Understanding principles, policies and procedures",
       "Escalation procedures"
     ],
-    "answer": 1,
+    "answer": 0,
     "explanation": "Evaluating a RACI chart is a direct way to assess how well roles and responsibilities are defined and working within organizational structures in COBIT 2019.",
     "examDomain": "Performance Management"
   },
