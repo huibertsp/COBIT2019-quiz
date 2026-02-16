@@ -609,7 +609,7 @@
       "Governance processes typically are under the accountability of boards and executive management; management processes are the domain of senior and middle management."
     ],
     "answer": 1,
-    "explanation": "",
+    "explanation": "This statement is not correct because in COBIT 2019 a governance objective relates to a governance process and a management objective relates to a management process, while each objective is supported by multiple governance components; the other two statements correctly describe accountability and the linkage between an objective, its process, and supporting components.",
     "examDomain": "Governance and Management Objectives"
   },
   {
