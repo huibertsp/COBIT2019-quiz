@@ -3944,7 +3944,7 @@
       "Refine the scope of the governance system"
     ],
     "answer": 1,
-    "explanation": "The COBIT 2019 Governance System Design Workflow consists of four steps: 1) Understand enterprise context and strategy, 2) Determine/refine scope of the governance system, 3) Conclude governance system design; implementation initiation belongs to the separate COBIT 2019 Implementation Guide's seven-phase lifecycle, not the design workflow.",
+    "explanation": "The COBIT 2019 governance system design workflow consists of four steps: \r\n1) Understand enterprise context/strategy, \r\n 2) Determine initial scope, \r\n 3)Refine scope, \r\n 4)and Conclude design—but implementation initiation belongs to the separate Implementation Life Cycle (Phase 5: How do we get there?), not the design workflow itself.",
     "examDomain": "Design Factors and Governance System Design Workflow"
   },
   {
