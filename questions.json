@@ -3603,7 +3603,7 @@
       "Finance"
     ],
     "answer": 2,
-    "explanation": "COBIT 2019 defines six specific governance system components (processes, organizational structures, principles/policies/frameworks, information flows, culture/ethics/behavior, people/skills/competencies), and \"Finance\" is not one of them.",
+    "explanation": "COBIT 2019's governance system includes seven components:\r\n 1) Processes, \r\n 2) Organizational structures, \r\n 3)Principles/policies/frameworks, \r\n 4) Information, \r\n 5) Culture/ethics/behavior, \r\n 6) People/skills/competencies, and \r\n 7) Services/infrastructure/applications. Finance is not among them; it supports processes like budgeting but is not a core component.",
     "examDomain": "Governance System and Components"
   },
   {
