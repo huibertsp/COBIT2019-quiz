@@ -1095,7 +1095,7 @@
       "risks that have already materialized."
     ],
     "answer": 3,
-    "explanation": "In the COBIT 2019 framework, "I&T-related issues" are specifically defined as pain points—current problems or situations from which the enterprise is already suffering. Considering these as a design factor helps tailor the governance system to address immediate operational challenges and historical failures that have already occurred.",
+    "explanation": "In the COBIT 2019 framework, \"I&T-related issues\" are specifically defined as pain points—current problems or situations from which the enterprise is already suffering. Considering these as a design factor helps tailor the governance system to address immediate operational challenges and historical failures that have already occurred.",
     "examDomain": "Designing a Tailored Governance System"
   },
   {
