@@ -308,8 +308,8 @@
       "Financial",
       "Internal"
     ],
-    "answer": 2,
-    "explanation": "",
+    "answer": 0,
+    "explanation": "“Delivery of programs on time, on budget and meeting requirements and quality standards” describes how well the enterprise delivers value and fulfills expectations, which is evaluated from the Customer (stakeholder) perspective of the IT balanced scorecard, not from the Financial or Internal process dimensions.",
     "examDomain": "Performance Management"
   },
   {
@@ -332,8 +332,8 @@
       "Product and business innovation",
       "Quality of management information"
     ],
-    "answer": 1,
-    "explanation": "",
+    "answer": 0,
+    "explanation": "Among the options, “Delivery of programs on time and on budget” is framed as an outcome experienced by stakeholders, so it is placed in the Customer dimension of the IT balanced scorecard in COBIT 2019.",
     "examDomain": "Performance Management"
   },
   {
@@ -2062,7 +2062,7 @@
   },
   {
     "id": 166,
-    "question": "The objective focusing on policy and procedure creation is part of:",
+    "question": "The objective focussing on policy and procedure creation is part of:",
     "options": [
       "EDM (Evaluate, Direct and Monitor)",
       "APO (Align, Plan and Organize)",
@@ -2070,7 +2070,7 @@
       "MEA (Monitor, Evaluate and Assess)"
     ],
     "answer": 1,
-    "explanation": "",
+    "explanation": "In COBIT 2019, creating and maintaining policies and procedures is a planning/organizing activity, so it belongs to the APO management domain rather than to EDM (high-level governance), DSS (operational service delivery), or MEA (monitoring and evaluation).",
     "examDomain": "Governance and Management Objectives"
   },
   {
