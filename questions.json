@@ -249,7 +249,7 @@
       "Specific components"
     ],
     "answer": 1,
-    "explanation": "",
+    "explanation": "In COBIT 2019, variant components are derived from generic components but adapted for a specific focus area or context.",
     "examDomain": "Designing a Tailored Governance System"
   },
   {
@@ -308,8 +308,8 @@
       "Financial",
       "Internal"
     ],
-    "answer": 0,
-    "explanation": "“Delivery of programs on time, on budget and meeting requirements and quality standards” describes how well the enterprise delivers value and fulfills expectations, which is evaluated from the Customer (stakeholder) perspective of the IT balanced scorecard, not from the Financial or Internal process dimensions.",
+    "answer": 2,
+    "explanation": "The alignment goal “Delivery of programs on time, on budget and meeting requirements and quality standards” falls under the Internal BSC dimension because it focuses on the effectiveness and efficiency of internal processes.",
     "examDomain": "Performance Management"
   },
   {
@@ -1276,8 +1276,8 @@
       "Governance Structures",
       "Information Flows"
     ],
-    "answer": 0,
-    "explanation": "In COBIT 2019, the Processes governance component is responsible for monitoring performance, as it encompasses the governance and management objectives (including MEA processes) with associated capability levels and metrics for evaluation.",
+    "answer": 1,
+    "explanation": "In COBIT 2019, the Performance Management governance component defines how objectives and processes are measured and monitored to track achievement and performance.",
     "examDomain": "Performance Management"
   },
   {
@@ -1641,7 +1641,7 @@
       "Determine operational budgets"
     ],
     "answer": 0,
-    "explanation": "",
+    "explanation": "In COBIT 2019, principles define the fundamental concepts that guide the design and operation of an effective governance system for enterprise information and technology.",
     "examDomain": "Principles"
   },
   {
