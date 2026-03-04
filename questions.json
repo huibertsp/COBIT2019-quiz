@@ -4379,7 +4379,6 @@
     "explanation": "The answer is \"Iteratively repeating the seven phases to sustain EGIT improvements\" because the continual improvement life cycle provides an ongoing loop using these phases for repeated enhancements.",
     "examDomain": "Governance Implementation Lifecycle"
   },
-  [
   {
     "id": 349,
     "question": "Which governance system component should be addressed first when an enterprise finds that decision rights for approving cloud security exceptions are unclear and different teams are making conflicting approvals?",
@@ -4510,5 +4509,4 @@
     "explanation": "The answer is \"Holistic Approach\" because COBIT 2019 promotes improving governance by addressing multiple governance system components in an integrated and coordinated manner.",
     "examDomain": "Governance Framework Principles"
   }
-]
 ]
