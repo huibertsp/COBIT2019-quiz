@@ -4378,5 +4378,137 @@
     "answer": 0,
     "explanation": "The answer is \"Iteratively repeating the seven phases to sustain EGIT improvements\" because the continual improvement life cycle provides an ongoing loop using these phases for repeated enhancements.",
     "examDomain": "Governance Implementation Lifecycle"
+  },
+  [
+  {
+    "id": 349,
+    "question": "Which governance system component should be addressed first when an enterprise finds that decision rights for approving cloud security exceptions are unclear and different teams are making conflicting approvals?",
+    "options": [
+      "Organizational structures (decision-making bodies and roles)",
+      "Information flows and reporting outputs",
+      "Policies and procedures for security operations",
+      "Culture, ethics and behavior expectations"
+    ],
+    "answer": 0,
+    "explanation": "The answer is \"Organizational structures (decision-making bodies and roles)\" because COBIT 2019 defines organizational structures as the component that clarifies decision rights, accountability and authority for governance and management activities.",
+    "examDomain": "Governance System and Components"
+  },
+  {
+    "id": 350,
+    "question": "What is the best example of a “component” in COBIT 2019 used to sustain governance outcomes across business and IT stakeholders?",
+    "options": [
+      "A single KPI dashboard used by the CIO",
+      "Processes, policies/procedures, structures, information flows, people skills, culture, and services/infrastructure",
+      "A single maturity model used for all enterprise functions",
+      "A project plan used to deploy a new ITSM tool"
+    ],
+    "answer": 1,
+    "explanation": "The answer is \"Processes, policies/procedures, structures, information flows, people skills, culture, and services/infrastructure\" because COBIT 2019 identifies these seven components as the integrated set required to build and sustain an effective governance system.",
+    "examDomain": "Governance System and Components"
+  },
+  {
+    "id": 351,
+    "question": "Which principle is best reflected when the board sets direction and monitors outcomes, while management executes planning and operations without the board taking over day-to-day control?",
+    "options": [
+      "Governance Distinct From Management",
+      "Holistic Approach",
+      "Tailored to Enterprise Needs",
+      "End-to-End Governance System"
+    ],
+    "answer": 0,
+    "explanation": "The answer is \"Governance Distinct From Management\" because COBIT 2019 clearly separates governance activities performed by the board from management activities executed by management.",
+    "examDomain": "Governance Framework Principles"
+  },
+  {
+    "id": 352,
+    "question": "What is the best description of COBIT 2019’s purpose for enterprise governance of information and technology (EGIT)?",
+    "options": [
+      "A software tool that enforces technical security controls across networks",
+      "A governance and management framework used to create value from I&T while balancing benefits, risk and resources",
+      "A project management methodology for IT delivery teams",
+      "A compliance checklist limited to financial reporting systems"
+    ],
+    "answer": 1,
+    "explanation": "The answer is \"A governance and management framework used to create value from I&T while balancing benefits, risk and resources\" because COBIT 2019 focuses on value creation through balancing benefits realization, risk optimization and resource optimization.",
+    "examDomain": "Introduction to COBIT 2019 Framework"
+  },
+  {
+    "id": 353,
+    "question": "Which business case justification is most aligned with COBIT’s value focus when requesting funding for an EGIT improvement program?",
+    "options": [
+      "Maximize benefits regardless of risk exposure and required resources",
+      "Reduce risk only, even if it significantly impairs business value delivery",
+      "Demonstrate a balanced outcome across expected benefits, risk reduction, and resource investment",
+      "Prioritize technical modernization without linking to stakeholder needs or enterprise goals"
+    ],
+    "answer": 2,
+    "explanation": "The answer is \"Demonstrate a balanced outcome across expected benefits, risk reduction, and resource investment\" because COBIT 2019 emphasizes achieving stakeholder value by balancing benefits, risk and resource use.",
+    "examDomain": "Introduction to COBIT 2019 Framework"
+  },
+  {
+    "id": 354,
+    "question": "What is the most appropriate governance system component to strengthen when audit issues repeatedly show policies exist but teams follow informal workarounds because “that’s how we’ve always done it”?",
+    "options": [
+      "Services, infrastructure and applications",
+      "Processes",
+      "Information",
+      "Culture, ethics and behavior"
+    ],
+    "answer": 3,
+    "explanation": "The answer is \"Culture, ethics and behavior\" because COBIT 2019 recognizes culture and behavioral factors as critical components that influence whether formal policies and processes are consistently followed.",
+    "examDomain": "Governance System and Components"
+  },
+  {
+    "id": 355,
+    "question": "Which component is most directly improved when an enterprise creates standardized templates for steering committee updates, including decision logs, escalation criteria and status reporting?",
+    "options": [
+      "Information",
+      "Processes",
+      "People, skills and competencies",
+      "Services, infrastructure and applications"
+    ],
+    "answer": 0,
+    "explanation": "The answer is \"Information\" because COBIT 2019 defines information as a governance system component that includes reporting outputs, decision logs and structured communication artifacts.",
+    "examDomain": "Governance System and Components"
+  },
+  {
+    "id": 356,
+    "question": "What does COBIT 2019 performance management most directly use to express how well a process achieves its capability level?",
+    "options": [
+      "A binary achieved/not-achieved status with no intermediate states",
+      "Achievement categories such as fully, largely, partially, or not achieved based on percentage ranges",
+      "Only qualitative narratives without thresholds or categories",
+      "A single maturity level applied to the entire enterprise without process-level variation"
+    ],
+    "answer": 1,
+    "explanation": "The answer is \"Achievement categories such as fully, largely, partially, or not achieved based on percentage ranges\" because COBIT 2019 performance management uses defined rating levels with percentage thresholds to assess process capability.",
+    "examDomain": "Performance Management in COBIT"
+  },
+  {
+    "id": 357,
+    "question": "Which component is most directly addressed when an enterprise defines a formal architecture review board and assigns it authority to approve reference architectures and exceptions?",
+    "options": [
+      "Policies and procedures",
+      "Information",
+      "Organizational structures",
+      "People, skills and competencies"
+    ],
+    "answer": 2,
+    "explanation": "The answer is \"Organizational structures\" because COBIT 2019 includes committees and boards with defined authority as part of its organizational structures component.",
+    "examDomain": "Governance System and Components"
+  },
+  {
+    "id": 358,
+    "question": "Which principle is most directly supported when an enterprise improves governance by combining process changes, role/accountability updates, better information flows and targeted skills development?",
+    "options": [
+      "Tailored to Enterprise Needs",
+      "Governance Distinct From Management",
+      "End-to-End Governance System",
+      "Holistic Approach"
+    ],
+    "answer": 3,
+    "explanation": "The answer is \"Holistic Approach\" because COBIT 2019 promotes improving governance by addressing multiple governance system components in an integrated and coordinated manner.",
+    "examDomain": "Governance Framework Principles"
   }
+]
 ]
