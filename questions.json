@@ -645,7 +645,7 @@
       "COBIT 2019 Enabler Guide"
     ],
     "answer": 1,
-    "explanation": "",
+    "explanation": "Detailed guidance on applying design factors to tailor a governance system is provided in the COBIT 2019 Design Guide, which specifically explains the governance system design workflow.",
     "examDomain": "Designing a Tailored Governance System"
   },
   {
@@ -2096,7 +2096,7 @@
       "MEA (Monitor, Evaluate and Assess)"
     ],
     "answer": 0,
-    "explanation": "",
+    "explanation": "Managing data is covered by APO14 (Managed Data), which belongs to the APO domain in COBIT 2019.",
     "examDomain": "Governance and Management Objectives"
   },
   {
