@@ -4508,5 +4508,149 @@
     "answer": 3,
     "explanation": "The answer is \"Holistic Approach\" because COBIT 2019 promotes improving governance by addressing multiple governance system components in an integrated and coordinated manner.",
     "examDomain": "Governance Framework Principles"
+  },
+  {
+    "id": 359,
+    "question": "Which objective focuses on defining and maintaining the enterprise architecture?",
+    "options": [
+      "APO03 – Managed Enterprise Architecture",
+      "BAI02 – Managed Requirements Definition",
+      "DSS01 – Managed Operations"
+    ],
+    "answer": 0,
+    "explanation": "The answer is \"APO03 – Managed Enterprise Architecture\" because COBIT 2019 defines this management objective as establishing and maintaining a coherent enterprise architecture that supports business strategy and aligns I&T capabilities with enterprise goals.",
+    "examDomain": "COBIT Governance and Management Objectives"
+  },
+  {
+    "id": 360,
+    "question": "Which objective ensures third-party suppliers and vendor relationships are properly governed?",
+    "options": [
+      "APO10 – Managed Vendors",
+      "DSS03 – Managed Problems",
+      "MEA02 – Managed System of Internal Control"
+    ],
+    "answer": 0,
+    "explanation": "The answer is \"APO10 – Managed Vendors\" because COBIT 2019 describes this objective as managing supplier relationships to ensure vendor services meet enterprise requirements and risks are controlled.",
+    "examDomain": "COBIT Governance and Management Objectives"
+  },
+  {
+    "id": 361,
+    "question": "Which objective focuses on identifying and managing IT-related risks?",
+    "options": [
+      "APO12 – Managed Risk",
+      "BAI05 – Managed Organizational Change",
+      "DSS02 – Managed Service Requests and Incidents"
+    ],
+    "answer": 0,
+    "explanation": "The answer is \"APO12 – Managed Risk\" because COBIT 2019 defines this objective as identifying, analyzing and responding to I&T-related risks to keep them within acceptable levels.",
+    "examDomain": "COBIT Governance and Management Objectives"
+  },
+  {
+    "id": 362,
+    "question": "Which objective ensures enterprise data assets are properly governed and managed?",
+    "options": [
+      "APO14 – Managed Data",
+      "DSS04 – Managed Continuity",
+      "BAI07 – Managed IT Change Acceptance and Transitioning"
+    ],
+    "answer": 0,
+    "explanation": "The answer is \"APO14 – Managed Data\" because COBIT 2019 defines this objective as establishing governance and management practices to ensure enterprise data is properly classified, protected and used effectively.",
+    "examDomain": "COBIT Governance and Management Objectives"
+  },
+  {
+    "id": 363,
+    "question": "Which objective focuses on developing and maintaining IT solutions and applications?",
+    "options": [
+      "BAI03 – Managed Solutions Identification and Build",
+      "DSS01 – Managed Operations",
+      "MEA01 – Managed Performance and Conformance Monitoring"
+    ],
+    "answer": 0,
+    "explanation": "The answer is \"BAI03 – Managed Solutions Identification and Build\" because COBIT 2019 defines this objective as managing the identification, design and development of I&T solutions that meet business requirements.",
+    "examDomain": "COBIT Governance and Management Objectives"
+  },
+  {
+    "id": 364,
+    "question": "Which objective ensures IT services are delivered and operated effectively on a daily basis?",
+    "options": [
+      "DSS01 – Managed Operations",
+      "APO09 – Managed Service Agreements",
+      "BAI06 – Managed IT Changes"
+    ],
+    "answer": 0,
+    "explanation": "The answer is \"DSS01 – Managed Operations\" because COBIT 2019 defines this objective as delivering and operating IT services in a reliable and efficient manner to support business activities.",
+    "examDomain": "COBIT Governance and Management Objectives"
+  },
+  {
+    "id": 365,
+    "question": "Which objective focuses on handling user incidents and service requests?",
+    "options": [
+      "DSS02 – Managed Service Requests and Incidents",
+      "BAI08 – Managed Knowledge",
+      "MEA03 – Managed Compliance With External Requirements"
+    ],
+    "answer": 0,
+    "explanation": "The answer is \"DSS02 – Managed Service Requests and Incidents\" because COBIT 2019 defines this objective as ensuring service requests and incidents are resolved efficiently to restore normal service operations.",
+    "examDomain": "COBIT Governance and Management Objectives"
+  },
+  {
+    "id": 366,
+    "question": "Which objective ensures IT changes are controlled and implemented properly?",
+    "options": [
+      "BAI06 – Managed IT Changes",
+      "DSS03 – Managed Problems",
+      "APO11 – Managed Quality"
+    ],
+    "answer": 0,
+    "explanation": "The answer is \"BAI06 – Managed IT Changes\" because COBIT 2019 defines this objective as managing changes to I&T systems in a controlled way to minimize disruption and risk.",
+    "examDomain": "COBIT Governance and Management Objectives"
+  },
+  {
+    "id": 367,
+    "question": "Which objective focuses on ensuring compliance with laws, regulations and external requirements?",
+    "options": [
+      "MEA03 – Managed Compliance With External Requirements",
+      "DSS05 – Managed Security Services",
+      "APO13 – Managed Security"
+    ],
+    "answer": 0,
+    "explanation": "The answer is \"MEA03 – Managed Compliance With External Requirements\" because COBIT 2019 defines this objective as monitoring and ensuring adherence to applicable laws, regulations and contractual obligations.",
+    "examDomain": "COBIT Governance and Management Objectives"
+  },
+  {
+    "id": 368,
+    "question": "Which objective focuses on monitoring enterprise IT performance and conformance?",
+    "options": [
+      "MEA01 – Managed Performance and Conformance Monitoring",
+      "APO05 – Managed Portfolio",
+      "BAI09 – Managed Assets"
+    ],
+    "answer": 0,
+    "explanation": "The answer is \"MEA01 – Managed Performance and Conformance Monitoring\" because COBIT 2019 defines this objective as evaluating performance and compliance of governance and management activities.",
+    "examDomain": "COBIT Governance and Management Objectives"
+  },
+  {
+    "id": 369,
+    "question": "Which governance objective focuses on ensuring stakeholder needs are evaluated and enterprise objectives are set?",
+    "options": [
+      "EDM01 – Ensured Governance Framework Setting and Maintenance",
+      "APO02 – Managed Strategy",
+      "DSS01 – Managed Operations"
+    ],
+    "answer": 0,
+    "explanation": "The answer is \"EDM01 – Ensured Governance Framework Setting and Maintenance\" because COBIT 2019 defines this governance objective as establishing and maintaining an effective governance framework that reflects stakeholder needs and enterprise objectives.",
+    "examDomain": "COBIT Governance and Management Objectives"
+  },
+  {
+    "id": 370,
+    "question": "Which governance objective focuses on ensuring benefits are delivered from IT-enabled investments?",
+    "options": [
+      "EDM02 – Ensured Benefits Delivery",
+      "BAI01 – Managed Programs",
+      "MEA02 – Managed System of Internal Control"
+    ],
+    "answer": 0,
+    "explanation": "The answer is \"EDM02 – Ensured Benefits Delivery\" because COBIT 2019 defines this governance objective as ensuring that IT-enabled investments deliver the expected value to stakeholders.",
+    "examDomain": "COBIT Governance and Management Objectives"
   }
 ]
