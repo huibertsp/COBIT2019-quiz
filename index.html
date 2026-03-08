@@ -15,6 +15,7 @@ Version History (timestamp | description):
 2026-01-31 22:41 EST | v1.4 Show optional examDomain along with the answer feedback when present
 2026-02-02 18:15 EST | v1.5 Always show examDomain after an answer, correct or wrong
 2026-02-08 16:23 EST | v1.6 Changed title to COBIT 2019 Foundation; Added examDomain statistics at results
+2026-03-08 12:43 EST | v1.7 Changed the default question set from 40 to 75
 -->
 <head>
   <meta charset="UTF-8" />
@@ -246,7 +247,7 @@ Version History (timestamp | description):
     let score = 0;
     let lastSelectedQuestions = [];
     let questionHistory = {};
-    let sessionQuestionCount = 40;
+    let sessionQuestionCount = 75;
     let domainStats = {};
 
     function shuffle(array) {
@@ -275,7 +276,7 @@ Version History (timestamp | description):
 
     function askSessionQuestionCount(maxAvailable) {
       let count = null;
-      const defaultCount = Math.min(40, maxAvailable);
+      const defaultCount = Math.min(75, maxAvailable);
       while (count === null) {
         const input = prompt(
           `How many questions would you like in this session? (1–${maxAvailable}, default ${defaultCount})`
