@@ -668,8 +668,8 @@
       "Responsible and accountable",
       "Ownership and delegated"
     ],
-    "answer": 0,
-    "explanation": "",
+    "answer": 2,
+    "explanation": "COBIT 2019 enhances the traditional RACI model by distinguishing between ownership and delegated responsibility, clarifying who ultimately owns an objective and who performs the work.",
     "examDomain": "Performance Management"
   },
   {
