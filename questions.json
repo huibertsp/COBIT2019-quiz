@@ -3723,7 +3723,7 @@
       "Responsible and Accountable",
       "Ownership and Delegated"
     ],
-    "answer": 1,
+    "answer": 2,
     "explanation": "COBIT 2019's updated RACI charts focus on two primary levels of involvement—Responsible (performs the work) and Accountable (ultimately answerable)—while Consulted and Informed roles are customized by the enterprise based on its specific needs.",
     "examDomain": "Governance System and Components"
   },
