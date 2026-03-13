@@ -4652,5 +4652,305 @@
     "answer": 0,
     "explanation": "The answer is \"EDM02 – Ensured Benefits Delivery\" because COBIT 2019 defines this governance objective as ensuring that IT-enabled investments deliver the expected value to stakeholders.",
     "examDomain": "COBIT Governance and Management Objectives"
+  },
+  {
+    "id": 371,
+    "question": "Which phase identifies pain points and trigger events that motivate governance improvement?",
+    "options": [
+      "Phase 1 – What are the drivers?",
+      "Phase 3 – Where do we want to be?",
+      "Phase 5 – How do we get there?"
+    ],
+    "answer": 0,
+    "explanation": "The answer is \"Phase 1 – What are the drivers?\" because COBIT 2019 defines this phase as identifying stakeholder needs, pain points and trigger events that justify initiating governance improvements.",
+    "examDomain": "COBIT Implementation"
+  },
+  {
+    "id": 372,
+    "question": "In which phase does the enterprise assess the current state of governance and management?",
+    "options": [
+      "Phase 2 – Where are we now?",
+      "Phase 4 – What needs to be done?",
+      "Phase 6 – Did we get there?"
+    ],
+    "answer": 0,
+    "explanation": "The answer is \"Phase 2 – Where are we now?\" because COBIT 2019 uses this phase to assess the current governance system, including capability levels and existing issues.",
+    "examDomain": "COBIT Implementation"
+  },
+  {
+    "id": 373,
+    "question": "Which phase defines the target capability levels and desired governance state?",
+    "options": [
+      "Phase 3 – Where do we want to be?",
+      "Phase 1 – What are the drivers?",
+      "Phase 5 – How do we get there?"
+    ],
+    "answer": 0,
+    "explanation": "The answer is \"Phase 3 – Where do we want to be?\" because COBIT 2019 defines this phase as setting the target governance capability levels and desired future state.",
+    "examDomain": "COBIT Implementation"
+  },
+  {
+    "id": 374,
+    "question": "In which phase is the implementation roadmap created?",
+    "options": [
+      "Phase 4 – What needs to be done?",
+      "Phase 6 – Did we get there?",
+      "Phase 2 – Where are we now?"
+    ],
+    "answer": 0,
+    "explanation": "The answer is \"Phase 4 – What needs to be done?\" because COBIT 2019 defines this phase as developing the governance improvement roadmap and implementation program.",
+    "examDomain": "COBIT Implementation"
+  },
+  {
+    "id": 375,
+    "question": "Which phase rolls governance improvements into day-to-day operations?",
+    "options": [
+      "Phase 4 – What needs to be done?",
+      "Phase 5 – How do we get there?",
+      "Phase 7 – How do we keep the momentum going?"
+    ],
+    "answer": 1,
+    "explanation": "The answer is \"Phase 5 – How do we get there?\" because COBIT 2019 defines this phase as executing improvement initiatives and integrating them into operational practices.",
+    "examDomain": "COBIT Implementation"
+  },
+  {
+    "id": 376,
+    "question": "Which phase evaluates whether improvements achieved expected results?",
+    "options": [
+      "Phase 3 – Where do we want to be?",
+      "Phase 6 – Did we get there?",
+      "Phase 5 – How do we get there?"
+    ],
+    "answer": 1,
+    "explanation": "The answer is \"Phase 6 – Did we get there?\" because COBIT 2019 defines this phase as measuring performance and verifying whether the expected benefits were achieved.",
+    "examDomain": "COBIT Implementation"
+  },
+  {
+    "id": 377,
+    "question": "Which phase focuses on embedding governance practices into normal business operations?",
+    "options": [
+      "Phase 7 – How do we keep the momentum going?",
+      "Phase 6 – Did we get there?",
+      "Phase 3 – Where do we want to be?"
+    ],
+    "answer": 0,
+    "explanation": "The answer is \"Phase 7 – How do we keep the momentum going?\" because COBIT 2019 defines this phase as sustaining governance practices and ensuring they remain embedded in the enterprise.",
+    "examDomain": "COBIT Implementation"
+  },
+  {
+    "id": 378,
+    "question": "In which phase are drivers such as regulatory pressure or strategic change identified?",
+    "options": [
+      "Phase 1 – What are the drivers?",
+      "Phase 2 – Where are we now?",
+      "Phase 4 – What needs to be done?"
+    ],
+    "answer": 0,
+    "explanation": "The answer is \"Phase 1 – What are the drivers?\" because COBIT 2019 uses this phase to identify drivers such as regulatory requirements, strategy changes and stakeholder needs.",
+    "examDomain": "COBIT Implementation"
+  },
+  {
+    "id": 379,
+    "question": "Which phase performs gap analysis between current and target governance capabilities?",
+    "options": [
+      "Phase 3 – Where do we want to be?",
+      "Phase 1 – What are the drivers?",
+      "Phase 6 – Did we get there?"
+    ],
+    "answer": 0,
+    "explanation": "The answer is \"Phase 3 – Where do we want to be?\" because COBIT 2019 defines this phase as comparing the current state with the target state to identify governance capability gaps.",
+    "examDomain": "COBIT Implementation"
+  },
+  {
+    "id": 380,
+    "question": "Which phase includes planning projects and defining improvement initiatives?",
+    "options": [
+      "Phase 4 – What needs to be done?",
+      "Phase 2 – Where are we now?",
+      "Phase 6 – Did we get there?"
+    ],
+    "answer": 0,
+    "explanation": "The answer is \"Phase 4 – What needs to be done?\" because COBIT 2019 defines this phase as translating improvement opportunities into actionable projects and initiatives.",
+    "examDomain": "COBIT Implementation"
+  },
+  {
+    "id": 381,
+    "question": "Which phase answers the question “Why should governance improvements occur?”",
+    "options": [
+      "Phase 1 – What are the drivers?",
+      "Phase 3 – Where do we want to be?",
+      "Phase 5 – How do we get there?"
+    ],
+    "answer": 0,
+    "explanation": "The answer is \"Phase 1 – What are the drivers?\" because COBIT 2019 defines this phase as identifying the reasons and motivations for governance improvements.",
+    "examDomain": "COBIT Implementation"
+  },
+  {
+    "id": 382,
+    "question": "Which phase determines the desired future state of enterprise governance?",
+    "options": [
+      "Phase 3 – Where do we want to be?",
+      "Phase 2 – Where are we now?",
+      "Phase 7 – How do we keep the momentum going?"
+    ],
+    "answer": 0,
+    "explanation": "The answer is \"Phase 3 – Where do we want to be?\" because COBIT 2019 defines this phase as establishing the target governance capabilities and future state.",
+    "examDomain": "COBIT Implementation"
+  },
+  {
+    "id": 383,
+    "question": "Which phase focuses on program execution and rollout of governance improvements?",
+    "options": [
+      "Phase 5 – How do we get there?",
+      "Phase 4 – What needs to be done?",
+      "Phase 2 – Where are we now?"
+    ],
+    "answer": 0,
+    "explanation": "The answer is \"Phase 5 – How do we get there?\" because COBIT 2019 defines this phase as implementing the improvement program and executing governance initiatives.",
+    "examDomain": "COBIT Implementation"
+  },
+  {
+    "id": 384,
+    "question": "Which phase reviews performance metrics and benefits realization?",
+    "options": [
+      "Phase 6 – Did we get there?",
+      "Phase 3 – Where do we want to be?",
+      "Phase 4 – What needs to be done?"
+    ],
+    "answer": 0,
+    "explanation": "The answer is \"Phase 6 – Did we get there?\" because COBIT 2019 defines this phase as measuring outcomes and determining whether expected benefits have been realized.",
+    "examDomain": "COBIT Implementation"
+  },
+  {
+    "id": 385,
+    "question": "Which phase ensures continuous improvement and sustainability of governance practices?",
+    "options": [
+      "Phase 7 – How do we keep the momentum going?",
+      "Phase 5 – How do we get there?",
+      "Phase 2 – Where are we now?"
+    ],
+    "answer": 0,
+    "explanation": "The answer is \"Phase 7 – How do we keep the momentum going?\" because COBIT 2019 defines this phase as sustaining governance improvements and initiating the next improvement cycle.",
+    "examDomain": "COBIT Implementation"
+  },
+  {
+    "id": 386,
+    "question": "In which phase are current I&T issues analyzed?",
+    "options": [
+      "Phase 2 – Where are we now?",
+      "Phase 1 – What are the drivers?",
+      "Phase 4 – What needs to be done?"
+    ],
+    "answer": 0,
+    "explanation": "The answer is \"Phase 2 – Where are we now?\" because COBIT 2019 defines this phase as assessing the current governance environment and identifying existing I&T issues.",
+    "examDomain": "COBIT Implementation"
+  },
+  {
+    "id": 387,
+    "question": "Which phase creates the improvement program plan?",
+    "options": [
+      "Phase 4 – What needs to be done?",
+      "Phase 6 – Did we get there?",
+      "Phase 1 – What are the drivers?"
+    ],
+    "answer": 0,
+    "explanation": "The answer is \"Phase 4 – What needs to be done?\" because COBIT 2019 defines this phase as developing the improvement program and implementation roadmap.",
+    "examDomain": "COBIT Implementation"
+  },
+  {
+    "id": 388,
+    "question": "Which phase ensures that implemented improvements achieve expected benefits?",
+    "options": [
+      "Phase 6 – Did we get there?",
+      "Phase 3 – Where do we want to be?",
+      "Phase 2 – Where are we now?"
+    ],
+    "answer": 0,
+    "explanation": "The answer is \"Phase 6 – Did we get there?\" because COBIT 2019 defines this phase as evaluating performance and confirming whether governance improvements deliver expected value.",
+    "examDomain": "COBIT Implementation"
+  },
+  {
+    "id": 389,
+    "question": "Which phase answers “Where are we now?”",
+    "options": [
+      "Phase 2 – Where are we now?",
+      "Phase 3 – Where do we want to be?",
+      "Phase 5 – How do we get there?"
+    ],
+    "answer": 0,
+    "explanation": "The answer is \"Phase 2 – Where are we now?\" because COBIT 2019 defines this phase as assessing the current state of the enterprise governance system.",
+    "examDomain": "COBIT Implementation"
+  },
+  {
+    "id": 390,
+    "question": "Which phase determines how the enterprise will move from current state to target state?",
+    "options": [
+      "Phase 4 – What needs to be done?",
+      "Phase 5 – How do we get there?",
+      "Phase 6 – Did we get there?"
+    ],
+    "answer": 0,
+    "explanation": "The answer is \"Phase 4 – What needs to be done?\" because COBIT 2019 defines this phase as identifying solutions and planning the roadmap to move from the current state to the target state.",
+    "examDomain": "COBIT Implementation"
+  },
+  {
+    "id": 391,
+    "question": "Which phase answers “Did we get there?”",
+    "options": [
+      "Phase 6 – Did we get there?",
+      "Phase 4 – What needs to be done?",
+      "Phase 2 – Where are we now?"
+    ],
+    "answer": 0,
+    "explanation": "The answer is \"Phase 6 – Did we get there?\" because COBIT 2019 defines this phase as assessing whether the governance improvements achieved the expected outcomes.",
+    "examDomain": "COBIT Implementation"
+  },
+  {
+    "id": 392,
+    "question": "Which phase identifies stakeholder needs and drivers for change?",
+    "options": [
+      "Phase 1 – What are the drivers?",
+      "Phase 2 – Where are we now?",
+      "Phase 5 – How do we get there?"
+    ],
+    "answer": 0,
+    "explanation": "The answer is \"Phase 1 – What are the drivers?\" because COBIT 2019 defines this phase as identifying stakeholder needs, drivers and motivations for governance improvements.",
+    "examDomain": "COBIT Implementation"
+  },
+  {
+    "id": 393,
+    "question": "Which phase defines the future governance capability targets?",
+    "options": [
+      "Phase 3 – Where do we want to be?",
+      "Phase 7 – How do we keep the momentum going?",
+      "Phase 2 – Where are we now?"
+    ],
+    "answer": 0,
+    "explanation": "The answer is \"Phase 3 – Where do we want to be?\" because COBIT 2019 defines this phase as determining the desired governance capability levels and target state.",
+    "examDomain": "COBIT Implementation"
+  },
+  {
+    "id": 394,
+    "question": "Which phase ensures governance improvements are sustained long-term?",
+    "options": [
+      "Phase 7 – How do we keep the momentum going?",
+      "Phase 6 – Did we get there?",
+      "Phase 5 – How do we get there?"
+    ],
+    "answer": 0,
+    "explanation": "The answer is \"Phase 7 – How do we keep the momentum going?\" because COBIT 2019 defines this phase as sustaining governance improvements and reinforcing continuous improvement practices.",
+    "examDomain": "COBIT Implementation"
+  },
+  {
+    "id": 395,
+    "question": "Which phase implements the governance improvement roadmap?",
+    "options": [
+      "Phase 5 – How do we get there?",
+      "Phase 4 – What needs to be done?",
+      "Phase 2 – Where are we now?"
+    ],
+    "answer": 0,
+    "explanation": "The answer is \"Phase 5 – How do we get there?\" because COBIT 2019 defines this phase as executing the governance improvement roadmap and implementing planned initiatives.",
+    "examDomain": "COBIT Implementation"
   }
 ]
