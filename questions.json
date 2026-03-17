@@ -3527,7 +3527,7 @@
     "question": "Explain principle \u201eDynamic Governance System\u201c",
     "options": [
       "a Governance system for enterprise I&T is built from a number of components that can work together in a holistic way",
-      "Each time one or more of the design factors are changed, the impact of these changes on the EGIT system muct be considered",
+      "Each time one or more of the design factors are changed, the impact of these changes on the EGIT system must be considered",
       "a Governance system should clearly disctinguish between governance and management activities and structures"
     ],
     "answer": 1,
