@@ -3650,8 +3650,8 @@
       "Holistic approach",
       "Risk Profile"
     ],
-    "answer": 2,
-    "explanation": "Risk Profile is one of COBIT 2019's 11 design factors that directly influences how enterprise goals are prioritized, which then cascades to prioritizing relevant governance and management objectives.",
+    "answer": 0,
+    "explanation": "The Balanced Scorecard translates enterprise goals into measurable outcomes, enabling prioritization of management objectives aligned to those goals.",
     "examDomain": "Designing a Tailored Governance System"
   },
   {
